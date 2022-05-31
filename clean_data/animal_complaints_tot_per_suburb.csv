@@ -1,0 +1,601 @@
+animal_type,complaint_type,suburb,total
+cat,Enclosure,Aitkenvale,16
+cat,Enclosure,Alice River,4
+cat,Enclosure,Annandale,20
+cat,Enclosure,Arcadia,1
+cat,Enclosure,Black River,3
+cat,Enclosure,Bohle Plains,12
+cat,Enclosure,Burdell,22
+cat,Enclosure,Bushland Beach,25
+cat,Enclosure,Castle Hill,1
+cat,Enclosure,Cluden,1
+cat,Enclosure,Condon,25
+cat,Enclosure,Cosgrove,1
+cat,Enclosure,Cranbrook,20
+cat,Enclosure,Cungulla,1
+cat,Enclosure,Currajong,2
+cat,Enclosure,Deeragun,16
+cat,Enclosure,Douglas,14
+cat,Enclosure,Garbutt,16
+cat,Enclosure,Gulliver,17
+cat,Enclosure,Heatley,14
+cat,Enclosure,Hermit Park,16
+cat,Enclosure,Hyde Park,1
+cat,Enclosure,Idalia,2
+cat,Enclosure,Jensen,2
+cat,Enclosure,Kelso,46
+cat,Enclosure,Kirwan,117
+cat,Enclosure,Mount Louisa,26
+cat,Enclosure,Mount Low,15
+cat,Enclosure,Mundingburra,2
+cat,Enclosure,Mysterton,2
+cat,Enclosure,Nelly Bay,3
+cat,Enclosure,North Ward,7
+cat,Enclosure,Oonoonba,4
+cat,Enclosure,Picnic Bay,1
+cat,Enclosure,Pimlico,6
+cat,Enclosure,Railway Estate,7
+cat,Enclosure,Rangewood,4
+cat,Enclosure,Rasmussen,28
+cat,Enclosure,Rosslea,5
+cat,Enclosure,Shaw,6
+cat,Enclosure,South Townsville,2
+cat,Enclosure,Thuringowa Central,5
+cat,Enclosure,Townsville City,7
+cat,Enclosure,Unallocated,4
+cat,Enclosure,Vincent,27
+cat,Enclosure,West End,10
+cat,Enclosure,Wulguru,22
+cat,Enclosure,Yabulu,2
+cat,Private Impound,Aitkenvale,412
+cat,Private Impound,Alice River,3
+cat,Private Impound,Alligator Creek,4
+cat,Private Impound,Annandale,46
+cat,Private Impound,Arcadia,2
+cat,Private Impound,Balgal Beach,4
+cat,Private Impound,Belgian Gardens,25
+cat,Private Impound,Black River,4
+cat,Private Impound,Bluewater,4
+cat,Private Impound,Bluewater Park,3
+cat,Private Impound,Bohle,8
+cat,Private Impound,Bohle Plains,20
+cat,Private Impound,Burdell,43
+cat,Private Impound,Bushland Beach,23
+cat,Private Impound,Castle Hill,2
+cat,Private Impound,Cluden,3
+cat,Private Impound,Condon,152
+cat,Private Impound,Cosgrove,2
+cat,Private Impound,Cranbrook,30
+cat,Private Impound,Currajong,114
+cat,Private Impound,Deeragun,166
+cat,Private Impound,Douglas,255
+cat,Private Impound,Garbutt,139
+cat,Private Impound,Gulliver,38
+cat,Private Impound,Gumlow,1
+cat,Private Impound,Heatley,40
+cat,Private Impound,Hermit Park,49
+cat,Private Impound,Horseshoe Bay,3
+cat,Private Impound,Hyde Park,72
+cat,Private Impound,Idalia,39
+cat,Private Impound,Jensen,10
+cat,Private Impound,Julago,1
+cat,Private Impound,Kelso,224
+cat,Private Impound,Kirwan,237
+cat,Private Impound,Mount Louisa,42
+cat,Private Impound,Mount Low,15
+cat,Private Impound,Mount St John,4
+cat,Private Impound,Mundingburra,24
+cat,Private Impound,Mysterton,31
+cat,Private Impound,Nelly Bay,3
+cat,Private Impound,Nome,6
+cat,Private Impound,North Ward,23
+cat,Private Impound,Oonoonba,5
+cat,Private Impound,Pallarenda,3
+cat,Private Impound,Pimlico,10
+cat,Private Impound,Railway Estate,62
+cat,Private Impound,Rasmussen,39
+cat,Private Impound,Roseneath,1
+cat,Private Impound,Rosslea,67
+cat,Private Impound,Rowes Bay,2
+cat,Private Impound,Saunders Beach,1
+cat,Private Impound,Shaw,3
+cat,Private Impound,South Townsville,18
+cat,Private Impound,Stuart,1
+cat,Private Impound,Thuringowa Central,153
+cat,Private Impound,Toomulla,2
+cat,Private Impound,Townsville City,92
+cat,Private Impound,Unallocated,86
+cat,Private Impound,Vincent,32
+cat,Private Impound,West End,31
+cat,Private Impound,Wulguru,112
+cat,Wandering,Aitkenvale,8
+cat,Wandering,Alice River,2
+cat,Wandering,Annandale,2
+cat,Wandering,Belgian Gardens,2
+cat,Wandering,Bluewater,2
+cat,Wandering,Bohle,1
+cat,Wandering,Bohle Plains,1
+cat,Wandering,Burdell,8
+cat,Wandering,Bushland Beach,3
+cat,Wandering,Cluden,1
+cat,Wandering,Condon,5
+cat,Wandering,Cosgrove,1
+cat,Wandering,Cranbrook,4
+cat,Wandering,Currajong,4
+cat,Wandering,Deeragun,5
+cat,Wandering,Douglas,2
+cat,Wandering,Garbutt,12
+cat,Wandering,Heatley,5
+cat,Wandering,Hermit Park,3
+cat,Wandering,Hyde Park,1
+cat,Wandering,Idalia,1
+cat,Wandering,Kelso,8
+cat,Wandering,Kirwan,22
+cat,Wandering,Mount Louisa,2
+cat,Wandering,Mount Low,4
+cat,Wandering,Mount St John,1
+cat,Wandering,Mundingburra,6
+cat,Wandering,Mysterton,1
+cat,Wandering,Nelly Bay,1
+cat,Wandering,North Ward,6
+cat,Wandering,Oonoonba,1
+cat,Wandering,Pallarenda,1
+cat,Wandering,Pimlico,1
+cat,Wandering,Railway Estate,6
+cat,Wandering,Rasmussen,8
+cat,Wandering,Rosslea,1
+cat,Wandering,Rowes Bay,2
+cat,Wandering,Shaw,1
+cat,Wandering,South Townsville,3
+cat,Wandering,Stuart,1
+cat,Wandering,Thuringowa Central,1
+cat,Wandering,Townsville City,2
+cat,Wandering,Unallocated,275
+cat,Wandering,Vincent,3
+cat,Wandering,West End,5
+cat,Wandering,Wulguru,2
+cat,Wandering,Yabulu,1
+dog,Aggressive Animal,Aitkenvale,113
+dog,Aggressive Animal,Alice River,56
+dog,Aggressive Animal,Alligator Creek,38
+dog,Aggressive Animal,Annandale,57
+dog,Aggressive Animal,Arcadia,5
+dog,Aggressive Animal,Balgal Beach,34
+dog,Aggressive Animal,Belgian Gardens,26
+dog,Aggressive Animal,Black River,52
+dog,Aggressive Animal,Bluewater,23
+dog,Aggressive Animal,Bluewater Park,39
+dog,Aggressive Animal,Bohle,5
+dog,Aggressive Animal,Bohle Plains,29
+dog,Aggressive Animal,Brookhill,1
+dog,Aggressive Animal,Burdell,47
+dog,Aggressive Animal,Bushland Beach,133
+dog,Aggressive Animal,Cape Cleveland,1
+dog,Aggressive Animal,Castle Hill,17
+dog,Aggressive Animal,Cluden,13
+dog,Aggressive Animal,Condon,156
+dog,Aggressive Animal,Cosgrove,6
+dog,Aggressive Animal,Cranbrook,146
+dog,Aggressive Animal,Cungulla,8
+dog,Aggressive Animal,Currajong,60
+dog,Aggressive Animal,Deeragun,136
+dog,Aggressive Animal,Douglas,66
+dog,Aggressive Animal,Garbutt,97
+dog,Aggressive Animal,Gulliver,86
+dog,Aggressive Animal,Gumlow,5
+dog,Aggressive Animal,Heatley,91
+dog,Aggressive Animal,Hermit Park,55
+dog,Aggressive Animal,Horseshoe Bay,14
+dog,Aggressive Animal,Hyde Park,38
+dog,Aggressive Animal,Idalia,19
+dog,Aggressive Animal,Jensen,56
+dog,Aggressive Animal,Julago,5
+dog,Aggressive Animal,Kelso,510
+dog,Aggressive Animal,Kirwan,388
+dog,Aggressive Animal,Majors Creek,1
+dog,Aggressive Animal,Mount Louisa,149
+dog,Aggressive Animal,Mount Low,83
+dog,Aggressive Animal,Mount St John,2
+dog,Aggressive Animal,Mt Stuart,1
+dog,Aggressive Animal,Mundingburra,64
+dog,Aggressive Animal,Murray,1
+dog,Aggressive Animal,Mutarnee,1
+dog,Aggressive Animal,Mysterton,9
+dog,Aggressive Animal,Nelly Bay,25
+dog,Aggressive Animal,Nome,15
+dog,Aggressive Animal,North Ward,38
+dog,Aggressive Animal,Oak Valley,13
+dog,Aggressive Animal,Oonoonba,44
+dog,Aggressive Animal,Pallarenda,24
+dog,Aggressive Animal,Paluma,1
+dog,Aggressive Animal,Picnic Bay,9
+dog,Aggressive Animal,Pimlico,49
+dog,Aggressive Animal,Railway Estate,116
+dog,Aggressive Animal,Rangewood,19
+dog,Aggressive Animal,Rasmussen,184
+dog,Aggressive Animal,Rollingstone,1
+dog,Aggressive Animal,Roseneath,5
+dog,Aggressive Animal,Rosslea,19
+dog,Aggressive Animal,Rowes Bay,5
+dog,Aggressive Animal,Saunders Beach,9
+dog,Aggressive Animal,Shaw,6
+dog,Aggressive Animal,South Townsville,49
+dog,Aggressive Animal,Stuart,3
+dog,Aggressive Animal,Thuringowa Central,41
+dog,Aggressive Animal,Toolakea,8
+dog,Aggressive Animal,Toomulla,11
+dog,Aggressive Animal,Town Common,2
+dog,Aggressive Animal,Townsville City,9
+dog,Aggressive Animal,Unallocated,431
+dog,Aggressive Animal,Vincent,121
+dog,Aggressive Animal,West End,81
+dog,Aggressive Animal,West Point,1
+dog,Aggressive Animal,Woodstock,5
+dog,Aggressive Animal,Wulguru,138
+dog,Aggressive Animal,Yabulu,35
+dog,Attack,Aitkenvale,99
+dog,Attack,Alice River,76
+dog,Attack,Alligator Creek,36
+dog,Attack,Annandale,52
+dog,Attack,Arcadia,7
+dog,Attack,Balgal Beach,27
+dog,Attack,Belgian Gardens,24
+dog,Attack,Black River,72
+dog,Attack,Bluewater,30
+dog,Attack,Bluewater Park,25
+dog,Attack,Bohle,9
+dog,Attack,Bohle Plains,30
+dog,Attack,Brookhill,2
+dog,Attack,Burdell,58
+dog,Attack,Bushland Beach,118
+dog,Attack,Cape Cleveland,6
+dog,Attack,Castle Hill,12
+dog,Attack,Cluden,12
+dog,Attack,Condon,145
+dog,Attack,Cosgrove,4
+dog,Attack,Cranbrook,134
+dog,Attack,Cungulla,5
+dog,Attack,Currajong,58
+dog,Attack,Deeragun,117
+dog,Attack,Douglas,46
+dog,Attack,Garbutt,80
+dog,Attack,Gulliver,59
+dog,Attack,Gumlow,4
+dog,Attack,Heatley,76
+dog,Attack,Hermit Park,63
+dog,Attack,Horseshoe Bay,21
+dog,Attack,Hyde Park,26
+dog,Attack,Idalia,20
+dog,Attack,Jensen,45
+dog,Attack,Julago,1
+dog,Attack,Kelso,403
+dog,Attack,Kirwan,347
+dog,Attack,Magnetic Island,1
+dog,Attack,Majors Creek,2
+dog,Attack,Mount Louisa,142
+dog,Attack,Mount Low,98
+dog,Attack,Mount St John,1
+dog,Attack,Mundingburra,59
+dog,Attack,Mysterton,13
+dog,Attack,Nelly Bay,28
+dog,Attack,Nome,34
+dog,Attack,North Ward,31
+dog,Attack,Oak Valley,16
+dog,Attack,Oonoonba,33
+dog,Attack,Pallarenda,17
+dog,Attack,Picnic Bay,11
+dog,Attack,Pimlico,37
+dog,Attack,Pinnacles,4
+dog,Attack,Railway Estate,101
+dog,Attack,Rangewood,20
+dog,Attack,Rasmussen,145
+dog,Attack,Reid River,1
+dog,Attack,Rollingstone,2
+dog,Attack,Roseneath,6
+dog,Attack,Rosslea,8
+dog,Attack,Rowes Bay,5
+dog,Attack,Saunders Beach,14
+dog,Attack,Shaw,10
+dog,Attack,South Townsville,73
+dog,Attack,Stuart,9
+dog,Attack,Thuringowa Central,39
+dog,Attack,Toolakea,7
+dog,Attack,Toomulla,5
+dog,Attack,Town Common,5
+dog,Attack,Townsville City,12
+dog,Attack,Unallocated,179
+dog,Attack,Vincent,93
+dog,Attack,West End,58
+dog,Attack,West Point,1
+dog,Attack,Woodstock,4
+dog,Attack,Wulguru,137
+dog,Attack,Yabulu,26
+dog,Enclosure,Aitkenvale,159
+dog,Enclosure,Alice River,109
+dog,Enclosure,Alligator Creek,47
+dog,Enclosure,Annandale,71
+dog,Enclosure,Arcadia,15
+dog,Enclosure,Balgal Beach,50
+dog,Enclosure,Belgian Gardens,27
+dog,Enclosure,Black River,69
+dog,Enclosure,Bluewater,61
+dog,Enclosure,Bluewater Park,40
+dog,Enclosure,Bohle,2
+dog,Enclosure,Bohle Plains,30
+dog,Enclosure,Burdell,70
+dog,Enclosure,Bushland Beach,158
+dog,Enclosure,Cape Cleveland,2
+dog,Enclosure,Castle Hill,2
+dog,Enclosure,Cluden,27
+dog,Enclosure,Condon,244
+dog,Enclosure,Cosgrove,5
+dog,Enclosure,Cranbrook,221
+dog,Enclosure,Cungulla,15
+dog,Enclosure,Currajong,85
+dog,Enclosure,Deeragun,187
+dog,Enclosure,Douglas,101
+dog,Enclosure,Garbutt,152
+dog,Enclosure,Gulliver,130
+dog,Enclosure,Gumlow,1
+dog,Enclosure,Heatley,184
+dog,Enclosure,Hermit Park,70
+dog,Enclosure,Horseshoe Bay,30
+dog,Enclosure,Hyde Park,42
+dog,Enclosure,Idalia,29
+dog,Enclosure,Jensen,69
+dog,Enclosure,Julago,4
+dog,Enclosure,Kelso,611
+dog,Enclosure,Kirwan,498
+dog,Enclosure,Mount Louisa,240
+dog,Enclosure,Mount Low,121
+dog,Enclosure,Mount St John,1
+dog,Enclosure,Mundingburra,51
+dog,Enclosure,Mysterton,11
+dog,Enclosure,Nelly Bay,54
+dog,Enclosure,Nome,30
+dog,Enclosure,North Ward,42
+dog,Enclosure,Oak Valley,13
+dog,Enclosure,Oonoonba,73
+dog,Enclosure,Pallarenda,22
+dog,Enclosure,Picnic Bay,22
+dog,Enclosure,Pimlico,59
+dog,Enclosure,Pinnacles,1
+dog,Enclosure,Railway Estate,153
+dog,Enclosure,Rangewood,20
+dog,Enclosure,Rasmussen,282
+dog,Enclosure,Reid River,1
+dog,Enclosure,Roseneath,3
+dog,Enclosure,Rosslea,22
+dog,Enclosure,Rowes Bay,4
+dog,Enclosure,Saunders Beach,7
+dog,Enclosure,Shaw,8
+dog,Enclosure,South Townsville,85
+dog,Enclosure,Stuart,17
+dog,Enclosure,Thuringowa Central,48
+dog,Enclosure,Toolakea,14
+dog,Enclosure,Toomulla,15
+dog,Enclosure,Townsville City,9
+dog,Enclosure,Unallocated,49
+dog,Enclosure,Vincent,183
+dog,Enclosure,West End,95
+dog,Enclosure,West Point,5
+dog,Enclosure,Woodstock,8
+dog,Enclosure,Wulguru,221
+dog,Enclosure,Yabulu,66
+dog,Noise,Aitkenvale,209
+dog,Noise,Alice River,96
+dog,Noise,Alligator Creek,28
+dog,Noise,Annandale,254
+dog,Noise,Arcadia,5
+dog,Noise,Balgal Beach,19
+dog,Noise,Belgian Gardens,50
+dog,Noise,Black River,47
+dog,Noise,Bluewater,47
+dog,Noise,Bluewater Park,53
+dog,Noise,Bohle Plains,209
+dog,Noise,Burdell,468
+dog,Noise,Bushland Beach,377
+dog,Noise,Castle Hill,51
+dog,Noise,Cluden,9
+dog,Noise,Condon,303
+dog,Noise,Cosgrove,33
+dog,Noise,Cranbrook,296
+dog,Noise,Cungulla,9
+dog,Noise,Currajong,121
+dog,Noise,Deeragun,322
+dog,Noise,Douglas,298
+dog,Noise,Garbutt,168
+dog,Noise,Gulliver,135
+dog,Noise,Heatley,232
+dog,Noise,Hermit Park,243
+dog,Noise,Hervey Range,5
+dog,Noise,Horseshoe Bay,30
+dog,Noise,Hyde Park,89
+dog,Noise,Idalia,132
+dog,Noise,Jensen,33
+dog,Noise,Kelso,654
+dog,Noise,Kirwan,1070
+dog,Noise,Majors Creek,1
+dog,Noise,Mount Louisa,401
+dog,Noise,Mount Low,380
+dog,Noise,Mundingburra,135
+dog,Noise,Mysterton,45
+dog,Noise,Nelly Bay,62
+dog,Noise,Nome,17
+dog,Noise,North Ward,127
+dog,Noise,Oak Valley,2
+dog,Noise,Oonoonba,114
+dog,Noise,Pallarenda,85
+dog,Noise,Paluma,1
+dog,Noise,Picnic Bay,17
+dog,Noise,Pimlico,144
+dog,Noise,Railway Estate,227
+dog,Noise,Rangewood,18
+dog,Noise,Rasmussen,239
+dog,Noise,Roseneath,1
+dog,Noise,Rosslea,44
+dog,Noise,Rowes Bay,6
+dog,Noise,Saunders Beach,18
+dog,Noise,Shaw,52
+dog,Noise,South Townsville,97
+dog,Noise,Stuart,18
+dog,Noise,Thuringowa Central,116
+dog,Noise,Toolakea,9
+dog,Noise,Toomulla,13
+dog,Noise,Townsville City,18
+dog,Noise,Unallocated,93
+dog,Noise,Vincent,216
+dog,Noise,West End,204
+dog,Noise,Woodstock,5
+dog,Noise,Wulguru,169
+dog,Noise,Yabulu,16
+dog,Private Impound,Aitkenvale,1060
+dog,Private Impound,Alice River,28
+dog,Private Impound,Alligator Creek,10
+dog,Private Impound,Annandale,153
+dog,Private Impound,Arcadia,2
+dog,Private Impound,Balgal Beach,14
+dog,Private Impound,Barringha,1
+dog,Private Impound,Beach Holm,1
+dog,Private Impound,Belgian Gardens,110
+dog,Private Impound,Black River,43
+dog,Private Impound,Bluewater,25
+dog,Private Impound,Bluewater Park,10
+dog,Private Impound,Bohle,9
+dog,Private Impound,Bohle Plains,31
+dog,Private Impound,Brookhill,1
+dog,Private Impound,Burdell,179
+dog,Private Impound,Bushland Beach,149
+dog,Private Impound,Cape Cleveland,2
+dog,Private Impound,Castle Hill,3
+dog,Private Impound,Cluden,17
+dog,Private Impound,Condon,485
+dog,Private Impound,Cosgrove,7
+dog,Private Impound,Cranbrook,181
+dog,Private Impound,Cungulla,5
+dog,Private Impound,Currajong,330
+dog,Private Impound,Deeragun,597
+dog,Private Impound,Douglas,1004
+dog,Private Impound,Garbutt,119
+dog,Private Impound,Gulliver,95
+dog,Private Impound,Gumlow,9
+dog,Private Impound,Heatley,144
+dog,Private Impound,Hermit Park,96
+dog,Private Impound,Hervey Range,4
+dog,Private Impound,Horseshoe Bay,6
+dog,Private Impound,Hyde Park,202
+dog,Private Impound,Idalia,116
+dog,Private Impound,Jensen,37
+dog,Private Impound,Kelso,699
+dog,Private Impound,Kirwan,855
+dog,Private Impound,Majors Creek,1
+dog,Private Impound,Mount Louisa,184
+dog,Private Impound,Mount Low,95
+dog,Private Impound,Mount St John,2
+dog,Private Impound,Mt Stuart,1
+dog,Private Impound,Mundingburra,75
+dog,Private Impound,Murray,3
+dog,Private Impound,Mutarnee,1
+dog,Private Impound,Mysterton,140
+dog,Private Impound,Nelly Bay,12
+dog,Private Impound,Nome,21
+dog,Private Impound,North Ward,71
+dog,Private Impound,Oak Valley,10
+dog,Private Impound,Oonoonba,38
+dog,Private Impound,Pallarenda,6
+dog,Private Impound,Picnic Bay,6
+dog,Private Impound,Pimlico,67
+dog,Private Impound,Pinnacles,4
+dog,Private Impound,Railway Estate,242
+dog,Private Impound,Rangewood,15
+dog,Private Impound,Rasmussen,230
+dog,Private Impound,Rollingstone,1
+dog,Private Impound,Roseneath,11
+dog,Private Impound,Rosslea,99
+dog,Private Impound,Rowes Bay,5
+dog,Private Impound,Saunders Beach,5
+dog,Private Impound,Shaw,12
+dog,Private Impound,South Townsville,43
+dog,Private Impound,Stuart,21
+dog,Private Impound,Thuringowa Central,509
+dog,Private Impound,Toolakea,7
+dog,Private Impound,Toomulla,2
+dog,Private Impound,Townsville City,38
+dog,Private Impound,Unallocated,357
+dog,Private Impound,Vincent,93
+dog,Private Impound,West End,85
+dog,Private Impound,Woodstock,4
+dog,Private Impound,Wulguru,264
+dog,Private Impound,Yabulu,27
+dog,Wandering,Aitkenvale,71
+dog,Wandering,Alice River,18
+dog,Wandering,Alligator Creek,4
+dog,Wandering,Annandale,42
+dog,Wandering,Arcadia,8
+dog,Wandering,Balgal Beach,12
+dog,Wandering,Belgian Gardens,15
+dog,Wandering,Black River,22
+dog,Wandering,Bluewater,11
+dog,Wandering,Bluewater Park,4
+dog,Wandering,Bohle,4
+dog,Wandering,Bohle Plains,18
+dog,Wandering,Brookhill,1
+dog,Wandering,Burdell,38
+dog,Wandering,Bushland Beach,58
+dog,Wandering,Castle Hill,12
+dog,Wandering,Cluden,8
+dog,Wandering,Condon,99
+dog,Wandering,Cosgrove,4
+dog,Wandering,Cranbrook,77
+dog,Wandering,Cungulla,3
+dog,Wandering,Currajong,37
+dog,Wandering,Deeragun,55
+dog,Wandering,Douglas,51
+dog,Wandering,Garbutt,52
+dog,Wandering,Gulliver,39
+dog,Wandering,Heatley,80
+dog,Wandering,Hermit Park,42
+dog,Wandering,Horseshoe Bay,12
+dog,Wandering,Hyde Park,13
+dog,Wandering,Idalia,22
+dog,Wandering,Jensen,9
+dog,Wandering,Kelso,141
+dog,Wandering,Kirwan,179
+dog,Wandering,Mount Louisa,87
+dog,Wandering,Mount Low,28
+dog,Wandering,Mount St John,1
+dog,Wandering,Mt Elliot,1
+dog,Wandering,Mundingburra,48
+dog,Wandering,Murray,1
+dog,Wandering,Mysterton,6
+dog,Wandering,Nelly Bay,22
+dog,Wandering,Nome,11
+dog,Wandering,North Ward,42
+dog,Wandering,Oak Valley,7
+dog,Wandering,Oonoonba,24
+dog,Wandering,Pallarenda,16
+dog,Wandering,Picnic Bay,2
+dog,Wandering,Pimlico,12
+dog,Wandering,Railway Estate,51
+dog,Wandering,Rangewood,2
+dog,Wandering,Rasmussen,94
+dog,Wandering,Reid River,1
+dog,Wandering,Rollingstone,4
+dog,Wandering,Roseneath,4
+dog,Wandering,Rosslea,6
+dog,Wandering,Rowes Bay,5
+dog,Wandering,Saunders Beach,5
+dog,Wandering,Shaw,13
+dog,Wandering,South Townsville,24
+dog,Wandering,Stuart,12
+dog,Wandering,Thuringowa Central,55
+dog,Wandering,Toolakea,3
+dog,Wandering,Toomulla,1
+dog,Wandering,Town Common,2
+dog,Wandering,Townsville City,24
+dog,Wandering,Unallocated,3460
+dog,Wandering,Vincent,54
+dog,Wandering,West End,36
+dog,Wandering,Woodstock,3
+dog,Wandering,Wulguru,63
+dog,Wandering,Yabulu,10
