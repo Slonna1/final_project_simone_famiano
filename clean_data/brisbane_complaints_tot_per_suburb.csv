@@ -1,0 +1,3572 @@
+animal_type,category,suburb,total
+Attack,Attack On A Person,ACACIA RIDGE,39
+Attack,Attack On A Person,ALBION,1
+Attack,Attack On A Person,ALDERLEY,13
+Attack,Attack On A Person,ALGESTER,13
+Attack,Attack On A Person,ANNERLEY,11
+Attack,Attack On A Person,ANSTEAD,7
+Attack,Attack On A Person,ARCHERFIELD,2
+Attack,Attack On A Person,ASCOT,7
+Attack,Attack On A Person,ASHGROVE,27
+Attack,Attack On A Person,ASPLEY,34
+Attack,Attack On A Person,AUCHENFLOWER,5
+Attack,Attack On A Person,BALD HILLS,18
+Attack,Attack On A Person,BALMORAL,10
+Attack,Attack On A Person,BANYO,30
+Attack,Attack On A Person,BARDON,15
+Attack,Attack On A Person,BELLBOWRIE,10
+Attack,Attack On A Person,BELMONT,10
+Attack,Attack On A Person,BOONDALL,19
+Attack,Attack On A Person,BRACKEN RIDGE,46
+Attack,Attack On A Person,BRIDGEMAN DOWNS,11
+Attack,Attack On A Person,BRIGHTON,35
+Attack,Attack On A Person,BRISBANE CITY,4
+Attack,Attack On A Person,BROOKFIELD,7
+Attack,Attack On A Person,BULIMBA,6
+Attack,Attack On A Person,BURBANK,5
+Attack,Attack On A Person,CALAMVALE,18
+Attack,Attack On A Person,CAMP HILL,23
+Attack,Attack On A Person,CANNON HILL,11
+Attack,Attack On A Person,CARINA,14
+Attack,Attack On A Person,CARINA HEIGHTS,14
+Attack,Attack On A Person,CARINDALE,21
+Attack,Attack On A Person,CARSELDINE,14
+Attack,Attack On A Person,CHANDLER,4
+Attack,Attack On A Person,CHAPEL HILL,12
+Attack,Attack On A Person,CHELMER,11
+Attack,Attack On A Person,CHERMSIDE,19
+Attack,Attack On A Person,CHERMSIDE WEST,16
+Attack,Attack On A Person,CLAYFIELD,14
+Attack,Attack On A Person,COOPERS PLAINS,16
+Attack,Attack On A Person,COORPAROO,26
+Attack,Attack On A Person,CORINDA,5
+Attack,Attack On A Person,DARRA,14
+Attack,Attack On A Person,DEAGON,15
+Attack,Attack On A Person,DOOLANDELLA,6
+Attack,Attack On A Person,DREWVALE,4
+Attack,Attack On A Person,DURACK,19
+Attack,Attack On A Person,DUTTON PARK,4
+Attack,Attack On A Person,EAST BRISBANE,9
+Attack,Attack On A Person,EIGHT MILE PLAINS,9
+Attack,Attack On A Person,ELLEN GROVE,36
+Attack,Attack On A Person,ENOGGERA,12
+Attack,Attack On A Person,EVERTON PARK,18
+Attack,Attack On A Person,FAIRFIELD,6
+Attack,Attack On A Person,FERNY GROVE,14
+Attack,Attack On A Person,FIG TREE POCKET,8
+Attack,Attack On A Person,FITZGIBBON,6
+Attack,Attack On A Person,FOREST LAKE,40
+Attack,Attack On A Person,FORTITUDE VALLEY,5
+Attack,Attack On A Person,GAYTHORNE,4
+Attack,Attack On A Person,GEEBUNG,17
+Attack,Attack On A Person,GORDON PARK,10
+Attack,Attack On A Person,GRACEVILLE,7
+Attack,Attack On A Person,GRANGE,8
+Attack,Attack On A Person,GREENSLOPES,22
+Attack,Attack On A Person,GUMDALE,6
+Attack,Attack On A Person,HAMILTON,14
+Attack,Attack On A Person,HAWTHORNE,10
+Attack,Attack On A Person,HEATHWOOD,7
+Attack,Attack On A Person,HEMMANT,6
+Attack,Attack On A Person,HENDRA,5
+Attack,Attack On A Person,HERSTON,2
+Attack,Attack On A Person,HIGHGATE HILL,8
+Attack,Attack On A Person,HOLLAND PARK,20
+Attack,Attack On A Person,HOLLAND PARK WEST,11
+Attack,Attack On A Person,INALA,101
+Attack,Attack On A Person,INDOOROOPILLY,7
+Attack,Attack On A Person,JAMBOREE HEIGHTS,6
+Attack,Attack On A Person,JINDALEE,6
+Attack,Attack On A Person,KALINGA,6
+Attack,Attack On A Person,KANGAROO POINT,6
+Attack,Attack On A Person,KARANA DOWNS,8
+Attack,Attack On A Person,KARAWATHA,4
+Attack,Attack On A Person,KEDRON,25
+Attack,Attack On A Person,KELVIN GROVE,7
+Attack,Attack On A Person,KENMORE,11
+Attack,Attack On A Person,KENMORE HILLS,4
+Attack,Attack On A Person,KEPERRA,25
+Attack,Attack On A Person,KHOLO,1
+Attack,Attack On A Person,KURABY,6
+Attack,Attack On A Person,LOTA,11
+Attack,Attack On A Person,LUTWYCHE,1
+Attack,Attack On A Person,MACGREGOR,11
+Attack,Attack On A Person,MACKENZIE,4
+Attack,Attack On A Person,MANLY,5
+Attack,Attack On A Person,MANLY WEST,24
+Attack,Attack On A Person,MANSFIELD,18
+Attack,Attack On A Person,MCDOWALL,11
+Attack,Attack On A Person,MIDDLE PARK,3
+Attack,Attack On A Person,MILTON,5
+Attack,Attack On A Person,MITCHELTON,18
+Attack,Attack On A Person,MOGGILL,13
+Attack,Attack On A Person,MOOROOKA,47
+Attack,Attack On A Person,MORNINGSIDE,20
+Attack,Attack On A Person,MOUNT COOT-THA,4
+Attack,Attack On A Person,MOUNT CROSBY,3
+Attack,Attack On A Person,MOUNT GRAVATT,9
+Attack,Attack On A Person,MOUNT GRAVATT EAST,25
+Attack,Attack On A Person,MOUNT OMMANEY,3
+Attack,Attack On A Person,MURARRIE,13
+Attack,Attack On A Person,"NATHAN",4
+Attack,Attack On A Person,NEW FARM,15
+Attack,Attack On A Person,NEWMARKET,13
+Attack,Attack On A Person,NEWSTEAD,5
+Attack,Attack On A Person,NORMAN PARK,11
+Attack,Attack On A Person,NORTHGATE,11
+Attack,Attack On A Person,NUDGEE,7
+Attack,Attack On A Person,NUDGEE BEACH,11
+Attack,Attack On A Person,NUNDAH,19
+Attack,Attack On A Person,OXLEY,16
+Attack,Attack On A Person,PADDINGTON,15
+Attack,Attack On A Person,PALLARA,10
+Attack,Attack On A Person,PARKINSON,11
+Attack,Attack On A Person,PINJARRA HILLS,1
+Attack,Attack On A Person,PINKENBA,2
+Attack,Attack On A Person,PORT OF BRISBANE,1
+Attack,Attack On A Person,PULLENVALE,7
+Attack,Attack On A Person,RANSOME,1
+Attack,Attack On A Person,RED HILL,7
+Attack,Attack On A Person,RICHLANDS,3
+Attack,Attack On A Person,RIVERHILLS,11
+Attack,Attack On A Person,ROBERTSON,8
+Attack,Attack On A Person,ROCHEDALE,8
+Attack,Attack On A Person,ROCKLEA,11
+Attack,Attack On A Person,RUNCORN,13
+Attack,Attack On A Person,SALISBURY,20
+Attack,Attack On A Person,SANDGATE,16
+Attack,Attack On A Person,SEVEN HILLS,8
+Attack,Attack On A Person,SEVENTEEN MILE ROCKS,7
+Attack,Attack On A Person,SHERWOOD,6
+Attack,Attack On A Person,SHORNCLIFFE,4
+Attack,Attack On A Person,SINNAMON PARK,8
+Attack,Attack On A Person,SOUTH BRISBANE,4
+Attack,Attack On A Person,SPRING HILL,4
+Attack,Attack On A Person,ST LUCIA,5
+Attack,Attack On A Person,STAFFORD,25
+Attack,Attack On A Person,STAFFORD HEIGHTS,25
+Attack,Attack On A Person,STONES CORNER,3
+Attack,Attack On A Person,STRETTON,7
+Attack,Attack On A Person,SUNNYBANK,19
+Attack,Attack On A Person,SUNNYBANK HILLS,30
+Attack,Attack On A Person,TAIGUM,5
+Attack,Attack On A Person,TARINGA,11
+Attack,Attack On A Person,TARRAGINDI,40
+Attack,Attack On A Person,TENERIFFE,5
+Attack,Attack On A Person,TENNYSON,1
+Attack,Attack On A Person,THE GAP,21
+Attack,Attack On A Person,TINGALPA,13
+Attack,Attack On A Person,TOOWONG,12
+Attack,Attack On A Person,UPPER BROOKFIELD,3
+Attack,Attack On A Person,UPPER KEDRON,6
+Attack,Attack On A Person,UPPER MOUNT GRAVATT,16
+Attack,Attack On A Person,VIRGINIA,6
+Attack,Attack On A Person,WACOL,4
+Attack,Attack On A Person,WAKERLEY,5
+Attack,Attack On A Person,WAVELL HEIGHTS,25
+Attack,Attack On A Person,WEST END,11
+Attack,Attack On A Person,WESTLAKE,5
+Attack,Attack On A Person,WILSTON,5
+Attack,Attack On A Person,WINDSOR,11
+Attack,Attack On A Person,WISHART,16
+Attack,Attack On A Person,WOOLLOONGABBA,6
+Attack,Attack On A Person,WOOLOOWIN,2
+Attack,Attack On A Person,WYNNUM,39
+Attack,Attack On A Person,WYNNUM WEST,22
+Attack,Attack On A Person,YERONGA,11
+Attack,Attack On A Person,ZILLMERE,32
+Attack,Attack On An Animal,ACACIA RIDGE,31
+Attack,Attack On An Animal,ALBION,5
+Attack,Attack On An Animal,ALDERLEY,18
+Attack,Attack On An Animal,ALGESTER,16
+Attack,Attack On An Animal,ANNERLEY,20
+Attack,Attack On An Animal,ANSTEAD,8
+Attack,Attack On An Animal,ARCHERFIELD,2
+Attack,Attack On An Animal,ASCOT,11
+Attack,Attack On An Animal,ASHGROVE,39
+Attack,Attack On An Animal,ASPLEY,29
+Attack,Attack On An Animal,AUCHENFLOWER,7
+Attack,Attack On An Animal,BALD HILLS,28
+Attack,Attack On An Animal,BALMORAL,9
+Attack,Attack On An Animal,BANYO,38
+Attack,Attack On An Animal,BARDON,30
+Attack,Attack On An Animal,BELLBOWRIE,18
+Attack,Attack On An Animal,BELMONT,7
+Attack,Attack On An Animal,BOONDALL,45
+Attack,Attack On An Animal,BRACKEN RIDGE,76
+Attack,Attack On An Animal,BRIDGEMAN DOWNS,18
+Attack,Attack On An Animal,BRIGHTON,45
+Attack,Attack On An Animal,BRISBANE CITY,2
+Attack,Attack On An Animal,BROOKFIELD,12
+Attack,Attack On An Animal,BULIMBA,18
+Attack,Attack On An Animal,BULWER,1
+Attack,Attack On An Animal,BURBANK,6
+Attack,Attack On An Animal,CALAMVALE,27
+Attack,Attack On An Animal,CAMP HILL,33
+Attack,Attack On An Animal,CANNON HILL,15
+Attack,Attack On An Animal,CARINA,37
+Attack,Attack On An Animal,CARINA HEIGHTS,12
+Attack,Attack On An Animal,CARINDALE,21
+Attack,Attack On An Animal,CARSELDINE,19
+Attack,Attack On An Animal,CHANDLER,10
+Attack,Attack On An Animal,CHAPEL HILL,18
+Attack,Attack On An Animal,CHELMER,5
+Attack,Attack On An Animal,CHERMSIDE,21
+Attack,Attack On An Animal,CHERMSIDE WEST,37
+Attack,Attack On An Animal,CHUWAR,2
+Attack,Attack On An Animal,CLAYFIELD,11
+Attack,Attack On An Animal,COOPERS PLAINS,8
+Attack,Attack On An Animal,COORPAROO,38
+Attack,Attack On An Animal,CORINDA,11
+Attack,Attack On An Animal,DARRA,24
+Attack,Attack On An Animal,DEAGON,24
+Attack,Attack On An Animal,DOOLANDELLA,9
+Attack,Attack On An Animal,DREWVALE,4
+Attack,Attack On An Animal,DURACK,20
+Attack,Attack On An Animal,DUTTON PARK,10
+Attack,Attack On An Animal,EAST BRISBANE,12
+Attack,Attack On An Animal,EIGHT MILE PLAINS,11
+Attack,Attack On An Animal,ELLEN GROVE,17
+Attack,Attack On An Animal,ENOGGERA,12
+Attack,Attack On An Animal,EVERTON PARK,43
+Attack,Attack On An Animal,FAIRFIELD,13
+Attack,Attack On An Animal,FERNY GROVE,14
+Attack,Attack On An Animal,FIG TREE POCKET,12
+Attack,Attack On An Animal,FITZGIBBON,22
+Attack,Attack On An Animal,FOREST LAKE,69
+Attack,Attack On An Animal,GAYTHORNE,5
+Attack,Attack On An Animal,GEEBUNG,11
+Attack,Attack On An Animal,GORDON PARK,22
+Attack,Attack On An Animal,GRACEVILLE,25
+Attack,Attack On An Animal,GRANGE,12
+Attack,Attack On An Animal,GREENSLOPES,24
+Attack,Attack On An Animal,GUMDALE,8
+Attack,Attack On An Animal,HAMILTON,14
+Attack,Attack On An Animal,HAWTHORNE,14
+Attack,Attack On An Animal,HEATHWOOD,3
+Attack,Attack On An Animal,HEMMANT,16
+Attack,Attack On An Animal,HENDRA,13
+Attack,Attack On An Animal,HERSTON,5
+Attack,Attack On An Animal,HIGHGATE HILL,6
+Attack,Attack On An Animal,HOLLAND PARK,36
+Attack,Attack On An Animal,HOLLAND PARK WEST,14
+Attack,Attack On An Animal,INALA,67
+Attack,Attack On An Animal,INDOOROOPILLY,23
+Attack,Attack On An Animal,JAMBOREE HEIGHTS,8
+Attack,Attack On An Animal,JINDALEE,10
+Attack,Attack On An Animal,KALINGA,11
+Attack,Attack On An Animal,KANGAROO POINT,4
+Attack,Attack On An Animal,KARANA DOWNS,14
+Attack,Attack On An Animal,KARAWATHA,3
+Attack,Attack On An Animal,KEDRON,21
+Attack,Attack On An Animal,KELVIN GROVE,6
+Attack,Attack On An Animal,KENMORE,25
+Attack,Attack On An Animal,KENMORE HILLS,1
+Attack,Attack On An Animal,KEPERRA,31
+Attack,Attack On An Animal,KHOLO,4
+Attack,Attack On An Animal,KURABY,9
+Attack,Attack On An Animal,LOTA,10
+Attack,Attack On An Animal,LUTWYCHE,4
+Attack,Attack On An Animal,LYTTON,1
+Attack,Attack On An Animal,MACGREGOR,13
+Attack,Attack On An Animal,MACKENZIE,3
+Attack,Attack On An Animal,MANLY,20
+Attack,Attack On An Animal,MANLY WEST,37
+Attack,Attack On An Animal,MANSFIELD,18
+Attack,Attack On An Animal,MCDOWALL,10
+Attack,Attack On An Animal,MIDDLE PARK,6
+Attack,Attack On An Animal,MILTON,6
+Attack,Attack On An Animal,MITCHELTON,26
+Attack,Attack On An Animal,MOGGILL,19
+Attack,Attack On An Animal,MOOROOKA,33
+Attack,Attack On An Animal,MORNINGSIDE,32
+Attack,Attack On An Animal,MOUNT COOT-THA,5
+Attack,Attack On An Animal,MOUNT CROSBY,10
+Attack,Attack On An Animal,MOUNT GRAVATT,10
+Attack,Attack On An Animal,MOUNT GRAVATT EAST,24
+Attack,Attack On An Animal,MOUNT OMMANEY,2
+Attack,Attack On An Animal,MURARRIE,23
+Attack,Attack On An Animal,"NATHAN",3
+Attack,Attack On An Animal,NEW FARM,21
+Attack,Attack On An Animal,NEWMARKET,7
+Attack,Attack On An Animal,NEWSTEAD,10
+Attack,Attack On An Animal,NORMAN PARK,16
+Attack,Attack On An Animal,NORTHGATE,18
+Attack,Attack On An Animal,NUDGEE,25
+Attack,Attack On An Animal,NUDGEE BEACH,16
+Attack,Attack On An Animal,NUNDAH,32
+Attack,Attack On An Animal,OXLEY,31
+Attack,Attack On An Animal,PADDINGTON,16
+Attack,Attack On An Animal,PALLARA,9
+Attack,Attack On An Animal,PARKINSON,14
+Attack,Attack On An Animal,PETRIE TERRACE,1
+Attack,Attack On An Animal,PINJARRA HILLS,3
+Attack,Attack On An Animal,PINKENBA,3
+Attack,Attack On An Animal,PULLENVALE,20
+Attack,Attack On An Animal,RANSOME,2
+Attack,Attack On An Animal,RED HILL,17
+Attack,Attack On An Animal,RICHLANDS,6
+Attack,Attack On An Animal,RIVERHILLS,11
+Attack,Attack On An Animal,ROBERTSON,7
+Attack,Attack On An Animal,ROCHEDALE,16
+Attack,Attack On An Animal,ROCKLEA,9
+Attack,Attack On An Animal,RUNCORN,36
+Attack,Attack On An Animal,SALISBURY,27
+Attack,Attack On An Animal,SANDGATE,28
+Attack,Attack On An Animal,SEVEN HILLS,9
+Attack,Attack On An Animal,SEVENTEEN MILE ROCKS,11
+Attack,Attack On An Animal,SHERWOOD,9
+Attack,Attack On An Animal,SHORNCLIFFE,11
+Attack,Attack On An Animal,SINNAMON PARK,10
+Attack,Attack On An Animal,SOUTH BRISBANE,8
+Attack,Attack On An Animal,SPRING HILL,5
+Attack,Attack On An Animal,ST LUCIA,6
+Attack,Attack On An Animal,STAFFORD,35
+Attack,Attack On An Animal,STAFFORD HEIGHTS,31
+Attack,Attack On An Animal,STONES CORNER,5
+Attack,Attack On An Animal,STRETTON,6
+Attack,Attack On An Animal,SUMNER,1
+Attack,Attack On An Animal,SUNNYBANK,16
+Attack,Attack On An Animal,SUNNYBANK HILLS,28
+Attack,Attack On An Animal,TAIGUM,7
+Attack,Attack On An Animal,TARINGA,9
+Attack,Attack On An Animal,TARRAGINDI,32
+Attack,Attack On An Animal,TENERIFFE,2
+Attack,Attack On An Animal,THE GAP,52
+Attack,Attack On An Animal,TINGALPA,30
+Attack,Attack On An Animal,TOOWONG,9
+Attack,Attack On An Animal,UPPER BROOKFIELD,6
+Attack,Attack On An Animal,UPPER KEDRON,18
+Attack,Attack On An Animal,UPPER MOUNT GRAVATT,28
+Attack,Attack On An Animal,VIRGINIA,5
+Attack,Attack On An Animal,WACOL,7
+Attack,Attack On An Animal,WAKERLEY,24
+Attack,Attack On An Animal,WAVELL HEIGHTS,39
+Attack,Attack On An Animal,WEST END,17
+Attack,Attack On An Animal,WESTLAKE,7
+Attack,Attack On An Animal,WILLAWONG,2
+Attack,Attack On An Animal,WILSTON,12
+Attack,Attack On An Animal,WINDSOR,10
+Attack,Attack On An Animal,WISHART,12
+Attack,Attack On An Animal,WOOLLOONGABBA,4
+Attack,Attack On An Animal,WOOLOOWIN,9
+Attack,Attack On An Animal,WYNNUM,55
+Attack,Attack On An Animal,WYNNUM WEST,30
+Attack,Attack On An Animal,YEERONGPILLY,2
+Attack,Attack On An Animal,YERONGA,17
+Attack,Attack On An Animal,ZILLMERE,42
+Attack,Dangerous,ACACIA RIDGE,1
+Attack,Dangerous,ASPLEY,2
+Attack,Dangerous,BANYO,3
+Attack,Dangerous,BELLBOWRIE,2
+Attack,Dangerous,BRIDGEMAN DOWNS,1
+Attack,Dangerous,CARINA,1
+Attack,Dangerous,CARSELDINE,2
+Attack,Dangerous,CHELMER,1
+Attack,Dangerous,CHERMSIDE,1
+Attack,Dangerous,COORPAROO,1
+Attack,Dangerous,DARRA,2
+Attack,Dangerous,EVERTON PARK,1
+Attack,Dangerous,GRACEVILLE,1
+Attack,Dangerous,GRANGE,1
+Attack,Dangerous,GREENSLOPES,1
+Attack,Dangerous,GUMDALE,2
+Attack,Dangerous,HEMMANT,1
+Attack,Dangerous,INALA,2
+Attack,Dangerous,JAMBOREE HEIGHTS,4
+Attack,Dangerous,KARANA DOWNS,1
+Attack,Dangerous,LOTA,1
+Attack,Dangerous,LUTWYCHE,1
+Attack,Dangerous,MITCHELTON,1
+Attack,Dangerous,MORNINGSIDE,1
+Attack,Dangerous,MOUNT CROSBY,1
+Attack,Dangerous,OXLEY,1
+Attack,Dangerous,RIVERHILLS,2
+Attack,Dangerous,ROCKLEA,1
+Attack,Dangerous,RUNCORN,1
+Attack,Dangerous,SALISBURY,3
+Attack,Dangerous,SANDGATE,1
+Attack,Dangerous,STAFFORD HEIGHTS,4
+Attack,Dangerous,STRETTON,1
+Attack,Dangerous,TARRAGINDI,1
+Attack,Dangerous,THE GAP,1
+Attack,Dangerous,TOOWONG,1
+Attack,Dangerous,UPPER MOUNT GRAVATT,1
+Attack,Dangerous,VIRGINIA,1
+Attack,Dangerous,NA,1
+Attack,Fencing Issues,BRACKEN RIDGE,1
+Attack,Fencing Issues,DOOLANDELLA,1
+Attack,Fencing Issues,KENMORE HILLS,1
+Attack,Fox,ACACIA RIDGE,16
+Attack,Fox,ALBION,1
+Attack,Fox,ALDERLEY,10
+Attack,Fox,ALGESTER,5
+Attack,Fox,ANNERLEY,9
+Attack,Fox,ANSTEAD,4
+Attack,Fox,ASCOT,2
+Attack,Fox,ASHGROVE,16
+Attack,Fox,ASPLEY,5
+Attack,Fox,AUCHENFLOWER,1
+Attack,Fox,BALD HILLS,13
+Attack,Fox,BALMORAL,4
+Attack,Fox,BANYO,7
+Attack,Fox,BARDON,8
+Attack,Fox,BELLBOWRIE,8
+Attack,Fox,BELMONT,1
+Attack,Fox,BOONDALL,5
+Attack,Fox,BOWEN HILLS,1
+Attack,Fox,BRACKEN RIDGE,18
+Attack,Fox,BRIDGEMAN DOWNS,5
+Attack,Fox,BRIGHTON,7
+Attack,Fox,BRISBANE CITY,2
+Attack,Fox,BROOKFIELD,4
+Attack,Fox,BULIMBA,6
+Attack,Fox,BURBANK,1
+Attack,Fox,CALAMVALE,16
+Attack,Fox,CAMP HILL,11
+Attack,Fox,CANNON HILL,2
+Attack,Fox,CARINA,11
+Attack,Fox,CARINA HEIGHTS,8
+Attack,Fox,CARINDALE,6
+Attack,Fox,CARSELDINE,7
+Attack,Fox,CHANDLER,1
+Attack,Fox,CHAPEL HILL,10
+Attack,Fox,CHELMER,2
+Attack,Fox,CHERMSIDE,4
+Attack,Fox,CHERMSIDE WEST,8
+Attack,Fox,CHUWAR,1
+Attack,Fox,CLAYFIELD,3
+Attack,Fox,COOPERS PLAINS,10
+Attack,Fox,COORPAROO,5
+Attack,Fox,CORINDA,4
+Attack,Fox,DARRA,12
+Attack,Fox,DEAGON,5
+Attack,Fox,DOOLANDELLA,4
+Attack,Fox,DREWVALE,2
+Attack,Fox,DURACK,10
+Attack,Fox,DUTTON PARK,3
+Attack,Fox,EAST BRISBANE,12
+Attack,Fox,EIGHT MILE PLAINS,10
+Attack,Fox,ELLEN GROVE,12
+Attack,Fox,ENOGGERA,8
+Attack,Fox,EVERTON PARK,14
+Attack,Fox,FERNY GROVE,5
+Attack,Fox,FIG TREE POCKET,9
+Attack,Fox,FITZGIBBON,6
+Attack,Fox,FOREST LAKE,16
+Attack,Fox,FORTITUDE VALLEY,2
+Attack,Fox,GAYTHORNE,2
+Attack,Fox,GEEBUNG,8
+Attack,Fox,GORDON PARK,4
+Attack,Fox,GRACEVILLE,6
+Attack,Fox,GRANGE,2
+Attack,Fox,GREENSLOPES,4
+Attack,Fox,GUMDALE,2
+Attack,Fox,HAMILTON,3
+Attack,Fox,HAWTHORNE,4
+Attack,Fox,HEATHWOOD,5
+Attack,Fox,HEMMANT,5
+Attack,Fox,HENDRA,1
+Attack,Fox,HERSTON,2
+Attack,Fox,HIGHGATE HILL,4
+Attack,Fox,HOLLAND PARK,8
+Attack,Fox,HOLLAND PARK WEST,3
+Attack,Fox,INALA,35
+Attack,Fox,INDOOROOPILLY,6
+Attack,Fox,JAMBOREE HEIGHTS,5
+Attack,Fox,JINDALEE,4
+Attack,Fox,KALINGA,1
+Attack,Fox,KANGAROO POINT,2
+Attack,Fox,KARANA DOWNS,6
+Attack,Fox,KARAWATHA,1
+Attack,Fox,KEDRON,4
+Attack,Fox,KELVIN GROVE,5
+Attack,Fox,KENMORE,10
+Attack,Fox,KENMORE HILLS,1
+Attack,Fox,KEPERRA,13
+Attack,Fox,KHOLO,1
+Attack,Fox,KURABY,4
+Attack,Fox,LOTA,7
+Attack,Fox,LUTWYCHE,3
+Attack,Fox,MACGREGOR,3
+Attack,Fox,MANLY,3
+Attack,Fox,MANLY WEST,15
+Attack,Fox,MANSFIELD,6
+Attack,Fox,MIDDLE PARK,5
+Attack,Fox,MILTON,6
+Attack,Fox,MITCHELTON,9
+Attack,Fox,MOGGILL,4
+Attack,Fox,MOOROOKA,13
+Attack,Fox,MORNINGSIDE,11
+Attack,Fox,MOUNT CROSBY,4
+Attack,Fox,MOUNT GRAVATT,1
+Attack,Fox,MOUNT GRAVATT EAST,5
+Attack,Fox,MOUNT OMMANEY,3
+Attack,Fox,MURARRIE,7
+Attack,Fox,"NATHAN",1
+Attack,Fox,NEW FARM,10
+Attack,Fox,NEWMARKET,4
+Attack,Fox,NEWSTEAD,1
+Attack,Fox,NORMAN PARK,7
+Attack,Fox,NORTHGATE,6
+Attack,Fox,NUDGEE,1
+Attack,Fox,NUDGEE BEACH,4
+Attack,Fox,NUNDAH,6
+Attack,Fox,OXLEY,7
+Attack,Fox,PADDINGTON,5
+Attack,Fox,PALLARA,3
+Attack,Fox,PARKINSON,3
+Attack,Fox,PINJARRA HILLS,4
+Attack,Fox,PINKENBA,4
+Attack,Fox,PULLENVALE,6
+Attack,Fox,RANSOME,1
+Attack,Fox,RICHLANDS,3
+Attack,Fox,RIVERHILLS,8
+Attack,Fox,ROBERTSON,3
+Attack,Fox,ROCHEDALE,7
+Attack,Fox,ROCKLEA,2
+Attack,Fox,RUNCORN,14
+Attack,Fox,SALISBURY,12
+Attack,Fox,SANDGATE,8
+Attack,Fox,SEVEN HILLS,1
+Attack,Fox,SEVENTEEN MILE ROCKS,2
+Attack,Fox,SHERWOOD,8
+Attack,Fox,SHORNCLIFFE,3
+Attack,Fox,SOUTH BRISBANE,2
+Attack,Fox,SPRING HILL,3
+Attack,Fox,STAFFORD,9
+Attack,Fox,STAFFORD HEIGHTS,7
+Attack,Fox,STONES CORNER,2
+Attack,Fox,STRETTON,1
+Attack,Fox,SUMNER,6
+Attack,Fox,SUNNYBANK,10
+Attack,Fox,SUNNYBANK HILLS,13
+Attack,Fox,TAIGUM,2
+Attack,Fox,TARINGA,6
+Attack,Fox,TARRAGINDI,15
+Attack,Fox,TENERIFFE,1
+Attack,Fox,THE GAP,16
+Attack,Fox,TINGALPA,9
+Attack,Fox,TOOWONG,6
+Attack,Fox,UPPER BROOKFIELD,2
+Attack,Fox,UPPER KEDRON,7
+Attack,Fox,UPPER MOUNT GRAVATT,10
+Attack,Fox,VIRGINIA,2
+Attack,Fox,WACOL,3
+Attack,Fox,WAKERLEY,3
+Attack,Fox,WAVELL HEIGHTS,16
+Attack,Fox,WEST END,6
+Attack,Fox,WESTLAKE,5
+Attack,Fox,WILLAWONG,3
+Attack,Fox,WILSTON,3
+Attack,Fox,WINDSOR,4
+Attack,Fox,WISHART,8
+Attack,Fox,WOOLLOONGABBA,5
+Attack,Fox,WOOLOOWIN,3
+Attack,Fox,WYNNUM,18
+Attack,Fox,WYNNUM WEST,12
+Attack,Fox,YEERONGPILLY,1
+Attack,Fox,YERONGA,5
+Attack,Fox,ZILLMERE,10
+Attack,Menacing,ACACIA RIDGE,12
+Attack,Menacing,ALBION,1
+Attack,Menacing,ALDERLEY,3
+Attack,Menacing,ALGESTER,3
+Attack,Menacing,ANNERLEY,7
+Attack,Menacing,ASCOT,1
+Attack,Menacing,ASHGROVE,4
+Attack,Menacing,ASPLEY,7
+Attack,Menacing,AUCHENFLOWER,1
+Attack,Menacing,BALD HILLS,4
+Attack,Menacing,BALMORAL,9
+Attack,Menacing,BANYO,10
+Attack,Menacing,BARDON,5
+Attack,Menacing,BELLBOWRIE,5
+Attack,Menacing,BELMONT,3
+Attack,Menacing,BOONDALL,8
+Attack,Menacing,BOWEN HILLS,1
+Attack,Menacing,BRACKEN RIDGE,24
+Attack,Menacing,BRIGHTON,16
+Attack,Menacing,BRISBANE CITY,1
+Attack,Menacing,BROOKFIELD,3
+Attack,Menacing,BULIMBA,4
+Attack,Menacing,BURBANK,2
+Attack,Menacing,CALAMVALE,4
+Attack,Menacing,CAMP HILL,14
+Attack,Menacing,CANNON HILL,12
+Attack,Menacing,CARINA,17
+Attack,Menacing,CARINA HEIGHTS,10
+Attack,Menacing,CARINDALE,10
+Attack,Menacing,CARSELDINE,12
+Attack,Menacing,CHANDLER,1
+Attack,Menacing,CHELMER,2
+Attack,Menacing,CHERMSIDE,5
+Attack,Menacing,CHERMSIDE WEST,4
+Attack,Menacing,CLAYFIELD,5
+Attack,Menacing,COOPERS PLAINS,9
+Attack,Menacing,COORPAROO,19
+Attack,Menacing,CORINDA,4
+Attack,Menacing,DARRA,14
+Attack,Menacing,DEAGON,7
+Attack,Menacing,DOOLANDELLA,4
+Attack,Menacing,DURACK,13
+Attack,Menacing,DUTTON PARK,1
+Attack,Menacing,EAST BRISBANE,2
+Attack,Menacing,EIGHT MILE PLAINS,5
+Attack,Menacing,ELLEN GROVE,11
+Attack,Menacing,ENOGGERA,4
+Attack,Menacing,EVERTON PARK,7
+Attack,Menacing,FAIRFIELD,2
+Attack,Menacing,FERNY GROVE,3
+Attack,Menacing,FIG TREE POCKET,6
+Attack,Menacing,FITZGIBBON,5
+Attack,Menacing,FOREST LAKE,13
+Attack,Menacing,GAYTHORNE,2
+Attack,Menacing,GEEBUNG,4
+Attack,Menacing,GORDON PARK,4
+Attack,Menacing,GRACEVILLE,4
+Attack,Menacing,GREENSLOPES,4
+Attack,Menacing,GUMDALE,1
+Attack,Menacing,HAMILTON,5
+Attack,Menacing,HAWTHORNE,3
+Attack,Menacing,HEATHWOOD,4
+Attack,Menacing,HEMMANT,4
+Attack,Menacing,HENDRA,3
+Attack,Menacing,HERSTON,4
+Attack,Menacing,HIGHGATE HILL,3
+Attack,Menacing,HOLLAND PARK,9
+Attack,Menacing,HOLLAND PARK WEST,5
+Attack,Menacing,INALA,19
+Attack,Menacing,INDOOROOPILLY,1
+Attack,Menacing,JAMBOREE HEIGHTS,4
+Attack,Menacing,JINDALEE,3
+Attack,Menacing,KALINGA,2
+Attack,Menacing,KANGAROO POINT,2
+Attack,Menacing,KARANA DOWNS,10
+Attack,Menacing,KEDRON,9
+Attack,Menacing,KENMORE,6
+Attack,Menacing,KEPERRA,17
+Attack,Menacing,KOORINGAL,1
+Attack,Menacing,KURABY,1
+Attack,Menacing,LOTA,3
+Attack,Menacing,LUTWYCHE,1
+Attack,Menacing,MACGREGOR,4
+Attack,Menacing,MACKENZIE,1
+Attack,Menacing,MANLY,5
+Attack,Menacing,MANLY WEST,13
+Attack,Menacing,MANSFIELD,6
+Attack,Menacing,MCDOWALL,1
+Attack,Menacing,MIDDLE PARK,4
+Attack,Menacing,MILTON,1
+Attack,Menacing,MITCHELTON,7
+Attack,Menacing,MOGGILL,1
+Attack,Menacing,MOOROOKA,8
+Attack,Menacing,MORNINGSIDE,20
+Attack,Menacing,MOUNT COOT-THA,2
+Attack,Menacing,MOUNT CROSBY,2
+Attack,Menacing,MOUNT GRAVATT,3
+Attack,Menacing,MOUNT GRAVATT EAST,16
+Attack,Menacing,MOUNT OMMANEY,3
+Attack,Menacing,MURARRIE,9
+Attack,Menacing,"NATHAN",2
+Attack,Menacing,NEW FARM,7
+Attack,Menacing,NEWMARKET,1
+Attack,Menacing,NEWSTEAD,4
+Attack,Menacing,NORMAN PARK,3
+Attack,Menacing,NORTHGATE,3
+Attack,Menacing,NUDGEE,2
+Attack,Menacing,NUDGEE BEACH,2
+Attack,Menacing,NUNDAH,10
+Attack,Menacing,OXLEY,8
+Attack,Menacing,PADDINGTON,2
+Attack,Menacing,PALLARA,1
+Attack,Menacing,PARKINSON,1
+Attack,Menacing,PINKENBA,1
+Attack,Menacing,PULLENVALE,4
+Attack,Menacing,RED HILL,2
+Attack,Menacing,RIVERHILLS,1
+Attack,Menacing,ROBERTSON,1
+Attack,Menacing,ROCHEDALE,3
+Attack,Menacing,ROCKLEA,6
+Attack,Menacing,RUNCORN,8
+Attack,Menacing,SALISBURY,3
+Attack,Menacing,SANDGATE,7
+Attack,Menacing,SEVEN HILLS,4
+Attack,Menacing,SHERWOOD,5
+Attack,Menacing,SHORNCLIFFE,3
+Attack,Menacing,SOUTH BRISBANE,2
+Attack,Menacing,SPRING HILL,1
+Attack,Menacing,ST LUCIA,2
+Attack,Menacing,STAFFORD,16
+Attack,Menacing,STAFFORD HEIGHTS,12
+Attack,Menacing,STONES CORNER,2
+Attack,Menacing,STRETTON,3
+Attack,Menacing,SUMNER,1
+Attack,Menacing,SUNNYBANK,8
+Attack,Menacing,SUNNYBANK HILLS,9
+Attack,Menacing,TAIGUM,4
+Attack,Menacing,TARINGA,2
+Attack,Menacing,TARRAGINDI,12
+Attack,Menacing,TENERIFFE,1
+Attack,Menacing,TENNYSON,1
+Attack,Menacing,THE GAP,7
+Attack,Menacing,TINGALPA,6
+Attack,Menacing,TOOWONG,4
+Attack,Menacing,UPPER KEDRON,2
+Attack,Menacing,UPPER MOUNT GRAVATT,6
+Attack,Menacing,VIRGINIA,1
+Attack,Menacing,WACOL,1
+Attack,Menacing,WAKERLEY,10
+Attack,Menacing,WAVELL HEIGHTS,12
+Attack,Menacing,WEST END,5
+Attack,Menacing,WESTLAKE,1
+Attack,Menacing,WILSTON,1
+Attack,Menacing,WINDSOR,9
+Attack,Menacing,WISHART,6
+Attack,Menacing,WOOLLOONGABBA,3
+Attack,Menacing,WOOLOOWIN,3
+Attack,Menacing,WYNNUM,26
+Attack,Menacing,WYNNUM WEST,15
+Attack,Menacing,YEERONGPILLY,1
+Attack,Menacing,YERONGA,4
+Attack,Menacing,ZILLMERE,16
+Attack,Not An Attack,ACACIA RIDGE,19
+Attack,Not An Attack,ALBION,2
+Attack,Not An Attack,ALDERLEY,7
+Attack,Not An Attack,ALGESTER,6
+Attack,Not An Attack,ANNERLEY,6
+Attack,Not An Attack,ANSTEAD,2
+Attack,Not An Attack,ARCHERFIELD,2
+Attack,Not An Attack,ASCOT,11
+Attack,Not An Attack,ASHGROVE,17
+Attack,Not An Attack,ASPLEY,10
+Attack,Not An Attack,AUCHENFLOWER,1
+Attack,Not An Attack,BALD HILLS,4
+Attack,Not An Attack,BALMORAL,5
+Attack,Not An Attack,BANYO,7
+Attack,Not An Attack,BARDON,11
+Attack,Not An Attack,BELLBOWRIE,9
+Attack,Not An Attack,BELMONT,5
+Attack,Not An Attack,BOONDALL,14
+Attack,Not An Attack,BOWEN HILLS,1
+Attack,Not An Attack,BRACKEN RIDGE,21
+Attack,Not An Attack,BRIDGEMAN DOWNS,7
+Attack,Not An Attack,BRIGHTON,11
+Attack,Not An Attack,BRISBANE CITY,4
+Attack,Not An Attack,BROOKFIELD,6
+Attack,Not An Attack,BULIMBA,6
+Attack,Not An Attack,CALAMVALE,13
+Attack,Not An Attack,CAMP HILL,12
+Attack,Not An Attack,CANNON HILL,4
+Attack,Not An Attack,CARINA,16
+Attack,Not An Attack,CARINA HEIGHTS,9
+Attack,Not An Attack,CARINDALE,8
+Attack,Not An Attack,CARSELDINE,5
+Attack,Not An Attack,CHANDLER,4
+Attack,Not An Attack,CHAPEL HILL,12
+Attack,Not An Attack,CHELMER,1
+Attack,Not An Attack,CHERMSIDE,12
+Attack,Not An Attack,CHERMSIDE WEST,4
+Attack,Not An Attack,CLAYFIELD,7
+Attack,Not An Attack,COOPERS PLAINS,10
+Attack,Not An Attack,COORPAROO,14
+Attack,Not An Attack,CORINDA,5
+Attack,Not An Attack,DARRA,16
+Attack,Not An Attack,DEAGON,2
+Attack,Not An Attack,DOOLANDELLA,3
+Attack,Not An Attack,DREWVALE,3
+Attack,Not An Attack,DURACK,11
+Attack,Not An Attack,DUTTON PARK,5
+Attack,Not An Attack,EAST BRISBANE,8
+Attack,Not An Attack,EIGHT MILE PLAINS,13
+Attack,Not An Attack,ELLEN GROVE,14
+Attack,Not An Attack,ENOGGERA,5
+Attack,Not An Attack,EVERTON PARK,11
+Attack,Not An Attack,FAIRFIELD,4
+Attack,Not An Attack,FERNY GROVE,4
+Attack,Not An Attack,FIG TREE POCKET,6
+Attack,Not An Attack,FITZGIBBON,7
+Attack,Not An Attack,FOREST LAKE,26
+Attack,Not An Attack,FORTITUDE VALLEY,1
+Attack,Not An Attack,GAYTHORNE,3
+Attack,Not An Attack,GEEBUNG,3
+Attack,Not An Attack,GORDON PARK,3
+Attack,Not An Attack,GRACEVILLE,10
+Attack,Not An Attack,GRANGE,7
+Attack,Not An Attack,GREENSLOPES,11
+Attack,Not An Attack,GUMDALE,1
+Attack,Not An Attack,HAMILTON,4
+Attack,Not An Attack,HAWTHORNE,6
+Attack,Not An Attack,HEATHWOOD,4
+Attack,Not An Attack,HEMMANT,6
+Attack,Not An Attack,HENDRA,5
+Attack,Not An Attack,HERSTON,2
+Attack,Not An Attack,HIGHGATE HILL,1
+Attack,Not An Attack,HOLLAND PARK,16
+Attack,Not An Attack,HOLLAND PARK WEST,4
+Attack,Not An Attack,INALA,52
+Attack,Not An Attack,INDOOROOPILLY,9
+Attack,Not An Attack,JAMBOREE HEIGHTS,3
+Attack,Not An Attack,JINDALEE,11
+Attack,Not An Attack,KALINGA,6
+Attack,Not An Attack,KANGAROO POINT,5
+Attack,Not An Attack,KARANA DOWNS,3
+Attack,Not An Attack,KEDRON,4
+Attack,Not An Attack,KELVIN GROVE,5
+Attack,Not An Attack,KENMORE,14
+Attack,Not An Attack,KENMORE HILLS,2
+Attack,Not An Attack,KEPERRA,16
+Attack,Not An Attack,KURABY,5
+Attack,Not An Attack,LOTA,4
+Attack,Not An Attack,LUTWYCHE,2
+Attack,Not An Attack,MACGREGOR,3
+Attack,Not An Attack,MACKENZIE,1
+Attack,Not An Attack,MANLY,5
+Attack,Not An Attack,MANLY WEST,19
+Attack,Not An Attack,MANSFIELD,6
+Attack,Not An Attack,MCDOWALL,5
+Attack,Not An Attack,MIDDLE PARK,4
+Attack,Not An Attack,MILTON,3
+Attack,Not An Attack,MITCHELTON,9
+Attack,Not An Attack,MOGGILL,5
+Attack,Not An Attack,MOOROOKA,15
+Attack,Not An Attack,MORNINGSIDE,7
+Attack,Not An Attack,MOUNT COOT-THA,3
+Attack,Not An Attack,MOUNT CROSBY,4
+Attack,Not An Attack,MOUNT GRAVATT,2
+Attack,Not An Attack,MOUNT GRAVATT EAST,13
+Attack,Not An Attack,MOUNT OMMANEY,2
+Attack,Not An Attack,MURARRIE,4
+Attack,Not An Attack,NEW FARM,9
+Attack,Not An Attack,NEWMARKET,3
+Attack,Not An Attack,NEWSTEAD,5
+Attack,Not An Attack,NORMAN PARK,4
+Attack,Not An Attack,NORTHGATE,7
+Attack,Not An Attack,NUDGEE,4
+Attack,Not An Attack,NUDGEE BEACH,3
+Attack,Not An Attack,NUNDAH,7
+Attack,Not An Attack,OXLEY,8
+Attack,Not An Attack,PADDINGTON,7
+Attack,Not An Attack,PALLARA,1
+Attack,Not An Attack,PARKINSON,4
+Attack,Not An Attack,PINJARRA HILLS,2
+Attack,Not An Attack,PINKENBA,1
+Attack,Not An Attack,PULLENVALE,6
+Attack,Not An Attack,RANSOME,2
+Attack,Not An Attack,RED HILL,6
+Attack,Not An Attack,RICHLANDS,2
+Attack,Not An Attack,RIVERHILLS,4
+Attack,Not An Attack,ROBERTSON,4
+Attack,Not An Attack,ROCHEDALE,3
+Attack,Not An Attack,ROCKLEA,12
+Attack,Not An Attack,RUNCORN,16
+Attack,Not An Attack,SALISBURY,8
+Attack,Not An Attack,SANDGATE,9
+Attack,Not An Attack,SEVEN HILLS,8
+Attack,Not An Attack,SEVENTEEN MILE ROCKS,4
+Attack,Not An Attack,SHERWOOD,8
+Attack,Not An Attack,SINNAMON PARK,5
+Attack,Not An Attack,SOUTH BRISBANE,2
+Attack,Not An Attack,SPRING HILL,2
+Attack,Not An Attack,STAFFORD,13
+Attack,Not An Attack,STAFFORD HEIGHTS,8
+Attack,Not An Attack,STONES CORNER,1
+Attack,Not An Attack,STRETTON,7
+Attack,Not An Attack,SUMNER,2
+Attack,Not An Attack,SUNNYBANK,15
+Attack,Not An Attack,SUNNYBANK HILLS,23
+Attack,Not An Attack,TAIGUM,1
+Attack,Not An Attack,TARINGA,4
+Attack,Not An Attack,TARRAGINDI,13
+Attack,Not An Attack,TENERIFFE,1
+Attack,Not An Attack,THE GAP,17
+Attack,Not An Attack,TINGALPA,11
+Attack,Not An Attack,TOOWONG,14
+Attack,Not An Attack,UPPER BROOKFIELD,3
+Attack,Not An Attack,UPPER KEDRON,1
+Attack,Not An Attack,UPPER MOUNT GRAVATT,11
+Attack,Not An Attack,VIRGINIA,1
+Attack,Not An Attack,WACOL,7
+Attack,Not An Attack,WAKERLEY,8
+Attack,Not An Attack,WAVELL HEIGHTS,10
+Attack,Not An Attack,WEST END,12
+Attack,Not An Attack,WESTLAKE,6
+Attack,Not An Attack,WILSTON,1
+Attack,Not An Attack,WINDSOR,6
+Attack,Not An Attack,WISHART,13
+Attack,Not An Attack,WOOLLOONGABBA,6
+Attack,Not An Attack,WOOLOOWIN,3
+Attack,Not An Attack,WYNNUM,28
+Attack,Not An Attack,WYNNUM WEST,19
+Attack,Not An Attack,YEERONGPILLY,1
+Attack,Not An Attack,YERONGA,15
+Attack,Not An Attack,ZILLMERE,12
+Attack,Rabbit,MOGGILL,1
+Cat,Fox,ACACIA RIDGE,15
+Cat,Fox,ALGESTER,6
+Cat,Fox,ANNERLEY,7
+Cat,Fox,ANSTEAD,1
+Cat,Fox,ARCHERFIELD,3
+Cat,Fox,ASCOT,1
+Cat,Fox,ASHGROVE,6
+Cat,Fox,ASPLEY,5
+Cat,Fox,AUCHENFLOWER,1
+Cat,Fox,BALD HILLS,9
+Cat,Fox,BALMORAL,1
+Cat,Fox,BANYO,3
+Cat,Fox,BARDON,2
+Cat,Fox,BELLBOWRIE,2
+Cat,Fox,BELMONT,4
+Cat,Fox,BOONDALL,18
+Cat,Fox,BRACKEN RIDGE,16
+Cat,Fox,BRIDGEMAN DOWNS,3
+Cat,Fox,BRIGHTON,17
+Cat,Fox,BRISBANE CITY,2
+Cat,Fox,BROOKFIELD,3
+Cat,Fox,BULIMBA,12
+Cat,Fox,BURBANK,1
+Cat,Fox,CALAMVALE,6
+Cat,Fox,CAMP HILL,8
+Cat,Fox,CARINA,3
+Cat,Fox,CARINA HEIGHTS,7
+Cat,Fox,CARINDALE,3
+Cat,Fox,CARSELDINE,7
+Cat,Fox,CHANDLER,1
+Cat,Fox,CHAPEL HILL,1
+Cat,Fox,CHERMSIDE,9
+Cat,Fox,CHERMSIDE WEST,6
+Cat,Fox,CLAYFIELD,5
+Cat,Fox,COOPERS PLAINS,6
+Cat,Fox,COORPAROO,12
+Cat,Fox,CORINDA,2
+Cat,Fox,DARRA,2
+Cat,Fox,DEAGON,7
+Cat,Fox,DOOLANDELLA,5
+Cat,Fox,DREWVALE,5
+Cat,Fox,DURACK,6
+Cat,Fox,DUTTON PARK,2
+Cat,Fox,EAST BRISBANE,5
+Cat,Fox,EIGHT MILE PLAINS,4
+Cat,Fox,ELLEN GROVE,11
+Cat,Fox,ENOGGERA,8
+Cat,Fox,EVERTON PARK,10
+Cat,Fox,FAIRFIELD,1
+Cat,Fox,FERNY GROVE,6
+Cat,Fox,FITZGIBBON,5
+Cat,Fox,FOREST LAKE,15
+Cat,Fox,GAYTHORNE,3
+Cat,Fox,GEEBUNG,2
+Cat,Fox,GORDON PARK,3
+Cat,Fox,GRACEVILLE,2
+Cat,Fox,GRANGE,4
+Cat,Fox,GREENSLOPES,14
+Cat,Fox,HAMILTON,2
+Cat,Fox,HAWTHORNE,1
+Cat,Fox,HEATHWOOD,1
+Cat,Fox,HEMMANT,4
+Cat,Fox,HENDRA,2
+Cat,Fox,HERSTON,7
+Cat,Fox,HIGHGATE HILL,1
+Cat,Fox,HOLLAND PARK,10
+Cat,Fox,HOLLAND PARK WEST,10
+Cat,Fox,INALA,22
+Cat,Fox,INDOOROOPILLY,6
+Cat,Fox,JINDALEE,8
+Cat,Fox,KARANA DOWNS,7
+Cat,Fox,KEDRON,7
+Cat,Fox,KELVIN GROVE,1
+Cat,Fox,KENMORE,7
+Cat,Fox,KEPERRA,7
+Cat,Fox,KURABY,12
+Cat,Fox,LOTA,1
+Cat,Fox,LUTWYCHE,1
+Cat,Fox,MANLY WEST,10
+Cat,Fox,MANSFIELD,6
+Cat,Fox,MCDOWALL,4
+Cat,Fox,MIDDLE PARK,2
+Cat,Fox,MITCHELTON,4
+Cat,Fox,MOGGILL,15
+Cat,Fox,MOOROOKA,10
+Cat,Fox,MORNINGSIDE,10
+Cat,Fox,MOUNT GRAVATT,1
+Cat,Fox,MOUNT GRAVATT EAST,17
+Cat,Fox,MOUNT OMMANEY,1
+Cat,Fox,MURARRIE,4
+Cat,Fox,NEW FARM,8
+Cat,Fox,NEWMARKET,2
+Cat,Fox,NORMAN PARK,5
+Cat,Fox,NORTHGATE,10
+Cat,Fox,NUDGEE,3
+Cat,Fox,NUDGEE BEACH,1
+Cat,Fox,NUNDAH,2
+Cat,Fox,OXLEY,12
+Cat,Fox,PADDINGTON,2
+Cat,Fox,PALLARA,3
+Cat,Fox,PARKINSON,3
+Cat,Fox,PINJARRA HILLS,2
+Cat,Fox,PULLENVALE,1
+Cat,Fox,RICHLANDS,1
+Cat,Fox,RIVERHILLS,8
+Cat,Fox,RUNCORN,8
+Cat,Fox,SALISBURY,4
+Cat,Fox,SANDGATE,11
+Cat,Fox,SEVEN HILLS,1
+Cat,Fox,SEVENTEEN MILE ROCKS,2
+Cat,Fox,SHERWOOD,2
+Cat,Fox,SINNAMON PARK,2
+Cat,Fox,ST LUCIA,5
+Cat,Fox,STAFFORD,14
+Cat,Fox,STAFFORD HEIGHTS,16
+Cat,Fox,STRETTON,1
+Cat,Fox,SUMNER,1
+Cat,Fox,SUNNYBANK,8
+Cat,Fox,SUNNYBANK HILLS,4
+Cat,Fox,TAIGUM,3
+Cat,Fox,TARINGA,1
+Cat,Fox,TARRAGINDI,7
+Cat,Fox,THE GAP,18
+Cat,Fox,TINGALPA,5
+Cat,Fox,TOOWONG,1
+Cat,Fox,UPPER KEDRON,6
+Cat,Fox,UPPER MOUNT GRAVATT,3
+Cat,Fox,VIRGINIA,4
+Cat,Fox,WACOL,1
+Cat,Fox,WAKERLEY,2
+Cat,Fox,WAVELL HEIGHTS,7
+Cat,Fox,WEST END,6
+Cat,Fox,WESTLAKE,2
+Cat,Fox,WILLAWONG,3
+Cat,Fox,WINDSOR,2
+Cat,Fox,WISHART,7
+Cat,Fox,WOOLLOONGABBA,1
+Cat,Fox,WOOLOOWIN,1
+Cat,Fox,WYNNUM,18
+Cat,Fox,WYNNUM WEST,23
+Cat,Fox,YERONGA,2
+Cat,Fox,ZILLMERE,9
+Cat,Fox,NA,1
+Cat,Odour,INALA,1
+Cat,Unregistered,ANNERLEY,1
+Cat,Wandering,ACACIA RIDGE,24
+Cat,Wandering,ALBION,3
+Cat,Wandering,ALDERLEY,4
+Cat,Wandering,ALGESTER,7
+Cat,Wandering,ANNERLEY,12
+Cat,Wandering,ARCHERFIELD,10
+Cat,Wandering,ASCOT,4
+Cat,Wandering,ASHGROVE,11
+Cat,Wandering,ASPLEY,10
+Cat,Wandering,AUCHENFLOWER,1
+Cat,Wandering,BALD HILLS,6
+Cat,Wandering,BALMORAL,1
+Cat,Wandering,BANYO,10
+Cat,Wandering,BARDON,4
+Cat,Wandering,BELLBOWRIE,12
+Cat,Wandering,BELMONT,7
+Cat,Wandering,BOONDALL,11
+Cat,Wandering,BOWEN HILLS,5
+Cat,Wandering,BRACKEN RIDGE,64
+Cat,Wandering,BRIDGEMAN DOWNS,3
+Cat,Wandering,BRIGHTON,11
+Cat,Wandering,BROOKFIELD,1
+Cat,Wandering,BULIMBA,4
+Cat,Wandering,CALAMVALE,6
+Cat,Wandering,CAMP HILL,8
+Cat,Wandering,CANNON HILL,7
+Cat,Wandering,CARINA,8
+Cat,Wandering,CARINA HEIGHTS,11
+Cat,Wandering,CARINDALE,14
+Cat,Wandering,CARSELDINE,5
+Cat,Wandering,CHANDLER,1
+Cat,Wandering,CHAPEL HILL,5
+Cat,Wandering,CHELMER,1
+Cat,Wandering,CHERMSIDE,9
+Cat,Wandering,CHERMSIDE WEST,5
+Cat,Wandering,CHUWAR,4
+Cat,Wandering,CLAYFIELD,12
+Cat,Wandering,COOPERS PLAINS,6
+Cat,Wandering,COORPAROO,5
+Cat,Wandering,CORINDA,8
+Cat,Wandering,DARRA,7
+Cat,Wandering,DEAGON,5
+Cat,Wandering,DOOLANDELLA,6
+Cat,Wandering,DREWVALE,5
+Cat,Wandering,DURACK,15
+Cat,Wandering,DUTTON PARK,3
+Cat,Wandering,EAST BRISBANE,9
+Cat,Wandering,EIGHT MILE PLAINS,8
+Cat,Wandering,ELLEN GROVE,12
+Cat,Wandering,ENOGGERA,5
+Cat,Wandering,EVERTON PARK,8
+Cat,Wandering,FAIRFIELD,1
+Cat,Wandering,FERNY GROVE,11
+Cat,Wandering,FIG TREE POCKET,1
+Cat,Wandering,FITZGIBBON,16
+Cat,Wandering,FOREST LAKE,21
+Cat,Wandering,GAYTHORNE,13
+Cat,Wandering,GEEBUNG,4
+Cat,Wandering,GORDON PARK,1
+Cat,Wandering,GRACEVILLE,5
+Cat,Wandering,GRANGE,2
+Cat,Wandering,GREENSLOPES,12
+Cat,Wandering,GUMDALE,1
+Cat,Wandering,HAMILTON,4
+Cat,Wandering,HAWTHORNE,7
+Cat,Wandering,HEATHWOOD,5
+Cat,Wandering,HEMMANT,6
+Cat,Wandering,HENDRA,6
+Cat,Wandering,HERSTON,6
+Cat,Wandering,HIGHGATE HILL,1
+Cat,Wandering,HOLLAND PARK,7
+Cat,Wandering,HOLLAND PARK WEST,48
+Cat,Wandering,INALA,27
+Cat,Wandering,INDOOROOPILLY,8
+Cat,Wandering,JINDALEE,7
+Cat,Wandering,KANGAROO POINT,5
+Cat,Wandering,KARANA DOWNS,5
+Cat,Wandering,KARAWATHA,1
+Cat,Wandering,KEDRON,3
+Cat,Wandering,KELVIN GROVE,5
+Cat,Wandering,KENMORE,4
+Cat,Wandering,KEPERRA,17
+Cat,Wandering,KURABY,15
+Cat,Wandering,LOTA,1
+Cat,Wandering,LUTWYCHE,3
+Cat,Wandering,MACGREGOR,5
+Cat,Wandering,MACKENZIE,1
+Cat,Wandering,MANLY,5
+Cat,Wandering,MANLY WEST,16
+Cat,Wandering,MANSFIELD,7
+Cat,Wandering,MCDOWALL,6
+Cat,Wandering,MIDDLE PARK,2
+Cat,Wandering,MILTON,2
+Cat,Wandering,MITCHELTON,7
+Cat,Wandering,MOGGILL,7
+Cat,Wandering,MOOROOKA,8
+Cat,Wandering,MORNINGSIDE,12
+Cat,Wandering,MOUNT CROSBY,1
+Cat,Wandering,MOUNT GRAVATT,1
+Cat,Wandering,MOUNT GRAVATT EAST,9
+Cat,Wandering,MOUNT OMMANEY,7
+Cat,Wandering,MURARRIE,12
+Cat,Wandering,"NATHAN",2
+Cat,Wandering,NEW FARM,2
+Cat,Wandering,NEWMARKET,4
+Cat,Wandering,NORMAN PARK,5
+Cat,Wandering,NORTHGATE,25
+Cat,Wandering,NUDGEE,11
+Cat,Wandering,NUNDAH,9
+Cat,Wandering,OXLEY,3
+Cat,Wandering,PADDINGTON,13
+Cat,Wandering,PALLARA,1
+Cat,Wandering,PARKINSON,10
+Cat,Wandering,PETRIE TERRACE,2
+Cat,Wandering,PINJARRA HILLS,1
+Cat,Wandering,PINKENBA,3
+Cat,Wandering,PULLENVALE,1
+Cat,Wandering,RED HILL,5
+Cat,Wandering,RICHLANDS,6
+Cat,Wandering,RIVERHILLS,10
+Cat,Wandering,ROBERTSON,3
+Cat,Wandering,ROCHEDALE,2
+Cat,Wandering,ROCKLEA,1
+Cat,Wandering,RUNCORN,7
+Cat,Wandering,SALISBURY,7
+Cat,Wandering,SANDGATE,11
+Cat,Wandering,SEVEN HILLS,3
+Cat,Wandering,SEVENTEEN MILE ROCKS,2
+Cat,Wandering,SHERWOOD,1
+Cat,Wandering,SHORNCLIFFE,4
+Cat,Wandering,SPRING HILL,2
+Cat,Wandering,ST LUCIA,2
+Cat,Wandering,STAFFORD,6
+Cat,Wandering,STAFFORD HEIGHTS,25
+Cat,Wandering,STONES CORNER,1
+Cat,Wandering,STRETTON,1
+Cat,Wandering,SUNNYBANK,7
+Cat,Wandering,SUNNYBANK HILLS,16
+Cat,Wandering,TAIGUM,9
+Cat,Wandering,TARINGA,4
+Cat,Wandering,TARRAGINDI,5
+Cat,Wandering,TENERIFFE,7
+Cat,Wandering,THE GAP,34
+Cat,Wandering,TINGALPA,4
+Cat,Wandering,TOOWONG,5
+Cat,Wandering,UPPER BROOKFIELD,1
+Cat,Wandering,UPPER KEDRON,6
+Cat,Wandering,UPPER MOUNT GRAVATT,8
+Cat,Wandering,VIRGINIA,6
+Cat,Wandering,WACOL,1
+Cat,Wandering,WAKERLEY,2
+Cat,Wandering,WAVELL HEIGHTS,10
+Cat,Wandering,WEST END,2
+Cat,Wandering,WESTLAKE,4
+Cat,Wandering,WILLAWONG,4
+Cat,Wandering,WINDSOR,5
+Cat,Wandering,WISHART,7
+Cat,Wandering,WOOLLOONGABBA,4
+Cat,Wandering,WOOLOOWIN,4
+Cat,Wandering,WYNNUM,34
+Cat,Wandering,WYNNUM WEST,44
+Cat,Wandering,YERONGA,5
+Cat,Wandering,ZILLMERE,15
+Cat,Wandering,NA,4
+Cat Trapping,Fox,ACACIA RIDGE,57
+Cat Trapping,Fox,ALBION,9
+Cat Trapping,Fox,ALDERLEY,6
+Cat Trapping,Fox,ALGESTER,15
+Cat Trapping,Fox,ANNERLEY,26
+Cat Trapping,Fox,ANSTEAD,4
+Cat Trapping,Fox,ARCHERFIELD,18
+Cat Trapping,Fox,ASCOT,10
+Cat Trapping,Fox,ASHGROVE,10
+Cat Trapping,Fox,ASPLEY,32
+Cat Trapping,Fox,AUCHENFLOWER,2
+Cat Trapping,Fox,BALD HILLS,29
+Cat Trapping,Fox,BALMORAL,6
+Cat Trapping,Fox,BANYO,23
+Cat Trapping,Fox,BARDON,4
+Cat Trapping,Fox,BELLBOWRIE,10
+Cat Trapping,Fox,BELMONT,9
+Cat Trapping,Fox,BOONDALL,36
+Cat Trapping,Fox,BOWEN HILLS,5
+Cat Trapping,Fox,BRACKEN RIDGE,67
+Cat Trapping,Fox,BRIDGEMAN DOWNS,12
+Cat Trapping,Fox,BRIGHTON,30
+Cat Trapping,Fox,BRISBANE AIRPORT,1
+Cat Trapping,Fox,BRISBANE CITY,10
+Cat Trapping,Fox,BROOKFIELD,5
+Cat Trapping,Fox,BULIMBA,13
+Cat Trapping,Fox,BURBANK,4
+Cat Trapping,Fox,CALAMVALE,34
+Cat Trapping,Fox,CAMP HILL,17
+Cat Trapping,Fox,CANNON HILL,10
+Cat Trapping,Fox,CARINA,19
+Cat Trapping,Fox,CARINA HEIGHTS,22
+Cat Trapping,Fox,CARINDALE,18
+Cat Trapping,Fox,CARSELDINE,15
+Cat Trapping,Fox,CHANDLER,6
+Cat Trapping,Fox,CHAPEL HILL,13
+Cat Trapping,Fox,CHELMER,2
+Cat Trapping,Fox,CHERMSIDE,28
+Cat Trapping,Fox,CHERMSIDE WEST,15
+Cat Trapping,Fox,CLAYFIELD,22
+Cat Trapping,Fox,COOPERS PLAINS,57
+Cat Trapping,Fox,COORPAROO,27
+Cat Trapping,Fox,CORINDA,16
+Cat Trapping,Fox,DARRA,27
+Cat Trapping,Fox,DEAGON,12
+Cat Trapping,Fox,DOOLANDELLA,15
+Cat Trapping,Fox,DREWVALE,3
+Cat Trapping,Fox,DURACK,30
+Cat Trapping,Fox,DUTTON PARK,2
+Cat Trapping,Fox,EAGLE FARM,3
+Cat Trapping,Fox,EAST BRISBANE,10
+Cat Trapping,Fox,EIGHT MILE PLAINS,27
+Cat Trapping,Fox,ELLEN GROVE,29
+Cat Trapping,Fox,ENOGGERA,15
+Cat Trapping,Fox,EVERTON PARK,11
+Cat Trapping,Fox,FAIRFIELD,2
+Cat Trapping,Fox,FERNY GROVE,10
+Cat Trapping,Fox,FIG TREE POCKET,7
+Cat Trapping,Fox,FITZGIBBON,8
+Cat Trapping,Fox,FOREST LAKE,62
+Cat Trapping,Fox,FORTITUDE VALLEY,2
+Cat Trapping,Fox,GAYTHORNE,4
+Cat Trapping,Fox,GEEBUNG,22
+Cat Trapping,Fox,GORDON PARK,7
+Cat Trapping,Fox,GRACEVILLE,4
+Cat Trapping,Fox,GRANGE,6
+Cat Trapping,Fox,GREENSLOPES,8
+Cat Trapping,Fox,GUMDALE,1
+Cat Trapping,Fox,HAMILTON,14
+Cat Trapping,Fox,HAWTHORNE,8
+Cat Trapping,Fox,HEATHWOOD,7
+Cat Trapping,Fox,HEMMANT,8
+Cat Trapping,Fox,HENDRA,10
+Cat Trapping,Fox,HERSTON,3
+Cat Trapping,Fox,HIGHGATE HILL,1
+Cat Trapping,Fox,HOLLAND PARK,20
+Cat Trapping,Fox,HOLLAND PARK WEST,9
+Cat Trapping,Fox,INALA,157
+Cat Trapping,Fox,INDOOROOPILLY,9
+Cat Trapping,Fox,JINDALEE,18
+Cat Trapping,Fox,KALINGA,2
+Cat Trapping,Fox,KANGAROO POINT,6
+Cat Trapping,Fox,KARANA DOWNS,6
+Cat Trapping,Fox,KEDRON,20
+Cat Trapping,Fox,KELVIN GROVE,11
+Cat Trapping,Fox,KENMORE,12
+Cat Trapping,Fox,KENMORE HILLS,2
+Cat Trapping,Fox,KEPERRA,10
+Cat Trapping,Fox,KHOLO,1
+Cat Trapping,Fox,KURABY,19
+Cat Trapping,Fox,LAKE MANCHESTER,1
+Cat Trapping,Fox,LARAPINTA,1
+Cat Trapping,Fox,LOTA,12
+Cat Trapping,Fox,LUTWYCHE,2
+Cat Trapping,Fox,MACGREGOR,15
+Cat Trapping,Fox,MANLY,15
+Cat Trapping,Fox,MANLY WEST,29
+Cat Trapping,Fox,MANSFIELD,25
+Cat Trapping,Fox,MCDOWALL,14
+Cat Trapping,Fox,MIDDLE PARK,4
+Cat Trapping,Fox,MITCHELTON,6
+Cat Trapping,Fox,MOGGILL,13
+Cat Trapping,Fox,MOOROOKA,46
+Cat Trapping,Fox,MORETON ISLAND,1
+Cat Trapping,Fox,MORNINGSIDE,12
+Cat Trapping,Fox,MOUNT COOT-THA,1
+Cat Trapping,Fox,MOUNT CROSBY,3
+Cat Trapping,Fox,MOUNT GRAVATT,15
+Cat Trapping,Fox,MOUNT GRAVATT EAST,29
+Cat Trapping,Fox,MOUNT OMMANEY,1
+Cat Trapping,Fox,MURARRIE,6
+Cat Trapping,Fox,"NATHAN",7
+Cat Trapping,Fox,NEW FARM,9
+Cat Trapping,Fox,NEWMARKET,3
+Cat Trapping,Fox,NEWSTEAD,11
+Cat Trapping,Fox,NORMAN PARK,10
+Cat Trapping,Fox,NORTHGATE,16
+Cat Trapping,Fox,NUDGEE,10
+Cat Trapping,Fox,NUDGEE BEACH,3
+Cat Trapping,Fox,NUNDAH,11
+Cat Trapping,Fox,OXLEY,24
+Cat Trapping,Fox,PADDINGTON,2
+Cat Trapping,Fox,PALLARA,7
+Cat Trapping,Fox,PARKINSON,13
+Cat Trapping,Fox,PETRIE TERRACE,2
+Cat Trapping,Fox,PULLENVALE,2
+Cat Trapping,Fox,RED HILL,14
+Cat Trapping,Fox,RICHLANDS,27
+Cat Trapping,Fox,RIVERHILLS,6
+Cat Trapping,Fox,ROBERTSON,17
+Cat Trapping,Fox,ROCHEDALE,14
+Cat Trapping,Fox,ROCKLEA,10
+Cat Trapping,Fox,RUNCORN,32
+Cat Trapping,Fox,SALISBURY,30
+Cat Trapping,Fox,SANDGATE,29
+Cat Trapping,Fox,SEVEN HILLS,6
+Cat Trapping,Fox,SEVENTEEN MILE ROCKS,6
+Cat Trapping,Fox,SHERWOOD,5
+Cat Trapping,Fox,SHORNCLIFFE,3
+Cat Trapping,Fox,SINNAMON PARK,6
+Cat Trapping,Fox,SPRING HILL,2
+Cat Trapping,Fox,ST LUCIA,50
+Cat Trapping,Fox,STAFFORD,11
+Cat Trapping,Fox,STAFFORD HEIGHTS,33
+Cat Trapping,Fox,STONES CORNER,1
+Cat Trapping,Fox,STRETTON,3
+Cat Trapping,Fox,SUMNER,2
+Cat Trapping,Fox,SUNNYBANK,69
+Cat Trapping,Fox,SUNNYBANK HILLS,33
+Cat Trapping,Fox,TAIGUM,12
+Cat Trapping,Fox,TARINGA,9
+Cat Trapping,Fox,TARRAGINDI,17
+Cat Trapping,Fox,TENERIFFE,6
+Cat Trapping,Fox,THE GAP,20
+Cat Trapping,Fox,TINGALPA,8
+Cat Trapping,Fox,TOOWONG,8
+Cat Trapping,Fox,UPPER BROOKFIELD,6
+Cat Trapping,Fox,UPPER KEDRON,8
+Cat Trapping,Fox,UPPER MOUNT GRAVATT,30
+Cat Trapping,Fox,VIRGINIA,3
+Cat Trapping,Fox,WACOL,8
+Cat Trapping,Fox,WAKERLEY,5
+Cat Trapping,Fox,WAVELL HEIGHTS,9
+Cat Trapping,Fox,WEST END,7
+Cat Trapping,Fox,WESTLAKE,2
+Cat Trapping,Fox,WILLAWONG,10
+Cat Trapping,Fox,WINDSOR,15
+Cat Trapping,Fox,WISHART,16
+Cat Trapping,Fox,WOOLLOONGABBA,36
+Cat Trapping,Fox,WOOLOOWIN,4
+Cat Trapping,Fox,WYNNUM,73
+Cat Trapping,Fox,WYNNUM WEST,60
+Cat Trapping,Fox,YEERONGPILLY,5
+Cat Trapping,Fox,YERONGA,19
+Cat Trapping,Fox,ZILLMERE,35
+Dog,Defecating In Public,ACACIA RIDGE,4
+Dog,Defecating In Public,ALBION,1
+Dog,Defecating In Public,ALDERLEY,1
+Dog,Defecating In Public,ALGESTER,1
+Dog,Defecating In Public,ANNERLEY,2
+Dog,Defecating In Public,ANSTEAD,1
+Dog,Defecating In Public,ASCOT,12
+Dog,Defecating In Public,ASHGROVE,15
+Dog,Defecating In Public,ASPLEY,25
+Dog,Defecating In Public,AUCHENFLOWER,3
+Dog,Defecating In Public,BALD HILLS,3
+Dog,Defecating In Public,BALMORAL,1
+Dog,Defecating In Public,BANYO,5
+Dog,Defecating In Public,BARDON,6
+Dog,Defecating In Public,BELLBOWRIE,4
+Dog,Defecating In Public,BELMONT,9
+Dog,Defecating In Public,BOONDALL,11
+Dog,Defecating In Public,BOWEN HILLS,3
+Dog,Defecating In Public,BRACKEN RIDGE,8
+Dog,Defecating In Public,BRIDGEMAN DOWNS,7
+Dog,Defecating In Public,BRIGHTON,8
+Dog,Defecating In Public,BRISBANE CITY,6
+Dog,Defecating In Public,BROOKFIELD,4
+Dog,Defecating In Public,BULIMBA,9
+Dog,Defecating In Public,CALAMVALE,5
+Dog,Defecating In Public,CAMP HILL,9
+Dog,Defecating In Public,CANNON HILL,4
+Dog,Defecating In Public,CARINA,11
+Dog,Defecating In Public,CARINA HEIGHTS,2
+Dog,Defecating In Public,CARINDALE,15
+Dog,Defecating In Public,CARSELDINE,21
+Dog,Defecating In Public,CHAPEL HILL,10
+Dog,Defecating In Public,CHELMER,1
+Dog,Defecating In Public,CHERMSIDE,7
+Dog,Defecating In Public,CHERMSIDE WEST,3
+Dog,Defecating In Public,CLAYFIELD,6
+Dog,Defecating In Public,COOPERS PLAINS,8
+Dog,Defecating In Public,COORPAROO,11
+Dog,Defecating In Public,CORINDA,6
+Dog,Defecating In Public,DARRA,4
+Dog,Defecating In Public,DEAGON,4
+Dog,Defecating In Public,DOOLANDELLA,8
+Dog,Defecating In Public,DREWVALE,2
+Dog,Defecating In Public,DURACK,2
+Dog,Defecating In Public,DUTTON PARK,8
+Dog,Defecating In Public,EAGLE FARM,1
+Dog,Defecating In Public,EAST BRISBANE,9
+Dog,Defecating In Public,ELLEN GROVE,3
+Dog,Defecating In Public,ENOGGERA,1
+Dog,Defecating In Public,EVERTON PARK,7
+Dog,Defecating In Public,FAIRFIELD,1
+Dog,Defecating In Public,FERNY GROVE,3
+Dog,Defecating In Public,FIG TREE POCKET,3
+Dog,Defecating In Public,FITZGIBBON,11
+Dog,Defecating In Public,FOREST LAKE,20
+Dog,Defecating In Public,FORTITUDE VALLEY,5
+Dog,Defecating In Public,GAYTHORNE,2
+Dog,Defecating In Public,GORDON PARK,5
+Dog,Defecating In Public,GRACEVILLE,4
+Dog,Defecating In Public,GRANGE,4
+Dog,Defecating In Public,GREENSLOPES,8
+Dog,Defecating In Public,GUMDALE,2
+Dog,Defecating In Public,HAMILTON,13
+Dog,Defecating In Public,HAWTHORNE,6
+Dog,Defecating In Public,HEATHWOOD,4
+Dog,Defecating In Public,HEMMANT,8
+Dog,Defecating In Public,HENDRA,4
+Dog,Defecating In Public,HERSTON,1
+Dog,Defecating In Public,HIGHGATE HILL,2
+Dog,Defecating In Public,HOLLAND PARK,12
+Dog,Defecating In Public,HOLLAND PARK WEST,1
+Dog,Defecating In Public,INALA,8
+Dog,Defecating In Public,INDOOROOPILLY,3
+Dog,Defecating In Public,JAMBOREE HEIGHTS,3
+Dog,Defecating In Public,JINDALEE,4
+Dog,Defecating In Public,KALINGA,6
+Dog,Defecating In Public,KANGAROO POINT,5
+Dog,Defecating In Public,KARANA DOWNS,1
+Dog,Defecating In Public,KARAWATHA,1
+Dog,Defecating In Public,KEDRON,8
+Dog,Defecating In Public,KELVIN GROVE,2
+Dog,Defecating In Public,KENMORE,7
+Dog,Defecating In Public,KENMORE HILLS,5
+Dog,Defecating In Public,KEPERRA,3
+Dog,Defecating In Public,KURABY,4
+Dog,Defecating In Public,LOTA,3
+Dog,Defecating In Public,LUTWYCHE,2
+Dog,Defecating In Public,MACGREGOR,3
+Dog,Defecating In Public,MANLY,11
+Dog,Defecating In Public,MANLY WEST,8
+Dog,Defecating In Public,MANSFIELD,5
+Dog,Defecating In Public,MCDOWALL,8
+Dog,Defecating In Public,MIDDLE PARK,5
+Dog,Defecating In Public,MILTON,8
+Dog,Defecating In Public,MITCHELTON,7
+Dog,Defecating In Public,MOOROOKA,10
+Dog,Defecating In Public,MORNINGSIDE,9
+Dog,Defecating In Public,MOUNT COOT-THA,3
+Dog,Defecating In Public,MOUNT GRAVATT,6
+Dog,Defecating In Public,MOUNT GRAVATT EAST,11
+Dog,Defecating In Public,MURARRIE,4
+Dog,Defecating In Public,"NATHAN",3
+Dog,Defecating In Public,NEW FARM,13
+Dog,Defecating In Public,NEWMARKET,8
+Dog,Defecating In Public,NEWSTEAD,6
+Dog,Defecating In Public,NORMAN PARK,7
+Dog,Defecating In Public,NORTHGATE,6
+Dog,Defecating In Public,NUDGEE,5
+Dog,Defecating In Public,NUDGEE BEACH,7
+Dog,Defecating In Public,NUNDAH,6
+Dog,Defecating In Public,OXLEY,8
+Dog,Defecating In Public,PADDINGTON,9
+Dog,Defecating In Public,PALLARA,1
+Dog,Defecating In Public,PARKINSON,6
+Dog,Defecating In Public,PETRIE TERRACE,3
+Dog,Defecating In Public,PULLENVALE,1
+Dog,Defecating In Public,RED HILL,5
+Dog,Defecating In Public,RICHLANDS,1
+Dog,Defecating In Public,RIVERHILLS,4
+Dog,Defecating In Public,ROBERTSON,5
+Dog,Defecating In Public,ROCHEDALE,2
+Dog,Defecating In Public,ROCKLEA,1
+Dog,Defecating In Public,RUNCORN,6
+Dog,Defecating In Public,SALISBURY,4
+Dog,Defecating In Public,SANDGATE,10
+Dog,Defecating In Public,SEVEN HILLS,3
+Dog,Defecating In Public,SEVENTEEN MILE ROCKS,3
+Dog,Defecating In Public,SHERWOOD,3
+Dog,Defecating In Public,SHORNCLIFFE,1
+Dog,Defecating In Public,SINNAMON PARK,1
+Dog,Defecating In Public,SOUTH BRISBANE,3
+Dog,Defecating In Public,SPRING HILL,2
+Dog,Defecating In Public,ST LUCIA,2
+Dog,Defecating In Public,STAFFORD,9
+Dog,Defecating In Public,STAFFORD HEIGHTS,7
+Dog,Defecating In Public,STRETTON,7
+Dog,Defecating In Public,SUNNYBANK,10
+Dog,Defecating In Public,SUNNYBANK HILLS,13
+Dog,Defecating In Public,TAIGUM,7
+Dog,Defecating In Public,TARINGA,4
+Dog,Defecating In Public,TARRAGINDI,7
+Dog,Defecating In Public,TENERIFFE,5
+Dog,Defecating In Public,THE GAP,10
+Dog,Defecating In Public,TINGALPA,4
+Dog,Defecating In Public,TOOWONG,16
+Dog,Defecating In Public,UPPER KEDRON,3
+Dog,Defecating In Public,UPPER MOUNT GRAVATT,7
+Dog,Defecating In Public,VIRGINIA,1
+Dog,Defecating In Public,WACOL,1
+Dog,Defecating In Public,WAKERLEY,2
+Dog,Defecating In Public,WAVELL HEIGHTS,7
+Dog,Defecating In Public,WEST END,21
+Dog,Defecating In Public,WESTLAKE,1
+Dog,Defecating In Public,WILSTON,6
+Dog,Defecating In Public,WINDSOR,1
+Dog,Defecating In Public,WISHART,4
+Dog,Defecating In Public,WOOLLOONGABBA,6
+Dog,Defecating In Public,WOOLOOWIN,2
+Dog,Defecating In Public,WYNNUM,15
+Dog,Defecating In Public,WYNNUM WEST,5
+Dog,Defecating In Public,YERONGA,17
+Dog,Defecating In Public,ZILLMERE,4
+Dog,Defecating In Public,NA,9
+Dog,Dog,FAIRFIELD,1
+Dog,Dog,FOREST LAKE,1
+Dog,Dog,GAYTHORNE,1
+Dog,Dog,KENMORE,1
+Dog,Fencing Issues,ACACIA RIDGE,96
+Dog,Fencing Issues,ALBION,7
+Dog,Fencing Issues,ALDERLEY,17
+Dog,Fencing Issues,ALGESTER,28
+Dog,Fencing Issues,ANNERLEY,23
+Dog,Fencing Issues,ANSTEAD,13
+Dog,Fencing Issues,ARCHERFIELD,2
+Dog,Fencing Issues,ASCOT,26
+Dog,Fencing Issues,ASHGROVE,41
+Dog,Fencing Issues,ASPLEY,58
+Dog,Fencing Issues,AUCHENFLOWER,13
+Dog,Fencing Issues,BALD HILLS,54
+Dog,Fencing Issues,BALMORAL,10
+Dog,Fencing Issues,BANYO,57
+Dog,Fencing Issues,BARDON,37
+Dog,Fencing Issues,BELLBOWRIE,18
+Dog,Fencing Issues,BELMONT,16
+Dog,Fencing Issues,BOONDALL,47
+Dog,Fencing Issues,BOWEN HILLS,4
+Dog,Fencing Issues,BRACKEN RIDGE,102
+Dog,Fencing Issues,BRIDGEMAN DOWNS,37
+Dog,Fencing Issues,BRIGHTON,71
+Dog,Fencing Issues,BRISBANE CITY,4
+Dog,Fencing Issues,BROOKFIELD,18
+Dog,Fencing Issues,BULIMBA,36
+Dog,Fencing Issues,BULWER,2
+Dog,Fencing Issues,BURBANK,16
+Dog,Fencing Issues,CALAMVALE,57
+Dog,Fencing Issues,CAMP HILL,47
+Dog,Fencing Issues,CANNON HILL,34
+Dog,Fencing Issues,CARINA,73
+Dog,Fencing Issues,CARINA HEIGHTS,53
+Dog,Fencing Issues,CARINDALE,36
+Dog,Fencing Issues,CARSELDINE,39
+Dog,Fencing Issues,CHANDLER,14
+Dog,Fencing Issues,CHAPEL HILL,38
+Dog,Fencing Issues,CHELMER,4
+Dog,Fencing Issues,CHERMSIDE,49
+Dog,Fencing Issues,CHERMSIDE WEST,31
+Dog,Fencing Issues,CLAYFIELD,7
+Dog,Fencing Issues,COOPERS PLAINS,26
+Dog,Fencing Issues,COORPAROO,33
+Dog,Fencing Issues,CORINDA,13
+Dog,Fencing Issues,DARRA,88
+Dog,Fencing Issues,DEAGON,39
+Dog,Fencing Issues,DOOLANDELLA,19
+Dog,Fencing Issues,DREWVALE,12
+Dog,Fencing Issues,DURACK,42
+Dog,Fencing Issues,DUTTON PARK,19
+Dog,Fencing Issues,EAGLE FARM,1
+Dog,Fencing Issues,EAST BRISBANE,15
+Dog,Fencing Issues,EIGHT MILE PLAINS,21
+Dog,Fencing Issues,ELLEN GROVE,85
+Dog,Fencing Issues,ENOGGERA,17
+Dog,Fencing Issues,EVERTON PARK,46
+Dog,Fencing Issues,FAIRFIELD,16
+Dog,Fencing Issues,FERNY GROVE,24
+Dog,Fencing Issues,FIG TREE POCKET,18
+Dog,Fencing Issues,FITZGIBBON,28
+Dog,Fencing Issues,FOREST LAKE,72
+Dog,Fencing Issues,GAYTHORNE,19
+Dog,Fencing Issues,GEEBUNG,33
+Dog,Fencing Issues,GORDON PARK,15
+Dog,Fencing Issues,GRACEVILLE,32
+Dog,Fencing Issues,GRANGE,8
+Dog,Fencing Issues,GREENSLOPES,31
+Dog,Fencing Issues,GUMDALE,4
+Dog,Fencing Issues,HAMILTON,7
+Dog,Fencing Issues,HAWTHORNE,21
+Dog,Fencing Issues,HEATHWOOD,12
+Dog,Fencing Issues,HEMMANT,25
+Dog,Fencing Issues,HENDRA,18
+Dog,Fencing Issues,HERSTON,9
+Dog,Fencing Issues,HIGHGATE HILL,18
+Dog,Fencing Issues,HOLLAND PARK,41
+Dog,Fencing Issues,HOLLAND PARK WEST,22
+Dog,Fencing Issues,INALA,274
+Dog,Fencing Issues,INDOOROOPILLY,20
+Dog,Fencing Issues,JAMBOREE HEIGHTS,13
+Dog,Fencing Issues,JINDALEE,13
+Dog,Fencing Issues,KALINGA,8
+Dog,Fencing Issues,KANGAROO POINT,7
+Dog,Fencing Issues,KARANA DOWNS,38
+Dog,Fencing Issues,KEDRON,40
+Dog,Fencing Issues,KELVIN GROVE,11
+Dog,Fencing Issues,KENMORE,34
+Dog,Fencing Issues,KENMORE HILLS,13
+Dog,Fencing Issues,KEPERRA,78
+Dog,Fencing Issues,KHOLO,3
+Dog,Fencing Issues,KURABY,21
+Dog,Fencing Issues,LOTA,18
+Dog,Fencing Issues,LUTWYCHE,4
+Dog,Fencing Issues,MACGREGOR,9
+Dog,Fencing Issues,MACKENZIE,3
+Dog,Fencing Issues,MANLY,20
+Dog,Fencing Issues,MANLY WEST,60
+Dog,Fencing Issues,MANSFIELD,41
+Dog,Fencing Issues,MCDOWALL,12
+Dog,Fencing Issues,MIDDLE PARK,18
+Dog,Fencing Issues,MILTON,11
+Dog,Fencing Issues,MITCHELTON,54
+Dog,Fencing Issues,MOGGILL,17
+Dog,Fencing Issues,MOOROOKA,51
+Dog,Fencing Issues,MORNINGSIDE,45
+Dog,Fencing Issues,MOUNT COOT-THA,2
+Dog,Fencing Issues,MOUNT CROSBY,18
+Dog,Fencing Issues,MOUNT GRAVATT,16
+Dog,Fencing Issues,MOUNT GRAVATT EAST,74
+Dog,Fencing Issues,MOUNT OMMANEY,1
+Dog,Fencing Issues,MURARRIE,30
+Dog,Fencing Issues,"NATHAN",1
+Dog,Fencing Issues,NEW FARM,23
+Dog,Fencing Issues,NEWMARKET,12
+Dog,Fencing Issues,NEWSTEAD,1
+Dog,Fencing Issues,NORMAN PARK,38
+Dog,Fencing Issues,NORTHGATE,18
+Dog,Fencing Issues,NUDGEE,29
+Dog,Fencing Issues,NUDGEE BEACH,2
+Dog,Fencing Issues,NUNDAH,39
+Dog,Fencing Issues,OXLEY,42
+Dog,Fencing Issues,PADDINGTON,20
+Dog,Fencing Issues,PALLARA,22
+Dog,Fencing Issues,PARKINSON,22
+Dog,Fencing Issues,PINJARRA HILLS,8
+Dog,Fencing Issues,PINKENBA,7
+Dog,Fencing Issues,PULLENVALE,24
+Dog,Fencing Issues,RANSOME,3
+Dog,Fencing Issues,RED HILL,12
+Dog,Fencing Issues,RICHLANDS,7
+Dog,Fencing Issues,RIVERHILLS,23
+Dog,Fencing Issues,ROBERTSON,14
+Dog,Fencing Issues,ROCHEDALE,23
+Dog,Fencing Issues,ROCKLEA,28
+Dog,Fencing Issues,RUNCORN,33
+Dog,Fencing Issues,SALISBURY,51
+Dog,Fencing Issues,SANDGATE,46
+Dog,Fencing Issues,SEVEN HILLS,15
+Dog,Fencing Issues,SEVENTEEN MILE ROCKS,12
+Dog,Fencing Issues,SHERWOOD,12
+Dog,Fencing Issues,SHORNCLIFFE,3
+Dog,Fencing Issues,SINNAMON PARK,10
+Dog,Fencing Issues,SOUTH BRISBANE,1
+Dog,Fencing Issues,SPRING HILL,15
+Dog,Fencing Issues,ST LUCIA,7
+Dog,Fencing Issues,STAFFORD,114
+Dog,Fencing Issues,STAFFORD HEIGHTS,65
+Dog,Fencing Issues,STONES CORNER,1
+Dog,Fencing Issues,STRETTON,19
+Dog,Fencing Issues,SUMNER,1
+Dog,Fencing Issues,SUNNYBANK,29
+Dog,Fencing Issues,SUNNYBANK HILLS,66
+Dog,Fencing Issues,TAIGUM,9
+Dog,Fencing Issues,TARINGA,15
+Dog,Fencing Issues,TARRAGINDI,54
+Dog,Fencing Issues,TENERIFFE,2
+Dog,Fencing Issues,TENNYSON,1
+Dog,Fencing Issues,THE GAP,64
+Dog,Fencing Issues,TINGALPA,51
+Dog,Fencing Issues,TOOWONG,38
+Dog,Fencing Issues,UPPER BROOKFIELD,7
+Dog,Fencing Issues,UPPER KEDRON,29
+Dog,Fencing Issues,UPPER MOUNT GRAVATT,64
+Dog,Fencing Issues,VIRGINIA,9
+Dog,Fencing Issues,WACOL,13
+Dog,Fencing Issues,WAKERLEY,15
+Dog,Fencing Issues,WAVELL HEIGHTS,69
+Dog,Fencing Issues,WEST END,18
+Dog,Fencing Issues,WESTLAKE,18
+Dog,Fencing Issues,WILLAWONG,1
+Dog,Fencing Issues,WILSTON,8
+Dog,Fencing Issues,WINDSOR,63
+Dog,Fencing Issues,WISHART,19
+Dog,Fencing Issues,WOOLLOONGABBA,21
+Dog,Fencing Issues,WOOLOOWIN,13
+Dog,Fencing Issues,WYNNUM,109
+Dog,Fencing Issues,WYNNUM WEST,72
+Dog,Fencing Issues,YEERONGPILLY,5
+Dog,Fencing Issues,YERONGA,39
+Dog,Fencing Issues,ZILLMERE,119
+Dog,Fencing Issues,NA,20
+Dog,Fox,ACACIA RIDGE,5
+Dog,Fox,ALBION,1
+Dog,Fox,ALDERLEY,3
+Dog,Fox,ALGESTER,2
+Dog,Fox,ANNERLEY,4
+Dog,Fox,ANSTEAD,1
+Dog,Fox,ASCOT,5
+Dog,Fox,ASHGROVE,7
+Dog,Fox,ASPLEY,7
+Dog,Fox,AUCHENFLOWER,2
+Dog,Fox,BALD HILLS,5
+Dog,Fox,BALMORAL,4
+Dog,Fox,BANYO,6
+Dog,Fox,BARDON,17
+Dog,Fox,BELLBOWRIE,3
+Dog,Fox,BELMONT,1
+Dog,Fox,BOONDALL,5
+Dog,Fox,BRACKEN RIDGE,12
+Dog,Fox,BRIDGEMAN DOWNS,6
+Dog,Fox,BRIGHTON,10
+Dog,Fox,BRISBANE CITY,2
+Dog,Fox,BROOKFIELD,2
+Dog,Fox,BULIMBA,8
+Dog,Fox,CALAMVALE,7
+Dog,Fox,CAMP HILL,13
+Dog,Fox,CANNON HILL,1
+Dog,Fox,CARINA,10
+Dog,Fox,CARINA HEIGHTS,1
+Dog,Fox,CARINDALE,15
+Dog,Fox,CARSELDINE,3
+Dog,Fox,CHANDLER,1
+Dog,Fox,CHAPEL HILL,6
+Dog,Fox,CHELMER,3
+Dog,Fox,CHERMSIDE,9
+Dog,Fox,CHERMSIDE WEST,4
+Dog,Fox,CLAYFIELD,1
+Dog,Fox,COOPERS PLAINS,3
+Dog,Fox,COORPAROO,14
+Dog,Fox,CORINDA,1
+Dog,Fox,DARRA,5
+Dog,Fox,DEAGON,3
+Dog,Fox,DOOLANDELLA,3
+Dog,Fox,DURACK,3
+Dog,Fox,DUTTON PARK,4
+Dog,Fox,EAST BRISBANE,2
+Dog,Fox,EIGHT MILE PLAINS,4
+Dog,Fox,ELLEN GROVE,10
+Dog,Fox,ENOGGERA,2
+Dog,Fox,EVERTON PARK,4
+Dog,Fox,FAIRFIELD,5
+Dog,Fox,FERNY GROVE,2
+Dog,Fox,FIG TREE POCKET,5
+Dog,Fox,FITZGIBBON,3
+Dog,Fox,FOREST LAKE,16
+Dog,Fox,FORTITUDE VALLEY,2
+Dog,Fox,GAYTHORNE,2
+Dog,Fox,GEEBUNG,5
+Dog,Fox,GORDON PARK,2
+Dog,Fox,GRACEVILLE,4
+Dog,Fox,GRANGE,4
+Dog,Fox,GREENSLOPES,5
+Dog,Fox,GUMDALE,1
+Dog,Fox,HAMILTON,2
+Dog,Fox,HAWTHORNE,1
+Dog,Fox,HEATHWOOD,1
+Dog,Fox,HEMMANT,10
+Dog,Fox,HENDRA,8
+Dog,Fox,HIGHGATE HILL,7
+Dog,Fox,HOLLAND PARK,6
+Dog,Fox,HOLLAND PARK WEST,3
+Dog,Fox,INALA,20
+Dog,Fox,INDOOROOPILLY,4
+Dog,Fox,JAMBOREE HEIGHTS,1
+Dog,Fox,JINDALEE,5
+Dog,Fox,KALINGA,3
+Dog,Fox,KANGAROO POINT,9
+Dog,Fox,KARANA DOWNS,3
+Dog,Fox,KEDRON,6
+Dog,Fox,KELVIN GROVE,2
+Dog,Fox,KENMORE,3
+Dog,Fox,KENMORE HILLS,1
+Dog,Fox,KEPERRA,17
+Dog,Fox,KURABY,1
+Dog,Fox,LOTA,10
+Dog,Fox,MACGREGOR,4
+Dog,Fox,MANLY,7
+Dog,Fox,MANLY WEST,6
+Dog,Fox,MANSFIELD,6
+Dog,Fox,MIDDLE PARK,1
+Dog,Fox,MILTON,5
+Dog,Fox,MITCHELTON,5
+Dog,Fox,MOGGILL,1
+Dog,Fox,MOOROOKA,12
+Dog,Fox,MORNINGSIDE,5
+Dog,Fox,MOUNT COOT-THA,3
+Dog,Fox,MOUNT GRAVATT,3
+Dog,Fox,MOUNT GRAVATT EAST,8
+Dog,Fox,MOUNT OMMANEY,1
+Dog,Fox,MURARRIE,4
+Dog,Fox,"NATHAN",6
+Dog,Fox,NEW FARM,8
+Dog,Fox,NEWMARKET,1
+Dog,Fox,NEWSTEAD,4
+Dog,Fox,NORMAN PARK,7
+Dog,Fox,NORTHGATE,3
+Dog,Fox,NUDGEE,5
+Dog,Fox,NUDGEE BEACH,2
+Dog,Fox,NUNDAH,7
+Dog,Fox,OXLEY,1
+Dog,Fox,PADDINGTON,3
+Dog,Fox,PALLARA,2
+Dog,Fox,PARKINSON,7
+Dog,Fox,PINKENBA,2
+Dog,Fox,PULLENVALE,2
+Dog,Fox,RANSOME,1
+Dog,Fox,RED HILL,4
+Dog,Fox,RIVERHILLS,4
+Dog,Fox,ROBERTSON,3
+Dog,Fox,ROCHEDALE,2
+Dog,Fox,ROCKLEA,5
+Dog,Fox,RUNCORN,7
+Dog,Fox,SALISBURY,6
+Dog,Fox,SANDGATE,15
+Dog,Fox,SEVENTEEN MILE ROCKS,2
+Dog,Fox,SHERWOOD,7
+Dog,Fox,SHORNCLIFFE,1
+Dog,Fox,SINNAMON PARK,1
+Dog,Fox,ST LUCIA,3
+Dog,Fox,STAFFORD,8
+Dog,Fox,STAFFORD HEIGHTS,4
+Dog,Fox,STRETTON,3
+Dog,Fox,SUMNER,2
+Dog,Fox,SUNNYBANK,8
+Dog,Fox,SUNNYBANK HILLS,6
+Dog,Fox,TAIGUM,2
+Dog,Fox,TARINGA,3
+Dog,Fox,TARRAGINDI,6
+Dog,Fox,TENERIFFE,3
+Dog,Fox,THE GAP,7
+Dog,Fox,TINGALPA,10
+Dog,Fox,TOOWONG,6
+Dog,Fox,UPPER BROOKFIELD,3
+Dog,Fox,UPPER KEDRON,5
+Dog,Fox,UPPER MOUNT GRAVATT,6
+Dog,Fox,VIRGINIA,2
+Dog,Fox,WACOL,1
+Dog,Fox,WAKERLEY,2
+Dog,Fox,WAVELL HEIGHTS,7
+Dog,Fox,WEST END,16
+Dog,Fox,WESTLAKE,2
+Dog,Fox,WINDSOR,3
+Dog,Fox,WISHART,1
+Dog,Fox,WOOLLOONGABBA,2
+Dog,Fox,WOOLOOWIN,1
+Dog,Fox,WYNNUM,12
+Dog,Fox,WYNNUM WEST,2
+Dog,Fox,YEERONGPILLY,1
+Dog,Fox,YERONGA,8
+Dog,Fox,ZILLMERE,7
+Dog,Fox,NA,24
+Dog,Insufficient Space,ALDERLEY,1
+Dog,Insufficient Space,ANSTEAD,1
+Dog,Insufficient Space,BOONDALL,1
+Dog,Insufficient Space,BRIGHTON,1
+Dog,Insufficient Space,BROOKFIELD,1
+Dog,Insufficient Space,CALAMVALE,1
+Dog,Insufficient Space,CARINA,1
+Dog,Insufficient Space,CARSELDINE,1
+Dog,Insufficient Space,CHERMSIDE,1
+Dog,Insufficient Space,CHERMSIDE WEST,1
+Dog,Insufficient Space,DEAGON,1
+Dog,Insufficient Space,FERNY GROVE,1
+Dog,Insufficient Space,GORDON PARK,5
+Dog,Insufficient Space,GRACEVILLE,2
+Dog,Insufficient Space,INALA,1
+Dog,Insufficient Space,JINDALEE,1
+Dog,Insufficient Space,KARANA DOWNS,1
+Dog,Insufficient Space,KEDRON,1
+Dog,Insufficient Space,MOOROOKA,1
+Dog,Insufficient Space,MOUNT GRAVATT EAST,2
+Dog,Insufficient Space,NEWMARKET,1
+Dog,Insufficient Space,NUDGEE BEACH,1
+Dog,Insufficient Space,PADDINGTON,1
+Dog,Insufficient Space,RED HILL,1
+Dog,Insufficient Space,SALISBURY,1
+Dog,Insufficient Space,SANDGATE,3
+Dog,Insufficient Space,STAFFORD,1
+Dog,Insufficient Space,STAFFORD HEIGHTS,1
+Dog,Insufficient Space,THE GAP,1
+Dog,Insufficient Space,WACOL,1
+Dog,Insufficient Space,WAVELL HEIGHTS,1
+Dog,Insufficient Space,WEST END,3
+Dog,Insufficient Space,WYNNUM,1
+Dog,Insufficient Space,WYNNUM WEST,1
+Dog,Insufficient Space,YERONGA,1
+Dog,Insufficient Space,ZILLMERE,1
+Dog,Insufficient Space,NA,4
+Dog,Nuisance Animal,UPPER BROOKFIELD,1
+Dog,Odour,ACACIA RIDGE,1
+Dog,Odour,ALGESTER,2
+Dog,Odour,ANNERLEY,1
+Dog,Odour,ASCOT,2
+Dog,Odour,ASHGROVE,1
+Dog,Odour,ASPLEY,2
+Dog,Odour,AUCHENFLOWER,1
+Dog,Odour,BALD HILLS,1
+Dog,Odour,BALMORAL,2
+Dog,Odour,BANYO,8
+Dog,Odour,BARDON,2
+Dog,Odour,BELMONT,3
+Dog,Odour,BOONDALL,5
+Dog,Odour,BRACKEN RIDGE,6
+Dog,Odour,BRIGHTON,2
+Dog,Odour,BULIMBA,5
+Dog,Odour,CALAMVALE,4
+Dog,Odour,CAMP HILL,5
+Dog,Odour,CARINA,6
+Dog,Odour,CARINA HEIGHTS,1
+Dog,Odour,CARINDALE,7
+Dog,Odour,CARSELDINE,1
+Dog,Odour,CHERMSIDE,8
+Dog,Odour,CHERMSIDE WEST,5
+Dog,Odour,CLAYFIELD,1
+Dog,Odour,COOPERS PLAINS,3
+Dog,Odour,COORPAROO,9
+Dog,Odour,CORINDA,5
+Dog,Odour,DARRA,3
+Dog,Odour,DEAGON,2
+Dog,Odour,DOOLANDELLA,5
+Dog,Odour,DREWVALE,1
+Dog,Odour,DUTTON PARK,5
+Dog,Odour,EAST BRISBANE,1
+Dog,Odour,EIGHT MILE PLAINS,4
+Dog,Odour,ELLEN GROVE,2
+Dog,Odour,ENOGGERA,4
+Dog,Odour,EVERTON PARK,5
+Dog,Odour,FAIRFIELD,2
+Dog,Odour,FITZGIBBON,6
+Dog,Odour,FOREST LAKE,8
+Dog,Odour,FORTITUDE VALLEY,1
+Dog,Odour,GAYTHORNE,3
+Dog,Odour,GEEBUNG,1
+Dog,Odour,GORDON PARK,4
+Dog,Odour,GRACEVILLE,1
+Dog,Odour,GRANGE,4
+Dog,Odour,GUMDALE,1
+Dog,Odour,HAMILTON,1
+Dog,Odour,HAWTHORNE,4
+Dog,Odour,HEATHWOOD,4
+Dog,Odour,HEMMANT,1
+Dog,Odour,HENDRA,1
+Dog,Odour,HIGHGATE HILL,5
+Dog,Odour,HOLLAND PARK,3
+Dog,Odour,INALA,15
+Dog,Odour,INDOOROOPILLY,3
+Dog,Odour,KANGAROO POINT,2
+Dog,Odour,KEDRON,8
+Dog,Odour,KELVIN GROVE,2
+Dog,Odour,KEPERRA,4
+Dog,Odour,KURABY,1
+Dog,Odour,LOTA,3
+Dog,Odour,LUTWYCHE,3
+Dog,Odour,MACGREGOR,1
+Dog,Odour,MANLY,2
+Dog,Odour,MANLY WEST,7
+Dog,Odour,MANSFIELD,5
+Dog,Odour,MCDOWALL,1
+Dog,Odour,MIDDLE PARK,2
+Dog,Odour,MITCHELTON,2
+Dog,Odour,MOOROOKA,2
+Dog,Odour,MORNINGSIDE,15
+Dog,Odour,MOUNT GRAVATT EAST,10
+Dog,Odour,MURARRIE,3
+Dog,Odour,"NATHAN",1
+Dog,Odour,NEW FARM,2
+Dog,Odour,NEWMARKET,5
+Dog,Odour,NORMAN PARK,5
+Dog,Odour,NORTHGATE,2
+Dog,Odour,NUNDAH,5
+Dog,Odour,OXLEY,3
+Dog,Odour,PADDINGTON,3
+Dog,Odour,PALLARA,1
+Dog,Odour,PARKINSON,5
+Dog,Odour,RED HILL,1
+Dog,Odour,ROBERTSON,1
+Dog,Odour,ROCHEDALE,5
+Dog,Odour,ROCKLEA,1
+Dog,Odour,RUNCORN,5
+Dog,Odour,SANDGATE,1
+Dog,Odour,SEVEN HILLS,1
+Dog,Odour,SEVENTEEN MILE ROCKS,3
+Dog,Odour,SHORNCLIFFE,1
+Dog,Odour,ST LUCIA,1
+Dog,Odour,STAFFORD HEIGHTS,1
+Dog,Odour,STONES CORNER,1
+Dog,Odour,STRETTON,1
+Dog,Odour,SUNNYBANK,2
+Dog,Odour,SUNNYBANK HILLS,6
+Dog,Odour,TAIGUM,1
+Dog,Odour,TARINGA,2
+Dog,Odour,TARRAGINDI,1
+Dog,Odour,TENERIFFE,2
+Dog,Odour,THE GAP,1
+Dog,Odour,TOOWONG,7
+Dog,Odour,UPPER KEDRON,4
+Dog,Odour,UPPER MOUNT GRAVATT,6
+Dog,Odour,WAKERLEY,1
+Dog,Odour,WAVELL HEIGHTS,8
+Dog,Odour,WEST END,4
+Dog,Odour,WESTLAKE,1
+Dog,Odour,WINDSOR,1
+Dog,Odour,WISHART,1
+Dog,Odour,WOOLLOONGABBA,2
+Dog,Odour,WYNNUM,10
+Dog,Odour,WYNNUM WEST,7
+Dog,Odour,YERONGA,4
+Dog,Odour,ZILLMERE,4
+Dog,Odour,NA,1
+Dog,Surrender,BOONDALL,1
+Dog,Surrender,CALAMVALE,2
+Dog,Surrender,FERNY GROVE,2
+Dog,Surrender,FIG TREE POCKET,1
+Dog,Surrender,HENDRA,1
+Dog,Surrender,INALA,4
+Dog,Surrender,MOUNT GRAVATT EAST,1
+Dog,Surrender,PINKENBA,1
+Dog,Surrender,STAFFORD,1
+Dog,Surrender,WACOL,1
+Dog,Too Many Animals,ACACIA RIDGE,13
+Dog,Too Many Animals,ALBION,6
+Dog,Too Many Animals,ALDERLEY,1
+Dog,Too Many Animals,ALGESTER,6
+Dog,Too Many Animals,ANNERLEY,2
+Dog,Too Many Animals,ANSTEAD,6
+Dog,Too Many Animals,ASCOT,4
+Dog,Too Many Animals,ASHGROVE,7
+Dog,Too Many Animals,ASPLEY,9
+Dog,Too Many Animals,AUCHENFLOWER,2
+Dog,Too Many Animals,BALD HILLS,15
+Dog,Too Many Animals,BANYO,12
+Dog,Too Many Animals,BARDON,3
+Dog,Too Many Animals,BELLBOWRIE,3
+Dog,Too Many Animals,BOONDALL,14
+Dog,Too Many Animals,BOWEN HILLS,1
+Dog,Too Many Animals,BRACKEN RIDGE,22
+Dog,Too Many Animals,BRIDGEMAN DOWNS,4
+Dog,Too Many Animals,BRIGHTON,11
+Dog,Too Many Animals,BRISBANE CITY,1
+Dog,Too Many Animals,BROOKFIELD,1
+Dog,Too Many Animals,BULIMBA,8
+Dog,Too Many Animals,BURBANK,1
+Dog,Too Many Animals,CALAMVALE,5
+Dog,Too Many Animals,CAMP HILL,7
+Dog,Too Many Animals,CANNON HILL,1
+Dog,Too Many Animals,CARINA,5
+Dog,Too Many Animals,CARINA HEIGHTS,8
+Dog,Too Many Animals,CARINDALE,8
+Dog,Too Many Animals,CARSELDINE,1
+Dog,Too Many Animals,CHAPEL HILL,7
+Dog,Too Many Animals,CHELMER,1
+Dog,Too Many Animals,CHERMSIDE,12
+Dog,Too Many Animals,CHERMSIDE WEST,4
+Dog,Too Many Animals,CLAYFIELD,3
+Dog,Too Many Animals,COOPERS PLAINS,2
+Dog,Too Many Animals,COORPAROO,7
+Dog,Too Many Animals,CORINDA,3
+Dog,Too Many Animals,DARRA,8
+Dog,Too Many Animals,DEAGON,2
+Dog,Too Many Animals,DOOLANDELLA,1
+Dog,Too Many Animals,DREWVALE,4
+Dog,Too Many Animals,DURACK,13
+Dog,Too Many Animals,DUTTON PARK,4
+Dog,Too Many Animals,EAST BRISBANE,3
+Dog,Too Many Animals,EIGHT MILE PLAINS,9
+Dog,Too Many Animals,ELLEN GROVE,32
+Dog,Too Many Animals,ENOGGERA,1
+Dog,Too Many Animals,EVERTON PARK,9
+Dog,Too Many Animals,FAIRFIELD,5
+Dog,Too Many Animals,FERNY GROVE,3
+Dog,Too Many Animals,FIG TREE POCKET,6
+Dog,Too Many Animals,FITZGIBBON,3
+Dog,Too Many Animals,FOREST LAKE,13
+Dog,Too Many Animals,GEEBUNG,12
+Dog,Too Many Animals,GORDON PARK,8
+Dog,Too Many Animals,GRACEVILLE,1
+Dog,Too Many Animals,GRANGE,2
+Dog,Too Many Animals,GREENSLOPES,2
+Dog,Too Many Animals,GUMDALE,1
+Dog,Too Many Animals,HAWTHORNE,4
+Dog,Too Many Animals,HEMMANT,7
+Dog,Too Many Animals,HENDRA,10
+Dog,Too Many Animals,HOLLAND PARK,12
+Dog,Too Many Animals,HOLLAND PARK WEST,10
+Dog,Too Many Animals,INALA,23
+Dog,Too Many Animals,INDOOROOPILLY,3
+Dog,Too Many Animals,JAMBOREE HEIGHTS,4
+Dog,Too Many Animals,JINDALEE,1
+Dog,Too Many Animals,KALINGA,3
+Dog,Too Many Animals,KANGAROO POINT,6
+Dog,Too Many Animals,KARANA DOWNS,3
+Dog,Too Many Animals,KEDRON,14
+Dog,Too Many Animals,KELVIN GROVE,2
+Dog,Too Many Animals,KENMORE,3
+Dog,Too Many Animals,KEPERRA,26
+Dog,Too Many Animals,KHOLO,2
+Dog,Too Many Animals,KURABY,2
+Dog,Too Many Animals,LOTA,18
+Dog,Too Many Animals,LUTWYCHE,10
+Dog,Too Many Animals,MACGREGOR,4
+Dog,Too Many Animals,MANLY,2
+Dog,Too Many Animals,MANLY WEST,12
+Dog,Too Many Animals,MANSFIELD,4
+Dog,Too Many Animals,MCDOWALL,5
+Dog,Too Many Animals,MILTON,1
+Dog,Too Many Animals,MITCHELTON,9
+Dog,Too Many Animals,MOGGILL,6
+Dog,Too Many Animals,MOOROOKA,7
+Dog,Too Many Animals,MORNINGSIDE,4
+Dog,Too Many Animals,MOUNT CROSBY,5
+Dog,Too Many Animals,MOUNT GRAVATT,1
+Dog,Too Many Animals,MOUNT GRAVATT EAST,11
+Dog,Too Many Animals,MOUNT OMMANEY,1
+Dog,Too Many Animals,MURARRIE,6
+Dog,Too Many Animals,"NATHAN",2
+Dog,Too Many Animals,NEW FARM,2
+Dog,Too Many Animals,NEWMARKET,3
+Dog,Too Many Animals,NEWSTEAD,1
+Dog,Too Many Animals,NORMAN PARK,11
+Dog,Too Many Animals,NORTHGATE,23
+Dog,Too Many Animals,NUDGEE,4
+Dog,Too Many Animals,NUDGEE BEACH,12
+Dog,Too Many Animals,NUNDAH,6
+Dog,Too Many Animals,OXLEY,9
+Dog,Too Many Animals,PADDINGTON,6
+Dog,Too Many Animals,PALLARA,2
+Dog,Too Many Animals,PARKINSON,4
+Dog,Too Many Animals,PINJARRA HILLS,2
+Dog,Too Many Animals,PINKENBA,4
+Dog,Too Many Animals,PULLENVALE,1
+Dog,Too Many Animals,RED HILL,3
+Dog,Too Many Animals,RIVERHILLS,2
+Dog,Too Many Animals,ROBERTSON,7
+Dog,Too Many Animals,ROCHEDALE,5
+Dog,Too Many Animals,ROCKLEA,4
+Dog,Too Many Animals,RUNCORN,8
+Dog,Too Many Animals,SALISBURY,11
+Dog,Too Many Animals,SANDGATE,8
+Dog,Too Many Animals,SEVEN HILLS,1
+Dog,Too Many Animals,SEVENTEEN MILE ROCKS,4
+Dog,Too Many Animals,SHORNCLIFFE,5
+Dog,Too Many Animals,SINNAMON PARK,2
+Dog,Too Many Animals,SOUTH BRISBANE,1
+Dog,Too Many Animals,SPRING HILL,2
+Dog,Too Many Animals,ST LUCIA,2
+Dog,Too Many Animals,STAFFORD,3
+Dog,Too Many Animals,STAFFORD HEIGHTS,6
+Dog,Too Many Animals,SUNNYBANK,11
+Dog,Too Many Animals,SUNNYBANK HILLS,9
+Dog,Too Many Animals,TARINGA,1
+Dog,Too Many Animals,TARRAGINDI,17
+Dog,Too Many Animals,TENERIFFE,6
+Dog,Too Many Animals,THE GAP,6
+Dog,Too Many Animals,TINGALPA,10
+Dog,Too Many Animals,TOOWONG,4
+Dog,Too Many Animals,UPPER KEDRON,2
+Dog,Too Many Animals,UPPER MOUNT GRAVATT,9
+Dog,Too Many Animals,VIRGINIA,1
+Dog,Too Many Animals,WACOL,5
+Dog,Too Many Animals,WAKERLEY,3
+Dog,Too Many Animals,WAVELL HEIGHTS,12
+Dog,Too Many Animals,WEST END,1
+Dog,Too Many Animals,WESTLAKE,1
+Dog,Too Many Animals,WINDSOR,3
+Dog,Too Many Animals,WISHART,1
+Dog,Too Many Animals,WOOLLOONGABBA,6
+Dog,Too Many Animals,WOOLOOWIN,1
+Dog,Too Many Animals,WYNNUM,17
+Dog,Too Many Animals,WYNNUM WEST,9
+Dog,Too Many Animals,YEERONGPILLY,1
+Dog,Too Many Animals,YERONGA,13
+Dog,Too Many Animals,ZILLMERE,44
+Dog,Too Many Animals,NA,15
+Dog,Unregistered,ACACIA RIDGE,37
+Dog,Unregistered,ALBION,4
+Dog,Unregistered,ALDERLEY,16
+Dog,Unregistered,ALGESTER,17
+Dog,Unregistered,ANNERLEY,11
+Dog,Unregistered,ANSTEAD,2
+Dog,Unregistered,ARCHERFIELD,3
+Dog,Unregistered,ASCOT,7
+Dog,Unregistered,ASHGROVE,8
+Dog,Unregistered,ASPLEY,16
+Dog,Unregistered,AUCHENFLOWER,1
+Dog,Unregistered,BALD HILLS,21
+Dog,Unregistered,BALMORAL,6
+Dog,Unregistered,BANYO,11
+Dog,Unregistered,BARDON,9
+Dog,Unregistered,BELLBOWRIE,7
+Dog,Unregistered,BELMONT,7
+Dog,Unregistered,BOONDALL,10
+Dog,Unregistered,BOWEN HILLS,7
+Dog,Unregistered,BRACKEN RIDGE,35
+Dog,Unregistered,BRIDGEMAN DOWNS,10
+Dog,Unregistered,BRIGHTON,21
+Dog,Unregistered,BRISBANE CITY,4
+Dog,Unregistered,BROOKFIELD,3
+Dog,Unregistered,BULIMBA,19
+Dog,Unregistered,BURBANK,1
+Dog,Unregistered,CALAMVALE,22
+Dog,Unregistered,CAMP HILL,16
+Dog,Unregistered,CANNON HILL,14
+Dog,Unregistered,CARINA,34
+Dog,Unregistered,CARINA HEIGHTS,19
+Dog,Unregistered,CARINDALE,9
+Dog,Unregistered,CARSELDINE,18
+Dog,Unregistered,CHANDLER,4
+Dog,Unregistered,CHAPEL HILL,10
+Dog,Unregistered,CHELMER,2
+Dog,Unregistered,CHERMSIDE,11
+Dog,Unregistered,CHERMSIDE WEST,8
+Dog,Unregistered,CLAYFIELD,15
+Dog,Unregistered,COOPERS PLAINS,12
+Dog,Unregistered,COORPAROO,25
+Dog,Unregistered,CORINDA,11
+Dog,Unregistered,DARRA,17
+Dog,Unregistered,DEAGON,5
+Dog,Unregistered,DOOLANDELLA,14
+Dog,Unregistered,DREWVALE,6
+Dog,Unregistered,DURACK,14
+Dog,Unregistered,DUTTON PARK,4
+Dog,Unregistered,EAST BRISBANE,10
+Dog,Unregistered,EIGHT MILE PLAINS,18
+Dog,Unregistered,ELLEN GROVE,21
+Dog,Unregistered,ENOGGERA,11
+Dog,Unregistered,EVERTON PARK,19
+Dog,Unregistered,FAIRFIELD,1
+Dog,Unregistered,FERNY GROVE,13
+Dog,Unregistered,FIG TREE POCKET,5
+Dog,Unregistered,FITZGIBBON,4
+Dog,Unregistered,FOREST LAKE,36
+Dog,Unregistered,FORTITUDE VALLEY,2
+Dog,Unregistered,GAYTHORNE,6
+Dog,Unregistered,GEEBUNG,7
+Dog,Unregistered,GORDON PARK,10
+Dog,Unregistered,GRACEVILLE,13
+Dog,Unregistered,GRANGE,6
+Dog,Unregistered,GREENSLOPES,11
+Dog,Unregistered,HAMILTON,3
+Dog,Unregistered,HAWTHORNE,3
+Dog,Unregistered,HEATHWOOD,4
+Dog,Unregistered,HEMMANT,8
+Dog,Unregistered,HENDRA,7
+Dog,Unregistered,HIGHGATE HILL,3
+Dog,Unregistered,HOLLAND PARK,18
+Dog,Unregistered,HOLLAND PARK WEST,11
+Dog,Unregistered,INALA,70
+Dog,Unregistered,INDOOROOPILLY,5
+Dog,Unregistered,JAMBOREE HEIGHTS,7
+Dog,Unregistered,JINDALEE,6
+Dog,Unregistered,KANGAROO POINT,8
+Dog,Unregistered,KARANA DOWNS,12
+Dog,Unregistered,KEDRON,10
+Dog,Unregistered,KELVIN GROVE,2
+Dog,Unregistered,KENMORE,4
+Dog,Unregistered,KENMORE HILLS,4
+Dog,Unregistered,KEPERRA,35
+Dog,Unregistered,KHOLO,2
+Dog,Unregistered,KURABY,11
+Dog,Unregistered,LOTA,11
+Dog,Unregistered,LUTWYCHE,1
+Dog,Unregistered,MACGREGOR,3
+Dog,Unregistered,MACKENZIE,1
+Dog,Unregistered,MANLY,6
+Dog,Unregistered,MANLY WEST,18
+Dog,Unregistered,MANSFIELD,13
+Dog,Unregistered,MCDOWALL,10
+Dog,Unregistered,MIDDLE PARK,1
+Dog,Unregistered,MITCHELTON,21
+Dog,Unregistered,MOGGILL,5
+Dog,Unregistered,MOOROOKA,24
+Dog,Unregistered,MORNINGSIDE,26
+Dog,Unregistered,MOUNT COOT-THA,1
+Dog,Unregistered,MOUNT CROSBY,4
+Dog,Unregistered,MOUNT GRAVATT,12
+Dog,Unregistered,MOUNT GRAVATT EAST,32
+Dog,Unregistered,MOUNT OMMANEY,2
+Dog,Unregistered,MURARRIE,16
+Dog,Unregistered,"NATHAN",2
+Dog,Unregistered,NEW FARM,10
+Dog,Unregistered,NEWMARKET,7
+Dog,Unregistered,NEWSTEAD,5
+Dog,Unregistered,NORMAN PARK,14
+Dog,Unregistered,NORTHGATE,10
+Dog,Unregistered,NUDGEE,7
+Dog,Unregistered,NUDGEE BEACH,4
+Dog,Unregistered,NUNDAH,19
+Dog,Unregistered,OXLEY,8
+Dog,Unregistered,PADDINGTON,12
+Dog,Unregistered,PALLARA,4
+Dog,Unregistered,PARKINSON,7
+Dog,Unregistered,PETRIE TERRACE,2
+Dog,Unregistered,PINKENBA,1
+Dog,Unregistered,PULLENVALE,1
+Dog,Unregistered,RANSOME,1
+Dog,Unregistered,RED HILL,5
+Dog,Unregistered,RICHLANDS,7
+Dog,Unregistered,RIVERHILLS,6
+Dog,Unregistered,ROBERTSON,4
+Dog,Unregistered,ROCHEDALE,14
+Dog,Unregistered,ROCKLEA,4
+Dog,Unregistered,RUNCORN,15
+Dog,Unregistered,SALISBURY,12
+Dog,Unregistered,SANDGATE,9
+Dog,Unregistered,SEVEN HILLS,2
+Dog,Unregistered,SEVENTEEN MILE ROCKS,4
+Dog,Unregistered,SHERWOOD,4
+Dog,Unregistered,SHORNCLIFFE,3
+Dog,Unregistered,SINNAMON PARK,2
+Dog,Unregistered,SOUTH BRISBANE,3
+Dog,Unregistered,SPRING HILL,4
+Dog,Unregistered,ST LUCIA,4
+Dog,Unregistered,STAFFORD,27
+Dog,Unregistered,STAFFORD HEIGHTS,17
+Dog,Unregistered,STRETTON,3
+Dog,Unregistered,SUMNER,1
+Dog,Unregistered,SUNNYBANK,12
+Dog,Unregistered,SUNNYBANK HILLS,33
+Dog,Unregistered,TAIGUM,5
+Dog,Unregistered,TARINGA,1
+Dog,Unregistered,TARRAGINDI,16
+Dog,Unregistered,TENERIFFE,5
+Dog,Unregistered,TENNYSON,2
+Dog,Unregistered,THE GAP,23
+Dog,Unregistered,TINGALPA,16
+Dog,Unregistered,TOOWONG,6
+Dog,Unregistered,UPPER BROOKFIELD,3
+Dog,Unregistered,UPPER KEDRON,16
+Dog,Unregistered,UPPER MOUNT GRAVATT,14
+Dog,Unregistered,VIRGINIA,10
+Dog,Unregistered,WACOL,1
+Dog,Unregistered,WAKERLEY,4
+Dog,Unregistered,WAVELL HEIGHTS,14
+Dog,Unregistered,WEST END,4
+Dog,Unregistered,WESTLAKE,4
+Dog,Unregistered,WILSTON,1
+Dog,Unregistered,WINDSOR,3
+Dog,Unregistered,WISHART,9
+Dog,Unregistered,WOOLLOONGABBA,6
+Dog,Unregistered,WOOLOOWIN,4
+Dog,Unregistered,WYNNUM,28
+Dog,Unregistered,WYNNUM WEST,30
+Dog,Unregistered,YERONGA,11
+Dog,Unregistered,ZILLMERE,27
+Dog,Unregistered,NA,189
+Dog,Wandering,ACACIA RIDGE,12
+Dog,Wandering,ALBION,2
+Dog,Wandering,ALDERLEY,31
+Dog,Wandering,ALGESTER,10
+Dog,Wandering,ANNERLEY,6
+Dog,Wandering,ANSTEAD,11
+Dog,Wandering,ASCOT,21
+Dog,Wandering,ASHGROVE,50
+Dog,Wandering,ASPLEY,16
+Dog,Wandering,AUCHENFLOWER,2
+Dog,Wandering,BALD HILLS,19
+Dog,Wandering,BALMORAL,5
+Dog,Wandering,BANYO,11
+Dog,Wandering,BARDON,42
+Dog,Wandering,BELLBOWRIE,7
+Dog,Wandering,BELMONT,6
+Dog,Wandering,BOONDALL,14
+Dog,Wandering,BOWEN HILLS,1
+Dog,Wandering,BRACKEN RIDGE,39
+Dog,Wandering,BRIDGEMAN DOWNS,17
+Dog,Wandering,BRIGHTON,26
+Dog,Wandering,BRISBANE CITY,12
+Dog,Wandering,BROOKFIELD,10
+Dog,Wandering,BULIMBA,48
+Dog,Wandering,BURBANK,2
+Dog,Wandering,CALAMVALE,9
+Dog,Wandering,CAMP HILL,49
+Dog,Wandering,CANNON HILL,13
+Dog,Wandering,CARINA,49
+Dog,Wandering,CARINA HEIGHTS,7
+Dog,Wandering,CARINDALE,38
+Dog,Wandering,CARSELDINE,10
+Dog,Wandering,CHANDLER,2
+Dog,Wandering,CHAPEL HILL,34
+Dog,Wandering,CHELMER,4
+Dog,Wandering,CHERMSIDE,136
+Dog,Wandering,CHERMSIDE WEST,43
+Dog,Wandering,CHUWAR,1
+Dog,Wandering,CLAYFIELD,1
+Dog,Wandering,COOPERS PLAINS,5
+Dog,Wandering,COORPAROO,29
+Dog,Wandering,CORINDA,19
+Dog,Wandering,DARRA,16
+Dog,Wandering,DEAGON,2
+Dog,Wandering,DOOLANDELLA,5
+Dog,Wandering,DREWVALE,1
+Dog,Wandering,DURACK,7
+Dog,Wandering,DUTTON PARK,7
+Dog,Wandering,EAST BRISBANE,13
+Dog,Wandering,EIGHT MILE PLAINS,17
+Dog,Wandering,ELLEN GROVE,16
+Dog,Wandering,ENOGGERA,8
+Dog,Wandering,ENOGGERA RESERVOIR,1
+Dog,Wandering,EVERTON PARK,38
+Dog,Wandering,FAIRFIELD,2
+Dog,Wandering,FERNY GROVE,11
+Dog,Wandering,FIG TREE POCKET,18
+Dog,Wandering,FITZGIBBON,16
+Dog,Wandering,FOREST LAKE,34
+Dog,Wandering,FORTITUDE VALLEY,2
+Dog,Wandering,GAYTHORNE,2
+Dog,Wandering,GEEBUNG,16
+Dog,Wandering,GORDON PARK,12
+Dog,Wandering,GRACEVILLE,3
+Dog,Wandering,GRANGE,9
+Dog,Wandering,GREENSLOPES,7
+Dog,Wandering,GUMDALE,1
+Dog,Wandering,HAMILTON,32
+Dog,Wandering,HAWTHORNE,39
+Dog,Wandering,HEATHWOOD,4
+Dog,Wandering,HEMMANT,18
+Dog,Wandering,HENDRA,8
+Dog,Wandering,HERSTON,5
+Dog,Wandering,HIGHGATE HILL,8
+Dog,Wandering,HOLLAND PARK,11
+Dog,Wandering,HOLLAND PARK WEST,25
+Dog,Wandering,INALA,38
+Dog,Wandering,INDOOROOPILLY,16
+Dog,Wandering,JAMBOREE HEIGHTS,3
+Dog,Wandering,JINDALEE,6
+Dog,Wandering,KALINGA,27
+Dog,Wandering,KANGAROO POINT,30
+Dog,Wandering,KARANA DOWNS,5
+Dog,Wandering,KARAWATHA,6
+Dog,Wandering,KEDRON,20
+Dog,Wandering,KELVIN GROVE,4
+Dog,Wandering,KENMORE,21
+Dog,Wandering,KENMORE HILLS,3
+Dog,Wandering,KEPERRA,33
+Dog,Wandering,KHOLO,2
+Dog,Wandering,KURABY,6
+Dog,Wandering,LOTA,40
+Dog,Wandering,LUTWYCHE,5
+Dog,Wandering,LYTTON,4
+Dog,Wandering,MACGREGOR,1
+Dog,Wandering,MACKENZIE,1
+Dog,Wandering,MANLY,21
+Dog,Wandering,MANLY WEST,9
+Dog,Wandering,MANSFIELD,19
+Dog,Wandering,MCDOWALL,41
+Dog,Wandering,MIDDLE PARK,2
+Dog,Wandering,MILTON,25
+Dog,Wandering,MITCHELTON,12
+Dog,Wandering,MOGGILL,10
+Dog,Wandering,MOOROOKA,27
+Dog,Wandering,MORNINGSIDE,16
+Dog,Wandering,MOUNT COOT-THA,64
+Dog,Wandering,MOUNT GRAVATT,9
+Dog,Wandering,MOUNT GRAVATT EAST,17
+Dog,Wandering,MOUNT OMMANEY,1
+Dog,Wandering,MURARRIE,12
+Dog,Wandering,"NATHAN",21
+Dog,Wandering,NEW FARM,29
+Dog,Wandering,NEWMARKET,15
+Dog,Wandering,NEWSTEAD,38
+Dog,Wandering,NORMAN PARK,6
+Dog,Wandering,NORTHGATE,8
+Dog,Wandering,NUDGEE,13
+Dog,Wandering,NUDGEE BEACH,60
+Dog,Wandering,NUNDAH,12
+Dog,Wandering,OXLEY,18
+Dog,Wandering,PADDINGTON,9
+Dog,Wandering,PARKINSON,17
+Dog,Wandering,PINJARRA HILLS,5
+Dog,Wandering,PULLENVALE,5
+Dog,Wandering,RED HILL,15
+Dog,Wandering,RICHLANDS,4
+Dog,Wandering,RIVERHILLS,13
+Dog,Wandering,ROCHEDALE,2
+Dog,Wandering,ROCKLEA,7
+Dog,Wandering,RUNCORN,11
+Dog,Wandering,SALISBURY,9
+Dog,Wandering,SANDGATE,37
+Dog,Wandering,SEVEN HILLS,3
+Dog,Wandering,SEVENTEEN MILE ROCKS,9
+Dog,Wandering,SHERWOOD,23
+Dog,Wandering,SHORNCLIFFE,3
+Dog,Wandering,SINNAMON PARK,6
+Dog,Wandering,SOUTH BRISBANE,3
+Dog,Wandering,SPRING HILL,7
+Dog,Wandering,ST LUCIA,15
+Dog,Wandering,STAFFORD,30
+Dog,Wandering,STAFFORD HEIGHTS,14
+Dog,Wandering,STONES CORNER,3
+Dog,Wandering,STRETTON,8
+Dog,Wandering,SUNNYBANK,13
+Dog,Wandering,SUNNYBANK HILLS,20
+Dog,Wandering,TAIGUM,2
+Dog,Wandering,TARINGA,3
+Dog,Wandering,TARRAGINDI,18
+Dog,Wandering,TENERIFFE,12
+Dog,Wandering,THE GAP,21
+Dog,Wandering,TINGALPA,15
+Dog,Wandering,TOOWONG,17
+Dog,Wandering,UPPER KEDRON,14
+Dog,Wandering,UPPER MOUNT GRAVATT,13
+Dog,Wandering,VIRGINIA,13
+Dog,Wandering,WACOL,2
+Dog,Wandering,WAKERLEY,15
+Dog,Wandering,WAVELL HEIGHTS,35
+Dog,Wandering,WEST END,83
+Dog,Wandering,WESTLAKE,3
+Dog,Wandering,WILLAWONG,4
+Dog,Wandering,WILSTON,12
+Dog,Wandering,WINDSOR,23
+Dog,Wandering,WISHART,18
+Dog,Wandering,WOOLLOONGABBA,7
+Dog,Wandering,WOOLOOWIN,6
+Dog,Wandering,WYNNUM,56
+Dog,Wandering,WYNNUM WEST,21
+Dog,Wandering,YERONGA,97
+Dog,Wandering,ZILLMERE,18
+Dog,Wandering,NA,30
+Other Animal,Deer,ANSTEAD,15
+Other Animal,Deer,BRISBANE CITY,2
+Other Animal,Deer,BROOKFIELD,44
+Other Animal,Deer,CANNON HILL,1
+Other Animal,Deer,CARINA,1
+Other Animal,Deer,CHAPEL HILL,1
+Other Animal,Deer,CHERMSIDE,1
+Other Animal,Deer,DARRA,2
+Other Animal,Deer,DURACK,1
+Other Animal,Deer,FIG TREE POCKET,2
+Other Animal,Deer,JAMBOREE HEIGHTS,1
+Other Animal,Deer,JINDALEE,41
+Other Animal,Deer,KENMORE,1
+Other Animal,Deer,KENMORE HILLS,22
+Other Animal,Deer,KHOLO,4
+Other Animal,Deer,MOGGILL,12
+Other Animal,Deer,MOUNT CROSBY,1
+Other Animal,Deer,MOUNT OMMANEY,38
+Other Animal,Deer,OXLEY,6
+Other Animal,Deer,PINJARRA HILLS,13
+Other Animal,Deer,PULLENVALE,101
+Other Animal,Deer,ROCKLEA,6
+Other Animal,Deer,SEVENTEEN MILE ROCKS,1
+Other Animal,Deer,SINNAMON PARK,5
+Other Animal,Deer,SUNNYBANK HILLS,1
+Other Animal,Deer,THE GAP,1
+Other Animal,Deer,UPPER BROOKFIELD,32
+Other Animal,Deer,UPPER KEDRON,1
+Other Animal,Deer,WESTLAKE,2
+Other Animal,Deer,WILLAWONG,5
+Other Animal,Deer,WYNNUM WEST,1
+Other Animal,Deer,NA,1
+Other Animal,Defecating In Public,ACACIA RIDGE,1
+Other Animal,Defecating In Public,BELLBOWRIE,1
+Other Animal,Defecating In Public,BELMONT,1
+Other Animal,Defecating In Public,BRACKEN RIDGE,1
+Other Animal,Defecating In Public,BRISBANE CITY,1
+Other Animal,Defecating In Public,CARINDALE,1
+Other Animal,Defecating In Public,CHERMSIDE,1
+Other Animal,Defecating In Public,CORINDA,1
+Other Animal,Defecating In Public,DEAGON,1
+Other Animal,Defecating In Public,GORDON PARK,1
+Other Animal,Defecating In Public,HENDRA,1
+Other Animal,Defecating In Public,HERSTON,1
+Other Animal,Defecating In Public,KURABY,1
+Other Animal,Defecating In Public,MORNINGSIDE,1
+Other Animal,Defecating In Public,NORMAN PARK,1
+Other Animal,Defecating In Public,OXLEY,1
+Other Animal,Defecating In Public,PULLENVALE,1
+Other Animal,Defecating In Public,ROCHEDALE,1
+Other Animal,Defecating In Public,RUNCORN,1
+Other Animal,Defecating In Public,STONES CORNER,1
+Other Animal,Defecating In Public,WAVELL HEIGHTS,1
+Other Animal,Defecating In Public,WILLAWONG,1
+Other Animal,Fencing Issues,ACACIA RIDGE,4
+Other Animal,Fencing Issues,ALGESTER,3
+Other Animal,Fencing Issues,ANNERLEY,3
+Other Animal,Fencing Issues,ARCHERFIELD,5
+Other Animal,Fencing Issues,ASHGROVE,2
+Other Animal,Fencing Issues,ASPLEY,4
+Other Animal,Fencing Issues,AUCHENFLOWER,2
+Other Animal,Fencing Issues,BALD HILLS,3
+Other Animal,Fencing Issues,BALMORAL,2
+Other Animal,Fencing Issues,BANYO,3
+Other Animal,Fencing Issues,BARDON,4
+Other Animal,Fencing Issues,BELMONT,1
+Other Animal,Fencing Issues,BOONDALL,2
+Other Animal,Fencing Issues,BRIDGEMAN DOWNS,4
+Other Animal,Fencing Issues,BRIGHTON,2
+Other Animal,Fencing Issues,BROOKFIELD,3
+Other Animal,Fencing Issues,CALAMVALE,2
+Other Animal,Fencing Issues,CAMP HILL,3
+Other Animal,Fencing Issues,CARINA,3
+Other Animal,Fencing Issues,CARINA HEIGHTS,1
+Other Animal,Fencing Issues,CARINDALE,2
+Other Animal,Fencing Issues,CARSELDINE,1
+Other Animal,Fencing Issues,CHANDLER,2
+Other Animal,Fencing Issues,CHAPEL HILL,1
+Other Animal,Fencing Issues,CHERMSIDE,1
+Other Animal,Fencing Issues,CHERMSIDE WEST,1
+Other Animal,Fencing Issues,COOPERS PLAINS,1
+Other Animal,Fencing Issues,COORPAROO,2
+Other Animal,Fencing Issues,CORINDA,2
+Other Animal,Fencing Issues,DARRA,3
+Other Animal,Fencing Issues,DOOLANDELLA,2
+Other Animal,Fencing Issues,DREWVALE,1
+Other Animal,Fencing Issues,DURACK,3
+Other Animal,Fencing Issues,DUTTON PARK,1
+Other Animal,Fencing Issues,EAST BRISBANE,1
+Other Animal,Fencing Issues,EIGHT MILE PLAINS,3
+Other Animal,Fencing Issues,ELLEN GROVE,2
+Other Animal,Fencing Issues,EVERTON PARK,1
+Other Animal,Fencing Issues,FERNY GROVE,1
+Other Animal,Fencing Issues,FIG TREE POCKET,2
+Other Animal,Fencing Issues,FOREST LAKE,6
+Other Animal,Fencing Issues,GEEBUNG,1
+Other Animal,Fencing Issues,GORDON PARK,3
+Other Animal,Fencing Issues,GRANGE,1
+Other Animal,Fencing Issues,GREENSLOPES,1
+Other Animal,Fencing Issues,GUMDALE,1
+Other Animal,Fencing Issues,HAMILTON,1
+Other Animal,Fencing Issues,HEATHWOOD,1
+Other Animal,Fencing Issues,HEMMANT,3
+Other Animal,Fencing Issues,HIGHGATE HILL,2
+Other Animal,Fencing Issues,HOLLAND PARK,3
+Other Animal,Fencing Issues,INALA,6
+Other Animal,Fencing Issues,INDOOROOPILLY,1
+Other Animal,Fencing Issues,KARANA DOWNS,2
+Other Animal,Fencing Issues,KARAWATHA,4
+Other Animal,Fencing Issues,KEDRON,2
+Other Animal,Fencing Issues,KELVIN GROVE,1
+Other Animal,Fencing Issues,KENMORE,2
+Other Animal,Fencing Issues,KEPERRA,1
+Other Animal,Fencing Issues,KURABY,2
+Other Animal,Fencing Issues,LAKE MANCHESTER,1
+Other Animal,Fencing Issues,LOTA,1
+Other Animal,Fencing Issues,LUTWYCHE,1
+Other Animal,Fencing Issues,MANLY,1
+Other Animal,Fencing Issues,MITCHELTON,2
+Other Animal,Fencing Issues,MOGGILL,2
+Other Animal,Fencing Issues,MORNINGSIDE,2
+Other Animal,Fencing Issues,MOUNT CROSBY,2
+Other Animal,Fencing Issues,MOUNT GRAVATT EAST,1
+Other Animal,Fencing Issues,NEW FARM,1
+Other Animal,Fencing Issues,NORMAN PARK,2
+Other Animal,Fencing Issues,NORTHGATE,3
+Other Animal,Fencing Issues,NUNDAH,1
+Other Animal,Fencing Issues,OXLEY,2
+Other Animal,Fencing Issues,PADDINGTON,7
+Other Animal,Fencing Issues,PALLARA,5
+Other Animal,Fencing Issues,PETRIE TERRACE,1
+Other Animal,Fencing Issues,PINJARRA HILLS,1
+Other Animal,Fencing Issues,PULLENVALE,11
+Other Animal,Fencing Issues,RANSOME,1
+Other Animal,Fencing Issues,RED HILL,2
+Other Animal,Fencing Issues,ROCHEDALE,1
+Other Animal,Fencing Issues,ROCKLEA,1
+Other Animal,Fencing Issues,RUNCORN,4
+Other Animal,Fencing Issues,SANDGATE,1
+Other Animal,Fencing Issues,SHORNCLIFFE,1
+Other Animal,Fencing Issues,SINNAMON PARK,1
+Other Animal,Fencing Issues,ST LUCIA,1
+Other Animal,Fencing Issues,STAFFORD HEIGHTS,4
+Other Animal,Fencing Issues,SUMNER,1
+Other Animal,Fencing Issues,SUNNYBANK,5
+Other Animal,Fencing Issues,TARRAGINDI,2
+Other Animal,Fencing Issues,TENNYSON,2
+Other Animal,Fencing Issues,THE GAP,1
+Other Animal,Fencing Issues,TINGALPA,1
+Other Animal,Fencing Issues,UPPER BROOKFIELD,12
+Other Animal,Fencing Issues,UPPER KEDRON,3
+Other Animal,Fencing Issues,UPPER MOUNT GRAVATT,1
+Other Animal,Fencing Issues,WACOL,1
+Other Animal,Fencing Issues,WAVELL HEIGHTS,2
+Other Animal,Fencing Issues,WEST END,3
+Other Animal,Fencing Issues,WILLAWONG,2
+Other Animal,Fencing Issues,WINDSOR,1
+Other Animal,Fencing Issues,WISHART,1
+Other Animal,Fencing Issues,WOOLLOONGABBA,1
+Other Animal,Fencing Issues,WYNNUM,3
+Other Animal,Fencing Issues,WYNNUM WEST,1
+Other Animal,Fencing Issues,ZILLMERE,3
+Other Animal,Feral Cat,BRACKEN RIDGE,1
+Other Animal,Feral Cat,BRISBANE CITY,1
+Other Animal,Feral Cat,BULIMBA,1
+Other Animal,Feral Cat,CLAYFIELD,1
+Other Animal,Feral Cat,DREWVALE,1
+Other Animal,Feral Cat,EIGHT MILE PLAINS,2
+Other Animal,Feral Cat,FIG TREE POCKET,1
+Other Animal,Feral Cat,GEEBUNG,1
+Other Animal,Feral Cat,HEMMANT,1
+Other Animal,Feral Cat,INALA,1
+Other Animal,Feral Cat,KEDRON,1
+Other Animal,Feral Cat,MANSFIELD,1
+Other Animal,Feral Cat,ROCKLEA,1
+Other Animal,Feral Cat,STAFFORD,1
+Other Animal,Feral Cat,STAFFORD HEIGHTS,1
+Other Animal,Feral Cat,UPPER BROOKFIELD,2
+Other Animal,Feral Cat,UPPER KEDRON,1
+Other Animal,Feral Cat,WILLAWONG,2
+Other Animal,Feral Goat,BRIDGEMAN DOWNS,2
+Other Animal,Feral Goat,INALA,1
+Other Animal,Feral Goat,KARAWATHA,3
+Other Animal,Feral Goat,TAIGUM,1
+Other Animal,Feral Goat,WILLAWONG,1
+Other Animal,Feral Pig,BRISBANE CITY,1
+Other Animal,Feral Pig,BROOKFIELD,1
+Other Animal,Feral Pig,CAMP HILL,1
+Other Animal,Feral Pig,KHOLO,1
+Other Animal,Feral Pig,SANDGATE,8
+Other Animal,Feral Pig,SHORNCLIFFE,1
+Other Animal,Feral Pig,UPPER BROOKFIELD,18
+Other Animal,Fox,ACACIA RIDGE,5
+Other Animal,Fox,ALGESTER,5
+Other Animal,Fox,ANNERLEY,5
+Other Animal,Fox,ANSTEAD,33
+Other Animal,Fox,ARCHERFIELD,2
+Other Animal,Fox,ASCOT,3
+Other Animal,Fox,ASHGROVE,6
+Other Animal,Fox,ASPLEY,7
+Other Animal,Fox,AUCHENFLOWER,3
+Other Animal,Fox,BALD HILLS,12
+Other Animal,Fox,BALMORAL,3
+Other Animal,Fox,BANYO,7
+Other Animal,Fox,BARDON,3
+Other Animal,Fox,BELLBOWRIE,23
+Other Animal,Fox,BELMONT,36
+Other Animal,Fox,BOONDALL,40
+Other Animal,Fox,BRACKEN RIDGE,11
+Other Animal,Fox,BRIDGEMAN DOWNS,14
+Other Animal,Fox,BRIGHTON,9
+Other Animal,Fox,BRISBANE AIRPORT,1
+Other Animal,Fox,BRISBANE CITY,1
+Other Animal,Fox,BROOKFIELD,36
+Other Animal,Fox,BULIMBA,4
+Other Animal,Fox,BURBANK,41
+Other Animal,Fox,CALAMVALE,6
+Other Animal,Fox,CAMP HILL,21
+Other Animal,Fox,CANNON HILL,6
+Other Animal,Fox,CARINA,29
+Other Animal,Fox,CARINA HEIGHTS,5
+Other Animal,Fox,CARINDALE,23
+Other Animal,Fox,CARSELDINE,2
+Other Animal,Fox,CHANDLER,40
+Other Animal,Fox,CHAPEL HILL,6
+Other Animal,Fox,CHELMER,20
+Other Animal,Fox,CHERMSIDE,5
+Other Animal,Fox,CHERMSIDE WEST,8
+Other Animal,Fox,CHUWAR,1
+Other Animal,Fox,CLAYFIELD,1
+Other Animal,Fox,COOPERS PLAINS,12
+Other Animal,Fox,COORPAROO,16
+Other Animal,Fox,CORINDA,16
+Other Animal,Fox,DARRA,5
+Other Animal,Fox,DEAGON,6
+Other Animal,Fox,DOOLANDELLA,6
+Other Animal,Fox,DREWVALE,5
+Other Animal,Fox,DURACK,2
+Other Animal,Fox,DUTTON PARK,9
+Other Animal,Fox,EAST BRISBANE,1
+Other Animal,Fox,EIGHT MILE PLAINS,9
+Other Animal,Fox,ELLEN GROVE,3
+Other Animal,Fox,EVERTON PARK,2
+Other Animal,Fox,FERNY GROVE,7
+Other Animal,Fox,FIG TREE POCKET,25
+Other Animal,Fox,FITZGIBBON,5
+Other Animal,Fox,FOREST LAKE,12
+Other Animal,Fox,GAYTHORNE,1
+Other Animal,Fox,GEEBUNG,21
+Other Animal,Fox,GORDON PARK,1
+Other Animal,Fox,GRACEVILLE,8
+Other Animal,Fox,GREENSLOPES,9
+Other Animal,Fox,GUMDALE,49
+Other Animal,Fox,HAMILTON,2
+Other Animal,Fox,HAWTHORNE,2
+Other Animal,Fox,HEATHWOOD,6
+Other Animal,Fox,HEMMANT,5
+Other Animal,Fox,HENDRA,1
+Other Animal,Fox,HERSTON,2
+Other Animal,Fox,HIGHGATE HILL,2
+Other Animal,Fox,HOLLAND PARK,16
+Other Animal,Fox,HOLLAND PARK WEST,27
+Other Animal,Fox,INALA,10
+Other Animal,Fox,INDOOROOPILLY,16
+Other Animal,Fox,JAMBOREE HEIGHTS,4
+Other Animal,Fox,JINDALEE,5
+Other Animal,Fox,KALINGA,4
+Other Animal,Fox,KARANA DOWNS,62
+Other Animal,Fox,KARAWATHA,8
+Other Animal,Fox,KEDRON,10
+Other Animal,Fox,KENMORE,10
+Other Animal,Fox,KENMORE HILLS,9
+Other Animal,Fox,KEPERRA,11
+Other Animal,Fox,KHOLO,31
+Other Animal,Fox,KURABY,5
+Other Animal,Fox,LAKE MANCHESTER,2
+Other Animal,Fox,LOTA,10
+Other Animal,Fox,LYTTON,2
+Other Animal,Fox,MACGREGOR,13
+Other Animal,Fox,MACKENZIE,7
+Other Animal,Fox,MANLY,7
+Other Animal,Fox,MANLY WEST,20
+Other Animal,Fox,MANSFIELD,10
+Other Animal,Fox,MCDOWALL,1
+Other Animal,Fox,MIDDLE PARK,2
+Other Animal,Fox,MITCHELTON,2
+Other Animal,Fox,MOGGILL,37
+Other Animal,Fox,MOOROOKA,25
+Other Animal,Fox,MORNINGSIDE,32
+Other Animal,Fox,MOUNT COOT-THA,8
+Other Animal,Fox,MOUNT CROSBY,30
+Other Animal,Fox,MOUNT GRAVATT,21
+Other Animal,Fox,MOUNT GRAVATT EAST,24
+Other Animal,Fox,MOUNT OMMANEY,16
+Other Animal,Fox,MURARRIE,11
+Other Animal,Fox,"NATHAN",26
+Other Animal,Fox,NEWMARKET,1
+Other Animal,Fox,NORMAN PARK,7
+Other Animal,Fox,NUDGEE,5
+Other Animal,Fox,NUDGEE BEACH,2
+Other Animal,Fox,NUNDAH,6
+Other Animal,Fox,OXLEY,14
+Other Animal,Fox,PADDINGTON,3
+Other Animal,Fox,PALLARA,5
+Other Animal,Fox,PARKINSON,2
+Other Animal,Fox,PINJARRA HILLS,19
+Other Animal,Fox,PINKENBA,1
+Other Animal,Fox,PORT OF BRISBANE,3
+Other Animal,Fox,PULLENVALE,67
+Other Animal,Fox,RANSOME,15
+Other Animal,Fox,RED HILL,15
+Other Animal,Fox,RICHLANDS,8
+Other Animal,Fox,RIVERHILLS,21
+Other Animal,Fox,ROBERTSON,4
+Other Animal,Fox,ROCHEDALE,15
+Other Animal,Fox,ROCKLEA,19
+Other Animal,Fox,RUNCORN,16
+Other Animal,Fox,SALISBURY,20
+Other Animal,Fox,SANDGATE,13
+Other Animal,Fox,SEVEN HILLS,25
+Other Animal,Fox,SEVENTEEN MILE ROCKS,7
+Other Animal,Fox,SHERWOOD,8
+Other Animal,Fox,SHORNCLIFFE,1
+Other Animal,Fox,SINNAMON PARK,3
+Other Animal,Fox,SOUTH BRISBANE,1
+Other Animal,Fox,SPRING HILL,1
+Other Animal,Fox,ST LUCIA,4
+Other Animal,Fox,STAFFORD,2
+Other Animal,Fox,STRETTON,6
+Other Animal,Fox,SUMNER,9
+Other Animal,Fox,SUNNYBANK,6
+Other Animal,Fox,SUNNYBANK HILLS,4
+Other Animal,Fox,TAIGUM,5
+Other Animal,Fox,TARINGA,2
+Other Animal,Fox,TARRAGINDI,37
+Other Animal,Fox,TENNYSON,6
+Other Animal,Fox,THE GAP,40
+Other Animal,Fox,TINGALPA,17
+Other Animal,Fox,TOOWONG,2
+Other Animal,Fox,UPPER BROOKFIELD,42
+Other Animal,Fox,UPPER KEDRON,8
+Other Animal,Fox,UPPER MOUNT GRAVATT,14
+Other Animal,Fox,VIRGINIA,2
+Other Animal,Fox,WACOL,8
+Other Animal,Fox,WAKERLEY,20
+Other Animal,Fox,WAVELL HEIGHTS,11
+Other Animal,Fox,WEST END,2
+Other Animal,Fox,WESTLAKE,2
+Other Animal,Fox,WILLAWONG,17
+Other Animal,Fox,WILSTON,2
+Other Animal,Fox,WINDSOR,2
+Other Animal,Fox,WISHART,7
+Other Animal,Fox,WOOLLOONGABBA,3
+Other Animal,Fox,WYNNUM,17
+Other Animal,Fox,WYNNUM WEST,13
+Other Animal,Fox,YEERONGPILLY,2
+Other Animal,Fox,YERONGA,15
+Other Animal,Fox,ZILLMERE,2
+Other Animal,Fox,NA,8
+Other Animal,Insufficient Space,ACACIA RIDGE,1
+Other Animal,Insufficient Space,ANSTEAD,1
+Other Animal,Insufficient Space,AUCHENFLOWER,1
+Other Animal,Insufficient Space,BALD HILLS,2
+Other Animal,Insufficient Space,BARDON,1
+Other Animal,Insufficient Space,BOONDALL,2
+Other Animal,Insufficient Space,BRACKEN RIDGE,1
+Other Animal,Insufficient Space,CARINA,1
+Other Animal,Insufficient Space,CARSELDINE,1
+Other Animal,Insufficient Space,COOPERS PLAINS,2
+Other Animal,Insufficient Space,EAST BRISBANE,1
+Other Animal,Insufficient Space,EIGHT MILE PLAINS,1
+Other Animal,Insufficient Space,FITZGIBBON,1
+Other Animal,Insufficient Space,GORDON PARK,1
+Other Animal,Insufficient Space,KEDRON,3
+Other Animal,Insufficient Space,KELVIN GROVE,1
+Other Animal,Insufficient Space,MACGREGOR,1
+Other Animal,Insufficient Space,MACKENZIE,1
+Other Animal,Insufficient Space,MOOROOKA,1
+Other Animal,Insufficient Space,MORNINGSIDE,1
+Other Animal,Insufficient Space,NEW FARM,1
+Other Animal,Insufficient Space,NEWMARKET,1
+Other Animal,Insufficient Space,NORTHGATE,1
+Other Animal,Insufficient Space,PARKINSON,2
+Other Animal,Insufficient Space,SALISBURY,2
+Other Animal,Insufficient Space,SUNNYBANK,2
+Other Animal,Insufficient Space,WAVELL HEIGHTS,1
+Other Animal,Insufficient Space,WEST END,1
+Other Animal,Insufficient Space,YERONGA,1
+Other Animal,Not An Attack,BRIGHTON,1
+Other Animal,Nuisance Animal,ACACIA RIDGE,23
+Other Animal,Nuisance Animal,ALBION,1
+Other Animal,Nuisance Animal,ALGESTER,7
+Other Animal,Nuisance Animal,ANNERLEY,4
+Other Animal,Nuisance Animal,ANSTEAD,5
+Other Animal,Nuisance Animal,ASCOT,6
+Other Animal,Nuisance Animal,ASHGROVE,5
+Other Animal,Nuisance Animal,ASPLEY,21
+Other Animal,Nuisance Animal,AUCHENFLOWER,10
+Other Animal,Nuisance Animal,BALD HILLS,7
+Other Animal,Nuisance Animal,BALMORAL,1
+Other Animal,Nuisance Animal,BANYO,13
+Other Animal,Nuisance Animal,BARDON,6
+Other Animal,Nuisance Animal,BELLBOWRIE,4
+Other Animal,Nuisance Animal,BOONDALL,7
+Other Animal,Nuisance Animal,BOWEN HILLS,6
+Other Animal,Nuisance Animal,BRACKEN RIDGE,19
+Other Animal,Nuisance Animal,BRIDGEMAN DOWNS,2
+Other Animal,Nuisance Animal,BRIGHTON,12
+Other Animal,Nuisance Animal,BRISBANE CITY,5
+Other Animal,Nuisance Animal,BROOKFIELD,7
+Other Animal,Nuisance Animal,BULIMBA,6
+Other Animal,Nuisance Animal,BURBANK,1
+Other Animal,Nuisance Animal,CALAMVALE,17
+Other Animal,Nuisance Animal,CAMP HILL,5
+Other Animal,Nuisance Animal,CANNON HILL,6
+Other Animal,Nuisance Animal,CARINA,6
+Other Animal,Nuisance Animal,CARINA HEIGHTS,7
+Other Animal,Nuisance Animal,CARINDALE,12
+Other Animal,Nuisance Animal,CARSELDINE,4
+Other Animal,Nuisance Animal,CHANDLER,2
+Other Animal,Nuisance Animal,CHAPEL HILL,5
+Other Animal,Nuisance Animal,CHELMER,2
+Other Animal,Nuisance Animal,CHERMSIDE,8
+Other Animal,Nuisance Animal,CHERMSIDE WEST,7
+Other Animal,Nuisance Animal,CLAYFIELD,6
+Other Animal,Nuisance Animal,COOPERS PLAINS,4
+Other Animal,Nuisance Animal,COORPAROO,4
+Other Animal,Nuisance Animal,CORINDA,1
+Other Animal,Nuisance Animal,DARRA,13
+Other Animal,Nuisance Animal,DEAGON,6
+Other Animal,Nuisance Animal,DOOLANDELLA,10
+Other Animal,Nuisance Animal,DREWVALE,1
+Other Animal,Nuisance Animal,DURACK,17
+Other Animal,Nuisance Animal,DUTTON PARK,6
+Other Animal,Nuisance Animal,EAST BRISBANE,2
+Other Animal,Nuisance Animal,EIGHT MILE PLAINS,9
+Other Animal,Nuisance Animal,ELLEN GROVE,12
+Other Animal,Nuisance Animal,ENOGGERA,3
+Other Animal,Nuisance Animal,EVERTON PARK,6
+Other Animal,Nuisance Animal,FAIRFIELD,1
+Other Animal,Nuisance Animal,FERNY GROVE,2
+Other Animal,Nuisance Animal,FIG TREE POCKET,1
+Other Animal,Nuisance Animal,FITZGIBBON,3
+Other Animal,Nuisance Animal,FOREST LAKE,40
+Other Animal,Nuisance Animal,FORTITUDE VALLEY,2
+Other Animal,Nuisance Animal,GAYTHORNE,4
+Other Animal,Nuisance Animal,GEEBUNG,3
+Other Animal,Nuisance Animal,GORDON PARK,1
+Other Animal,Nuisance Animal,GRACEVILLE,1
+Other Animal,Nuisance Animal,GRANGE,1
+Other Animal,Nuisance Animal,GREENSLOPES,1
+Other Animal,Nuisance Animal,HAMILTON,1
+Other Animal,Nuisance Animal,HAWTHORNE,3
+Other Animal,Nuisance Animal,HEATHWOOD,4
+Other Animal,Nuisance Animal,HEMMANT,1
+Other Animal,Nuisance Animal,HENDRA,8
+Other Animal,Nuisance Animal,HERSTON,2
+Other Animal,Nuisance Animal,HIGHGATE HILL,9
+Other Animal,Nuisance Animal,HOLLAND PARK,14
+Other Animal,Nuisance Animal,HOLLAND PARK WEST,4
+Other Animal,Nuisance Animal,INALA,68
+Other Animal,Nuisance Animal,INDOOROOPILLY,8
+Other Animal,Nuisance Animal,JAMBOREE HEIGHTS,3
+Other Animal,Nuisance Animal,JINDALEE,5
+Other Animal,Nuisance Animal,KALINGA,1
+Other Animal,Nuisance Animal,KANGAROO POINT,2
+Other Animal,Nuisance Animal,KARANA DOWNS,7
+Other Animal,Nuisance Animal,KARAWATHA,2
+Other Animal,Nuisance Animal,KEDRON,8
+Other Animal,Nuisance Animal,KELVIN GROVE,1
+Other Animal,Nuisance Animal,KENMORE,3
+Other Animal,Nuisance Animal,KENMORE HILLS,3
+Other Animal,Nuisance Animal,KEPERRA,16
+Other Animal,Nuisance Animal,KHOLO,1
+Other Animal,Nuisance Animal,KURABY,12
+Other Animal,Nuisance Animal,LOTA,1
+Other Animal,Nuisance Animal,MACGREGOR,3
+Other Animal,Nuisance Animal,MACKENZIE,2
+Other Animal,Nuisance Animal,MANLY,2
+Other Animal,Nuisance Animal,MANLY WEST,8
+Other Animal,Nuisance Animal,MANSFIELD,5
+Other Animal,Nuisance Animal,MCDOWALL,3
+Other Animal,Nuisance Animal,MILTON,1
+Other Animal,Nuisance Animal,MITCHELTON,7
+Other Animal,Nuisance Animal,MOGGILL,3
+Other Animal,Nuisance Animal,MOOROOKA,6
+Other Animal,Nuisance Animal,MORNINGSIDE,6
+Other Animal,Nuisance Animal,MOUNT CROSBY,3
+Other Animal,Nuisance Animal,MOUNT GRAVATT,5
+Other Animal,Nuisance Animal,MOUNT GRAVATT EAST,16
+Other Animal,Nuisance Animal,MOUNT OMMANEY,1
+Other Animal,Nuisance Animal,MURARRIE,5
+Other Animal,Nuisance Animal,NEW FARM,4
+Other Animal,Nuisance Animal,NEWMARKET,1
+Other Animal,Nuisance Animal,NORMAN PARK,4
+Other Animal,Nuisance Animal,NORTHGATE,7
+Other Animal,Nuisance Animal,NUDGEE,7
+Other Animal,Nuisance Animal,NUDGEE BEACH,5
+Other Animal,Nuisance Animal,NUNDAH,10
+Other Animal,Nuisance Animal,OXLEY,9
+Other Animal,Nuisance Animal,PADDINGTON,6
+Other Animal,Nuisance Animal,PARKINSON,5
+Other Animal,Nuisance Animal,PULLENVALE,5
+Other Animal,Nuisance Animal,RANSOME,1
+Other Animal,Nuisance Animal,RED HILL,5
+Other Animal,Nuisance Animal,RICHLANDS,8
+Other Animal,Nuisance Animal,RIVERHILLS,2
+Other Animal,Nuisance Animal,ROBERTSON,2
+Other Animal,Nuisance Animal,ROCHEDALE,6
+Other Animal,Nuisance Animal,ROCKLEA,3
+Other Animal,Nuisance Animal,RUNCORN,5
+Other Animal,Nuisance Animal,SALISBURY,5
+Other Animal,Nuisance Animal,SANDGATE,11
+Other Animal,Nuisance Animal,SEVEN HILLS,11
+Other Animal,Nuisance Animal,SHERWOOD,4
+Other Animal,Nuisance Animal,SHORNCLIFFE,2
+Other Animal,Nuisance Animal,SOUTH BRISBANE,10
+Other Animal,Nuisance Animal,SPRING HILL,1
+Other Animal,Nuisance Animal,ST LUCIA,4
+Other Animal,Nuisance Animal,STAFFORD,5
+Other Animal,Nuisance Animal,STAFFORD HEIGHTS,4
+Other Animal,Nuisance Animal,STRETTON,4
+Other Animal,Nuisance Animal,SUMNER,2
+Other Animal,Nuisance Animal,SUNNYBANK,14
+Other Animal,Nuisance Animal,SUNNYBANK HILLS,21
+Other Animal,Nuisance Animal,TAIGUM,12
+Other Animal,Nuisance Animal,TARINGA,3
+Other Animal,Nuisance Animal,TARRAGINDI,4
+Other Animal,Nuisance Animal,TENERIFFE,2
+Other Animal,Nuisance Animal,THE GAP,10
+Other Animal,Nuisance Animal,TINGALPA,6
+Other Animal,Nuisance Animal,TOOWONG,2
+Other Animal,Nuisance Animal,UPPER KEDRON,1
+Other Animal,Nuisance Animal,UPPER MOUNT GRAVATT,6
+Other Animal,Nuisance Animal,VIRGINIA,6
+Other Animal,Nuisance Animal,WAKERLEY,3
+Other Animal,Nuisance Animal,WAVELL HEIGHTS,4
+Other Animal,Nuisance Animal,WEST END,5
+Other Animal,Nuisance Animal,WESTLAKE,7
+Other Animal,Nuisance Animal,WILLAWONG,1
+Other Animal,Nuisance Animal,WILSTON,1
+Other Animal,Nuisance Animal,WINDSOR,17
+Other Animal,Nuisance Animal,WISHART,7
+Other Animal,Nuisance Animal,WOOLLOONGABBA,1
+Other Animal,Nuisance Animal,WOOLOOWIN,1
+Other Animal,Nuisance Animal,WYNNUM,11
+Other Animal,Nuisance Animal,WYNNUM WEST,12
+Other Animal,Nuisance Animal,YEERONGPILLY,1
+Other Animal,Nuisance Animal,YERONGA,6
+Other Animal,Nuisance Animal,ZILLMERE,5
+Other Animal,Odour,ACACIA RIDGE,4
+Other Animal,Odour,ANSTEAD,1
+Other Animal,Odour,ASCOT,2
+Other Animal,Odour,ASPLEY,2
+Other Animal,Odour,BALD HILLS,2
+Other Animal,Odour,BANYO,3
+Other Animal,Odour,BARDON,3
+Other Animal,Odour,BELLBOWRIE,1
+Other Animal,Odour,BELMONT,1
+Other Animal,Odour,BOONDALL,1
+Other Animal,Odour,BRACKEN RIDGE,1
+Other Animal,Odour,BRIDGEMAN DOWNS,3
+Other Animal,Odour,BRIGHTON,2
+Other Animal,Odour,BULIMBA,1
+Other Animal,Odour,BURBANK,1
+Other Animal,Odour,CAMP HILL,4
+Other Animal,Odour,CANNON HILL,1
+Other Animal,Odour,CARINA,2
+Other Animal,Odour,CARINDALE,1
+Other Animal,Odour,CARSELDINE,1
+Other Animal,Odour,CHANDLER,1
+Other Animal,Odour,CHERMSIDE,2
+Other Animal,Odour,CHERMSIDE WEST,1
+Other Animal,Odour,CLAYFIELD,1
+Other Animal,Odour,COOPERS PLAINS,1
+Other Animal,Odour,COORPAROO,2
+Other Animal,Odour,DARRA,2
+Other Animal,Odour,DEAGON,6
+Other Animal,Odour,DOOLANDELLA,1
+Other Animal,Odour,DURACK,1
+Other Animal,Odour,EAST BRISBANE,5
+Other Animal,Odour,EIGHT MILE PLAINS,4
+Other Animal,Odour,ELLEN GROVE,5
+Other Animal,Odour,EVERTON PARK,4
+Other Animal,Odour,FAIRFIELD,1
+Other Animal,Odour,FERNY GROVE,2
+Other Animal,Odour,FITZGIBBON,1
+Other Animal,Odour,FOREST LAKE,4
+Other Animal,Odour,GRACEVILLE,2
+Other Animal,Odour,GUMDALE,1
+Other Animal,Odour,HAWTHORNE,1
+Other Animal,Odour,HEATHWOOD,1
+Other Animal,Odour,HEMMANT,1
+Other Animal,Odour,HENDRA,4
+Other Animal,Odour,HIGHGATE HILL,1
+Other Animal,Odour,HOLLAND PARK,5
+Other Animal,Odour,INALA,10
+Other Animal,Odour,INDOOROOPILLY,3
+Other Animal,Odour,JAMBOREE HEIGHTS,1
+Other Animal,Odour,JINDALEE,1
+Other Animal,Odour,KANGAROO POINT,1
+Other Animal,Odour,KARANA DOWNS,2
+Other Animal,Odour,KELVIN GROVE,2
+Other Animal,Odour,KENMORE,1
+Other Animal,Odour,KEPERRA,1
+Other Animal,Odour,KURABY,3
+Other Animal,Odour,LUTWYCHE,1
+Other Animal,Odour,MACGREGOR,2
+Other Animal,Odour,MANLY WEST,2
+Other Animal,Odour,MCDOWALL,1
+Other Animal,Odour,MITCHELTON,1
+Other Animal,Odour,MOGGILL,3
+Other Animal,Odour,MOOROOKA,3
+Other Animal,Odour,MORNINGSIDE,1
+Other Animal,Odour,MOUNT CROSBY,2
+Other Animal,Odour,MOUNT GRAVATT EAST,3
+Other Animal,Odour,NEW FARM,2
+Other Animal,Odour,NORMAN PARK,1
+Other Animal,Odour,NUNDAH,2
+Other Animal,Odour,OXLEY,3
+Other Animal,Odour,PADDINGTON,1
+Other Animal,Odour,PARKINSON,1
+Other Animal,Odour,PETRIE TERRACE,1
+Other Animal,Odour,PULLENVALE,3
+Other Animal,Odour,RED HILL,1
+Other Animal,Odour,RICHLANDS,1
+Other Animal,Odour,RIVERHILLS,1
+Other Animal,Odour,ROBERTSON,1
+Other Animal,Odour,ROCHEDALE,1
+Other Animal,Odour,RUNCORN,5
+Other Animal,Odour,SHERWOOD,4
+Other Animal,Odour,SINNAMON PARK,1
+Other Animal,Odour,ST LUCIA,1
+Other Animal,Odour,STAFFORD,1
+Other Animal,Odour,STAFFORD HEIGHTS,4
+Other Animal,Odour,STRETTON,2
+Other Animal,Odour,SUMNER,1
+Other Animal,Odour,SUNNYBANK,3
+Other Animal,Odour,SUNNYBANK HILLS,2
+Other Animal,Odour,TAIGUM,2
+Other Animal,Odour,TARRAGINDI,2
+Other Animal,Odour,TENNYSON,1
+Other Animal,Odour,TINGALPA,1
+Other Animal,Odour,UPPER BROOKFIELD,1
+Other Animal,Odour,UPPER MOUNT GRAVATT,4
+Other Animal,Odour,WAKERLEY,2
+Other Animal,Odour,WAVELL HEIGHTS,2
+Other Animal,Odour,WESTLAKE,5
+Other Animal,Odour,WINDSOR,3
+Other Animal,Odour,WOOLLOONGABBA,2
+Other Animal,Odour,WYNNUM,1
+Other Animal,Odour,WYNNUM WEST,2
+Other Animal,Odour,YERONGA,1
+Other Animal,Odour,ZILLMERE,3
+Other Animal,Pest / Feral Animal,ACACIA RIDGE,5
+Other Animal,Pest / Feral Animal,ALGESTER,2
+Other Animal,Pest / Feral Animal,ANNERLEY,4
+Other Animal,Pest / Feral Animal,ARCHERFIELD,2
+Other Animal,Pest / Feral Animal,ASPLEY,1
+Other Animal,Pest / Feral Animal,AUCHENFLOWER,1
+Other Animal,Pest / Feral Animal,BALD HILLS,1
+Other Animal,Pest / Feral Animal,BANYO,1
+Other Animal,Pest / Feral Animal,BARDON,1
+Other Animal,Pest / Feral Animal,BELMONT,1
+Other Animal,Pest / Feral Animal,BOONDALL,4
+Other Animal,Pest / Feral Animal,BRACKEN RIDGE,2
+Other Animal,Pest / Feral Animal,BRIDGEMAN DOWNS,1
+Other Animal,Pest / Feral Animal,BRIGHTON,1
+Other Animal,Pest / Feral Animal,BRISBANE AIRPORT,5
+Other Animal,Pest / Feral Animal,BRISBANE CITY,5
+Other Animal,Pest / Feral Animal,BROOKFIELD,2
+Other Animal,Pest / Feral Animal,BULIMBA,1
+Other Animal,Pest / Feral Animal,CALAMVALE,6
+Other Animal,Pest / Feral Animal,CANNON HILL,1
+Other Animal,Pest / Feral Animal,CARINA,1
+Other Animal,Pest / Feral Animal,CARINA HEIGHTS,3
+Other Animal,Pest / Feral Animal,CARINDALE,4
+Other Animal,Pest / Feral Animal,CHANDLER,2
+Other Animal,Pest / Feral Animal,CHAPEL HILL,2
+Other Animal,Pest / Feral Animal,CHERMSIDE,1
+Other Animal,Pest / Feral Animal,CHERMSIDE WEST,2
+Other Animal,Pest / Feral Animal,CLAYFIELD,2
+Other Animal,Pest / Feral Animal,COOPERS PLAINS,2
+Other Animal,Pest / Feral Animal,COORPAROO,4
+Other Animal,Pest / Feral Animal,CORINDA,1
+Other Animal,Pest / Feral Animal,DEAGON,1
+Other Animal,Pest / Feral Animal,DOOLANDELLA,3
+Other Animal,Pest / Feral Animal,DURACK,3
+Other Animal,Pest / Feral Animal,EAGLE FARM,1
+Other Animal,Pest / Feral Animal,ELLEN GROVE,2
+Other Animal,Pest / Feral Animal,EVERTON PARK,2
+Other Animal,Pest / Feral Animal,FAIRFIELD,1
+Other Animal,Pest / Feral Animal,FIG TREE POCKET,2
+Other Animal,Pest / Feral Animal,FOREST LAKE,5
+Other Animal,Pest / Feral Animal,FORTITUDE VALLEY,4
+Other Animal,Pest / Feral Animal,GRANGE,1
+Other Animal,Pest / Feral Animal,HAMILTON,4
+Other Animal,Pest / Feral Animal,HENDRA,2
+Other Animal,Pest / Feral Animal,HERSTON,1
+Other Animal,Pest / Feral Animal,HIGHGATE HILL,1
+Other Animal,Pest / Feral Animal,HOLLAND PARK,4
+Other Animal,Pest / Feral Animal,INALA,12
+Other Animal,Pest / Feral Animal,JAMBOREE HEIGHTS,1
+Other Animal,Pest / Feral Animal,KALINGA,1
+Other Animal,Pest / Feral Animal,KENMORE,3
+Other Animal,Pest / Feral Animal,KENMORE HILLS,1
+Other Animal,Pest / Feral Animal,KEPERRA,3
+Other Animal,Pest / Feral Animal,KHOLO,2
+Other Animal,Pest / Feral Animal,KURABY,1
+Other Animal,Pest / Feral Animal,LYTTON,1
+Other Animal,Pest / Feral Animal,MACGREGOR,1
+Other Animal,Pest / Feral Animal,MACKENZIE,1
+Other Animal,Pest / Feral Animal,MANLY,1
+Other Animal,Pest / Feral Animal,MANLY WEST,1
+Other Animal,Pest / Feral Animal,MANSFIELD,1
+Other Animal,Pest / Feral Animal,MITCHELTON,2
+Other Animal,Pest / Feral Animal,MOGGILL,1
+Other Animal,Pest / Feral Animal,MORNINGSIDE,1
+Other Animal,Pest / Feral Animal,MOUNT GRAVATT,1
+Other Animal,Pest / Feral Animal,MOUNT GRAVATT EAST,2
+Other Animal,Pest / Feral Animal,MOUNT OMMANEY,1
+Other Animal,Pest / Feral Animal,MURARRIE,8
+Other Animal,Pest / Feral Animal,"NATHAN",1
+Other Animal,Pest / Feral Animal,NEW FARM,1
+Other Animal,Pest / Feral Animal,NUDGEE,1
+Other Animal,Pest / Feral Animal,NUDGEE BEACH,2
+Other Animal,Pest / Feral Animal,NUNDAH,1
+Other Animal,Pest / Feral Animal,OXLEY,5
+Other Animal,Pest / Feral Animal,PADDINGTON,2
+Other Animal,Pest / Feral Animal,PALLARA,1
+Other Animal,Pest / Feral Animal,PARKINSON,3
+Other Animal,Pest / Feral Animal,PINJARRA HILLS,2
+Other Animal,Pest / Feral Animal,PINKENBA,2
+Other Animal,Pest / Feral Animal,PULLENVALE,2
+Other Animal,Pest / Feral Animal,RED HILL,3
+Other Animal,Pest / Feral Animal,RICHLANDS,4
+Other Animal,Pest / Feral Animal,ROCHEDALE,1
+Other Animal,Pest / Feral Animal,RUNCORN,2
+Other Animal,Pest / Feral Animal,SALISBURY,1
+Other Animal,Pest / Feral Animal,SANDGATE,2
+Other Animal,Pest / Feral Animal,SEVEN HILLS,1
+Other Animal,Pest / Feral Animal,SHERWOOD,1
+Other Animal,Pest / Feral Animal,SHORNCLIFFE,1
+Other Animal,Pest / Feral Animal,SINNAMON PARK,2
+Other Animal,Pest / Feral Animal,STAFFORD,3
+Other Animal,Pest / Feral Animal,STAFFORD HEIGHTS,1
+Other Animal,Pest / Feral Animal,SUNNYBANK,3
+Other Animal,Pest / Feral Animal,SUNNYBANK HILLS,3
+Other Animal,Pest / Feral Animal,TAIGUM,2
+Other Animal,Pest / Feral Animal,TARRAGINDI,1
+Other Animal,Pest / Feral Animal,THE GAP,4
+Other Animal,Pest / Feral Animal,UPPER BROOKFIELD,1
+Other Animal,Pest / Feral Animal,UPPER KEDRON,7
+Other Animal,Pest / Feral Animal,VIRGINIA,1
+Other Animal,Pest / Feral Animal,WAKERLEY,3
+Other Animal,Pest / Feral Animal,WAVELL HEIGHTS,1
+Other Animal,Pest / Feral Animal,WESTLAKE,2
+Other Animal,Pest / Feral Animal,WILLAWONG,1
+Other Animal,Pest / Feral Animal,WINDSOR,2
+Other Animal,Pest / Feral Animal,WOOLLOONGABBA,4
+Other Animal,Pest / Feral Animal,WOOLOOWIN,1
+Other Animal,Pest / Feral Animal,WYNNUM,2
+Other Animal,Pest / Feral Animal,WYNNUM WEST,4
+Other Animal,Pest / Feral Animal,ZILLMERE,2
+Other Animal,Pest / Feral Animal,NA,1
+Other Animal,Rabbit,ALBION,1
+Other Animal,Rabbit,ANNERLEY,2
+Other Animal,Rabbit,ASPLEY,1
+Other Animal,Rabbit,BALD HILLS,1
+Other Animal,Rabbit,BALMORAL,3
+Other Animal,Rabbit,BANYO,3
+Other Animal,Rabbit,BELMONT,1
+Other Animal,Rabbit,BRACKEN RIDGE,1
+Other Animal,Rabbit,BRISBANE AIRPORT,2
+Other Animal,Rabbit,BROOKFIELD,1
+Other Animal,Rabbit,BURBANK,1
+Other Animal,Rabbit,CALAMVALE,1
+Other Animal,Rabbit,CAMP HILL,1
+Other Animal,Rabbit,CARINDALE,4
+Other Animal,Rabbit,CHANDLER,1
+Other Animal,Rabbit,CHERMSIDE WEST,1
+Other Animal,Rabbit,COORPAROO,1
+Other Animal,Rabbit,DOOLANDELLA,1
+Other Animal,Rabbit,EAGLE FARM,2
+Other Animal,Rabbit,FERNY GROVE,1
+Other Animal,Rabbit,FIG TREE POCKET,2
+Other Animal,Rabbit,FOREST LAKE,2
+Other Animal,Rabbit,GAYTHORNE,2
+Other Animal,Rabbit,GUMDALE,11
+Other Animal,Rabbit,HAMILTON,1
+Other Animal,Rabbit,HERSTON,1
+Other Animal,Rabbit,HIGHGATE HILL,1
+Other Animal,Rabbit,HOLLAND PARK,1
+Other Animal,Rabbit,INALA,2
+Other Animal,Rabbit,INDOOROOPILLY,1
+Other Animal,Rabbit,KARAWATHA,2
+Other Animal,Rabbit,KEDRON,1
+Other Animal,Rabbit,KENMORE,1
+Other Animal,Rabbit,KENMORE HILLS,1
+Other Animal,Rabbit,KEPERRA,2
+Other Animal,Rabbit,KHOLO,1
+Other Animal,Rabbit,KURABY,1
+Other Animal,Rabbit,LYTTON,2
+Other Animal,Rabbit,MANLY WEST,1
+Other Animal,Rabbit,MOGGILL,1
+Other Animal,Rabbit,MOUNT CROSBY,1
+Other Animal,Rabbit,MOUNT OMMANEY,3
+Other Animal,Rabbit,MURARRIE,8
+Other Animal,Rabbit,NUNDAH,1
+Other Animal,Rabbit,OXLEY,5
+Other Animal,Rabbit,PARKINSON,1
+Other Animal,Rabbit,PINKENBA,1
+Other Animal,Rabbit,PORT OF BRISBANE,1
+Other Animal,Rabbit,RED HILL,30
+Other Animal,Rabbit,RICHLANDS,8
+Other Animal,Rabbit,ROCHEDALE,1
+Other Animal,Rabbit,SANDGATE,1
+Other Animal,Rabbit,SEVEN HILLS,1
+Other Animal,Rabbit,SEVENTEEN MILE ROCKS,1
+Other Animal,Rabbit,SHORNCLIFFE,3
+Other Animal,Rabbit,SOUTH BRISBANE,1
+Other Animal,Rabbit,ST LUCIA,1
+Other Animal,Rabbit,TINGALPA,2
+Other Animal,Rabbit,UPPER KEDRON,3
+Other Animal,Rabbit,VIRGINIA,1
+Other Animal,Rabbit,WILLAWONG,1
+Other Animal,Rabbit,WINDSOR,1
+Other Animal,Rabbit,WYNNUM,1
+Other Animal,Rabbit,WYNNUM WEST,4
+Other Animal,Rabbit,ZILLMERE,1
+Other Animal,Too Many Animals,ACACIA RIDGE,5
+Other Animal,Too Many Animals,AUCHENFLOWER,1
+Other Animal,Too Many Animals,BALMORAL,1
+Other Animal,Too Many Animals,BARDON,4
+Other Animal,Too Many Animals,BOWEN HILLS,2
+Other Animal,Too Many Animals,BRACKEN RIDGE,1
+Other Animal,Too Many Animals,BULIMBA,1
+Other Animal,Too Many Animals,CARINA HEIGHTS,1
+Other Animal,Too Many Animals,CARSELDINE,1
+Other Animal,Too Many Animals,CHERMSIDE,2
+Other Animal,Too Many Animals,CHERMSIDE WEST,1
+Other Animal,Too Many Animals,DARRA,4
+Other Animal,Too Many Animals,DEAGON,1
+Other Animal,Too Many Animals,DURACK,1
+Other Animal,Too Many Animals,DUTTON PARK,2
+Other Animal,Too Many Animals,EAST BRISBANE,1
+Other Animal,Too Many Animals,ELLEN GROVE,6
+Other Animal,Too Many Animals,EVERTON PARK,1
+Other Animal,Too Many Animals,FIG TREE POCKET,2
+Other Animal,Too Many Animals,FOREST LAKE,2
+Other Animal,Too Many Animals,GAYTHORNE,1
+Other Animal,Too Many Animals,GEEBUNG,1
+Other Animal,Too Many Animals,GREENSLOPES,2
+Other Animal,Too Many Animals,HIGHGATE HILL,1
+Other Animal,Too Many Animals,HOLLAND PARK,1
+Other Animal,Too Many Animals,HOLLAND PARK WEST,1
+Other Animal,Too Many Animals,INALA,2
+Other Animal,Too Many Animals,JAMBOREE HEIGHTS,1
+Other Animal,Too Many Animals,KENMORE,1
+Other Animal,Too Many Animals,KEPERRA,3
+Other Animal,Too Many Animals,KHOLO,1
+Other Animal,Too Many Animals,KURABY,1
+Other Animal,Too Many Animals,LOTA,1
+Other Animal,Too Many Animals,MCDOWALL,1
+Other Animal,Too Many Animals,MITCHELTON,1
+Other Animal,Too Many Animals,MOUNT CROSBY,1
+Other Animal,Too Many Animals,MOUNT GRAVATT EAST,4
+Other Animal,Too Many Animals,MOUNT OMMANEY,1
+Other Animal,Too Many Animals,NORTHGATE,1
+Other Animal,Too Many Animals,PALLARA,1
+Other Animal,Too Many Animals,ROBERTSON,1
+Other Animal,Too Many Animals,RUNCORN,1
+Other Animal,Too Many Animals,SALISBURY,2
+Other Animal,Too Many Animals,SEVENTEEN MILE ROCKS,1
+Other Animal,Too Many Animals,STAFFORD,1
+Other Animal,Too Many Animals,SUNNYBANK HILLS,1
+Other Animal,Too Many Animals,TARRAGINDI,1
+Other Animal,Too Many Animals,THE GAP,1
+Other Animal,Too Many Animals,TINGALPA,1
+Other Animal,Too Many Animals,UPPER MOUNT GRAVATT,1
+Other Animal,Too Many Animals,WEST END,1
+Other Animal,Too Many Animals,WESTLAKE,1
+Other Animal,Too Many Animals,WINDSOR,1
+Other Animal,Too Many Animals,WYNNUM WEST,2
+Other Animal,Unregistered,ACACIA RIDGE,1
+Other Animal,Unregistered,BELLBOWRIE,1
+Other Animal,Unregistered,BRACKEN RIDGE,4
+Other Animal,Unregistered,BRIDGEMAN DOWNS,1
+Other Animal,Unregistered,BRIGHTON,1
+Other Animal,Unregistered,BRISBANE CITY,1
+Other Animal,Unregistered,BURBANK,1
+Other Animal,Unregistered,CARINA,1
+Other Animal,Unregistered,CHERMSIDE,1
+Other Animal,Unregistered,CLAYFIELD,2
+Other Animal,Unregistered,DARRA,3
+Other Animal,Unregistered,DURACK,2
+Other Animal,Unregistered,EIGHT MILE PLAINS,1
+Other Animal,Unregistered,HEATHWOOD,1
+Other Animal,Unregistered,INALA,1
+Other Animal,Unregistered,KENMORE,1
+Other Animal,Unregistered,KENMORE HILLS,1
+Other Animal,Unregistered,KURABY,4
+Other Animal,Unregistered,MANSFIELD,1
+Other Animal,Unregistered,MORNINGSIDE,2
+Other Animal,Unregistered,NORMAN PARK,2
+Other Animal,Unregistered,PULLENVALE,1
+Other Animal,Unregistered,RUNCORN,1
+Other Animal,Unregistered,SANDGATE,1
+Other Animal,Unregistered,SHERWOOD,1
+Other Animal,Unregistered,SUNNYBANK,3
+Other Animal,Unregistered,UPPER MOUNT GRAVATT,2
+Other Animal,Unregistered,WAVELL HEIGHTS,1
+Other Animal,Unregistered,WESTLAKE,1
+Other Animal,Unregistered,WISHART,1
+Other Animal,Unregistered,WOOLLOONGABBA,2
+Other Animal,Wandering,ACACIA RIDGE,2
+Other Animal,Wandering,ALGESTER,1
+Other Animal,Wandering,ANNERLEY,2
+Other Animal,Wandering,ASHGROVE,2
+Other Animal,Wandering,ASPLEY,2
+Other Animal,Wandering,BARDON,2
+Other Animal,Wandering,BELLBOWRIE,1
+Other Animal,Wandering,BRACKEN RIDGE,1
+Other Animal,Wandering,BRIDGEMAN DOWNS,5
+Other Animal,Wandering,BRIGHTON,1
+Other Animal,Wandering,BRISBANE CITY,1
+Other Animal,Wandering,BROOKFIELD,1
+Other Animal,Wandering,CALAMVALE,3
+Other Animal,Wandering,CARINA,1
+Other Animal,Wandering,CHANDLER,1
+Other Animal,Wandering,CHERMSIDE WEST,2
+Other Animal,Wandering,CORINDA,1
+Other Animal,Wandering,DARRA,4
+Other Animal,Wandering,DOOLANDELLA,2
+Other Animal,Wandering,EAST BRISBANE,1
+Other Animal,Wandering,FIG TREE POCKET,2
+Other Animal,Wandering,FOREST LAKE,4
+Other Animal,Wandering,GEEBUNG,1
+Other Animal,Wandering,GREENSLOPES,3
+Other Animal,Wandering,HOLLAND PARK,3
+Other Animal,Wandering,HOLLAND PARK WEST,2
+Other Animal,Wandering,INALA,3
+Other Animal,Wandering,KARAWATHA,2
+Other Animal,Wandering,KEDRON,1
+Other Animal,Wandering,KEPERRA,1
+Other Animal,Wandering,KURABY,1
+Other Animal,Wandering,MANLY WEST,2
+Other Animal,Wandering,MCDOWALL,1
+Other Animal,Wandering,MIDDLE PARK,1
+Other Animal,Wandering,MILTON,1
+Other Animal,Wandering,MOGGILL,2
+Other Animal,Wandering,MOUNT GRAVATT EAST,2
+Other Animal,Wandering,OXLEY,1
+Other Animal,Wandering,PULLENVALE,1
+Other Animal,Wandering,ROBERTSON,1
+Other Animal,Wandering,ROCKLEA,1
+Other Animal,Wandering,SALISBURY,1
+Other Animal,Wandering,SANDGATE,2
+Other Animal,Wandering,SPRING HILL,1
+Other Animal,Wandering,TARRAGINDI,1
+Other Animal,Wandering,TOOWONG,1
+Other Animal,Wandering,UPPER BROOKFIELD,4
+Other Animal,Wandering,UPPER KEDRON,1
+Other Animal,Wandering,WAVELL HEIGHTS,1
+Other Animal,Wild Dog,ACACIA RIDGE,1
+Other Animal,Wild Dog,ANSTEAD,1
+Other Animal,Wild Dog,ASHGROVE,2
+Other Animal,Wild Dog,BALD HILLS,1
+Other Animal,Wild Dog,BANYO,1
+Other Animal,Wild Dog,BARDON,1
+Other Animal,Wild Dog,BELLBOWRIE,1
+Other Animal,Wild Dog,BRISBANE AIRPORT,2
+Other Animal,Wild Dog,BROOKFIELD,20
+Other Animal,Wild Dog,BURBANK,1
+Other Animal,Wild Dog,CORINDA,1
+Other Animal,Wild Dog,ELLEN GROVE,2
+Other Animal,Wild Dog,EVERTON PARK,1
+Other Animal,Wild Dog,FERNY GROVE,3
+Other Animal,Wild Dog,FOREST LAKE,5
+Other Animal,Wild Dog,GREENSLOPES,1
+Other Animal,Wild Dog,HOLLAND PARK WEST,1
+Other Animal,Wild Dog,INALA,1
+Other Animal,Wild Dog,KENMORE HILLS,3
+Other Animal,Wild Dog,KEPERRA,1
+Other Animal,Wild Dog,KHOLO,23
+Other Animal,Wild Dog,LAKE MANCHESTER,2
+Other Animal,Wild Dog,MACGREGOR,1
+Other Animal,Wild Dog,MCDOWALL,1
+Other Animal,Wild Dog,MIDDLE PARK,1
+Other Animal,Wild Dog,MITCHELTON,2
+Other Animal,Wild Dog,MOGGILL,7
+Other Animal,Wild Dog,MOUNT COOT-THA,6
+Other Animal,Wild Dog,MOUNT CROSBY,4
+Other Animal,Wild Dog,MOUNT GRAVATT EAST,1
+Other Animal,Wild Dog,NUDGEE,1
+Other Animal,Wild Dog,PINJARRA HILLS,2
+Other Animal,Wild Dog,PULLENVALE,21
+Other Animal,Wild Dog,RIVERHILLS,6
+Other Animal,Wild Dog,ROCKLEA,1
+Other Animal,Wild Dog,SINNAMON PARK,1
+Other Animal,Wild Dog,SUMNER,3
+Other Animal,Wild Dog,SUNNYBANK HILLS,1
+Other Animal,Wild Dog,THE GAP,11
+Other Animal,Wild Dog,TOOWONG,1
+Other Animal,Wild Dog,UPPER BROOKFIELD,56
+Other Animal,Wild Dog,UPPER KEDRON,4
+Other Animal,Wild Dog,WACOL,11
+Other Animal,Wild Dog,WISHART,1
+Other Animal,Wild Dog,WYNNUM,1
+Other Animal,Wild Dog,WYNNUM WEST,1

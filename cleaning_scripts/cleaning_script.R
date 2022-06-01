@@ -31,17 +31,17 @@ colSums(is.na(brisbane_complaints)) # the responsible_office column is empty, th
 
 # I can get two different datasets from animal_complaints, one for generating visuals on the trend through time and one for total
 
-animal_complaints_clean <- animal_complaints %>%  # for trend through time, dropping electoral_division, don't see an use for it
+townsville_complaints_clean <- animal_complaints %>%  # for possible trend through time, dropping electoral_division, don't see any use for this
   select(- electoral_division)
 
-animal_complaints_tot_per_suburb <- animal_complaints_clean %>% # for totals 
+townsville_complaints_tot_per_suburb <- townsville_complaints_clean %>% # for totals 
   group_by(animal_type, complaint_type, suburb) %>% 
   summarise(total = n())
 
 # for animal_outcomes I will do a `pivot_longer()` moving all the states codes in a single column then I'll rename them to their full name so they 
-# are easy to read. I will remove the total column as I don't really see an use for it.
+# are easy to read. I will remove the total column, I don't need it.
 
-animal_outcomes_clean <- animal_outcomes %>%
+national_outcomes_clean <- animal_outcomes %>%
   pivot_longer(4:11, names_to = "state", values_to = "tot_outcomes") %>% 
   mutate(state = str_replace_all(state, "act", "Australian Capital Territory"),
          state = str_replace_all(state, "nsw", "New South Wales"),
@@ -58,7 +58,7 @@ brisbane_complaints_clean %>% # checking rows in data_range column
   group_by(date_range) %>% 
   summarise(n = n())
 
-brisbane_complaints_clean <- brisbane_complaints %>% # dropping columns I don't need and renaming the dates to a more readble standard
+brisbane_complaints_clean <- brisbane_complaints %>% # dropping columns I don't need and renaming the dates to a more readable standard
   select(-nature, -city, -responsible_office) %>% 
   mutate(category = coalesce(category, median(category, na.rm = T)),
          date_range = str_remove_all(date_range, ".csv"),
@@ -69,16 +69,24 @@ brisbane_complaints_clean <- brisbane_complaints %>% # dropping columns I don't 
          date_range = str_replace_all(date_range, "-to-", " "),
          date_range = str_replace_all(date_range, "-", " "))
 
+brisbane_complaints_tot_per_suburb <- brisbane_complaints_clean %>% # for totals 
+  group_by(animal_type, category, suburb) %>% 
+  summarise(total = n())
+
 # writing clean data
 
-write_csv(animal_complaints_clean, file = here(
-               "clean_data/animal_complaints_clean.csv"))
+write_csv(townsville_complaints_clean, file = here(
+               "clean_data/townsville_complaints_clean.csv"))
 
-write_csv(animal_complaints_tot_per_suburb, file = here(
-               "clean_data/animal_complaints_tot_per_suburb.csv"))
+write_csv(townsville_complaints_tot_per_suburb, file = here(
+               "clean_data/townsville_complaints_tot_per_suburb.csv"))
 
-write_csv(animal_outcomes_clean, file = here(
-               "clean_data/animal_outcomes_clean.csv"))
+write_csv(national_outcomes_clean, file = here(
+               "clean_data/national_outcomes_clean.csv"))
 
 write_csv(brisbane_complaints_clean, file = here(
-               "clean_data/brisbane_complaints_clean.csv"))
+  "clean_data/brisbane_complaints_clean.csv"))
+
+write_csv(brisbane_complaints_tot_per_suburb, file = here(
+               "clean_data/brisbane_complaints_tot_per_suburb.csv"))
+

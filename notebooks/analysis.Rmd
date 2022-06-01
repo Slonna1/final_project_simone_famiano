@@ -8,72 +8,126 @@ library(here)
 library(tidyverse)
 ```
 
+The Data:
 
 ```{r}
-animal_complaints <-read_csv(here(
-  "clean_data/animal_complaints_clean.csv"))
+townsville_complaints <- read_csv(here(
+  "clean_data/townsville_complaints_clean.csv")
+  )
 
-animal_complaints_per_suburbs <-read_csv(here(
-  "clean_data/animal_complaints_tot_per_suburb.csv"))
+townsville_complaints_tot_per_suburb <- read_csv(here(
+  "clean_data/townsville_complaints_tot_per_suburb.csv")
+  )
 
-animal_outcomes_clean <-read_csv(here(
-  "clean_data/animal_outcomes_clean.csv"))
+national_outcomes <- read_csv(here(
+  "clean_data/national_outcomes_clean.csv")
+  )
 
 brisbane_complaints <- read_csv(here(
-  "clean_data/brisbane_complaints_clean.csv"))
+  "clean_data/brisbane_complaints_clean.csv")
+  )
 
-animal_complaints 
-animal_complaints_per_suburbs
-animal_outcomes_clean
+brisbane_complaints_tot_per_suburb <- read_csv(here(
+  "clean_data/brisbane_complaints_tot_per_suburb.csv")
+  )
+
+townsville_complaints
+townsville_complaints_tot_per_suburb
 brisbane_complaints
+brisbane_complaints_tot_per_suburb
+national_outcomes
 ```
+## Comparing complains type between Townsville and Brisbane
 
 ```{r}
-ggplot(animal_complaints) +
-  geom_bar(position = "dodge", aes(x = complaint_type, fill = animal_type))
-```
-
-```{r}
-animal_complaints_per_suburbs %>% 
-  filter(animal_type == "dog") %>% 
-  filter(total > 100) %>% 
+townsville_complaints_tot_plot <- townsville_complaints %>% 
   ggplot() +
-  geom_col(aes(x = suburb, y = total, fill = complaint_type)) +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  geom_bar(position = "dodge", aes(x = complaint_type, fill = animal_type)) +
+  labs(x = "Complaint Type", 
+       y = "Totals", 
+       title = "Townsville Complaint Type Totals") +
+  scale_fill_manual("Animal Type", values = c("cat" = "#74c066",
+                                              "dog" = "#0193cf")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 16, family = "Arial"),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+  
+
+townsville_complaints_tot_plot
 ```
 
 ```{r}
-animal_outcomes_clean %>% 
+exclude <- c("Dog", "Fox")
+
+brisbane_complaints_tot_plot <- brisbane_complaints %>% 
+  mutate(animal_type = str_to_lower(animal_type)) %>% 
+  filter(animal_type %in% "cat" | animal_type %in% "dog") %>% 
+  filter(!category %in% exclude) %>% 
   ggplot() +
-  geom_col(position = "dodge", aes(x = state, y = tot_outcomes, fill = outcome)) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
-  facet_wrap(~ animal_type)
+  geom_bar(position = "dodge", aes(x = category, fill = animal_type)) +
+  labs(x = "Complaint Type", 
+       y = "Totals", 
+       title = "Brisbane Complaint Type Totals") +
+  scale_fill_manual("Animal Type", values = c("cat" = "#74c066",
+                                              "dog" = "#0193cf")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 16, family = "Arial"),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+  
+
+brisbane_complaints_tot_plot
+```
+
+## Brisbane vs Fox
+
+```{r}
+include <- "Fox"
+
+brisbane_complaints_fox_plot <- brisbane_complaints %>% 
+  mutate(animal_type = str_to_lower(animal_type)) %>% 
+  filter(!animal_type %in% "cat" | animal_type %in% "dog") %>% 
+  filter(category %in% include) %>% 
+  ggplot() +
+  geom_bar(position = "dodge", aes(x = category, fill = animal_type)) +
+  labs(x = "Complaint Type", 
+       y = "Totals", 
+       title = "Brisbane Fox Troubles") +
+  scale_fill_manual("Grievances", values = c("cat trapping" = "#74c066",
+                                              "dog" = "#0193cf",
+                                              "attack" = "#244321",
+                                              "other animal" = "#d6a115")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 16, family = "Arial"))
+  
+brisbane_complaints_fox_plot
 ```
 
 ```{r}
-animal_outcomes_clean %>% 
-  filter(animal_type == "Cats" & outcome == "Euthanized") %>%
-  group_by(year, outcome) %>% 
-  summarise(tot_outcomes = sum(tot_outcomes)) %>% 
-  ungroup() %>% 
+brisbane_complaints_fox_plot <- brisbane_complaints_tot_per_suburb %>% 
+  mutate(animal_type = str_to_lower(animal_type)) %>% 
+  filter(!animal_type %in% "cat" | animal_type %in% "dog") %>% 
+  filter(category %in% include) %>% 
+  filter(total > 30) %>% 
   ggplot() +
-  geom_line(aes(x = year, y = tot_outcomes, group = outcome))
+  geom_col(aes(x = suburb, y = total, fill = animal_type)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Brisbane Suburbs Fox Troubles*",
+       caption = "* just considering Suburbs with more that 30 complaints") +
+  scale_fill_manual("Grievances", values = c("cat trapping" = "#74c066",
+                                              "dog" = "#0193cf",
+                                              "attack" = "#244321",
+                                              "other animal" = "#d6a115")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 90, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+  
+brisbane_complaints_fox_plot
 ```
 
-```{r}
-animal_outcomes_clean %>% 
-  filter(animal_type == "Cats" & outcome == "Rehomed") %>%
-  group_by(year, outcome) %>% 
-  summarise(tot_outcomes = sum(tot_outcomes)) %>% 
-  ungroup() %>% 
-  ggplot() +
-  geom_line(aes(x = year, y = tot_outcomes, group = outcome))
-```
-
-```{r}
-brisbane_complaints %>% 
-  ggplot() +
-  geom_bar(aes(x = category)) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))
-```
-
+* insert map of Inala
