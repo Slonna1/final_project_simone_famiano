@@ -4,17 +4,17 @@ library(tidyverse)
 
 # loading the data
 
-animal_complaints <- read_csv("raw_data/animal_complaints.csv") %>% 
+animal_complaints <- read_csv(here("raw_data/animal_complaints.csv")) %>% 
   clean_names()
 
 animal_complaints
 
-animal_outcomes <-  read_csv("raw_data/animal_outcomes.csv") %>% 
+animal_outcomes <-  read_csv(here("raw_data/animal_outcomes.csv")) %>% 
   clean_names()
 
 animal_outcomes
 
-brisbane_complaints <- read_csv("raw_data/brisbane_complaints.csv") %>% 
+brisbane_complaints <- read_csv(here("raw_data/brisbane_complaints.csv")) %>% 
   clean_names()
 
 brisbane_complaints
@@ -69,3 +69,16 @@ brisbane_complaints_clean <- brisbane_complaints %>% # dropping columns I don't 
          date_range = str_replace_all(date_range, "-to-", " "),
          date_range = str_replace_all(date_range, "-", " "))
 
+# writing clean data
+
+write_csv(animal_complaints_clean, file = here(
+               "clean_data/animal_complaints_clean.csv"))
+
+write_csv(animal_complaints_tot_per_suburb, file = here(
+               "clean_data/animal_complaints_tot_per_suburb.csv"))
+
+write_csv(animal_outcomes_clean, file = here(
+               "clean_data/animal_outcomes_clean.csv"))
+
+write_csv(brisbane_complaints_clean, file = here(
+               "clean_data/brisbane_complaints_clean.csv"))

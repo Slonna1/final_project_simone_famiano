@@ -1,0 +1,79 @@
+---
+title: "Australian RSPCA "
+output: html_notebook
+---
+
+```{r}
+library(here)
+library(tidyverse)
+```
+
+
+```{r}
+animal_complaints <-read_csv(here(
+  "clean_data/animal_complaints_clean.csv"))
+
+animal_complaints_per_suburbs <-read_csv(here(
+  "clean_data/animal_complaints_tot_per_suburb.csv"))
+
+animal_outcomes_clean <-read_csv(here(
+  "clean_data/animal_outcomes_clean.csv"))
+
+brisbane_complaints <- read_csv(here(
+  "clean_data/brisbane_complaints_clean.csv"))
+
+animal_complaints 
+animal_complaints_per_suburbs
+animal_outcomes_clean
+brisbane_complaints
+```
+
+```{r}
+ggplot(animal_complaints) +
+  geom_bar(position = "dodge", aes(x = complaint_type, fill = animal_type))
+```
+
+```{r}
+animal_complaints_per_suburbs %>% 
+  filter(animal_type == "dog") %>% 
+  filter(total > 100) %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = complaint_type)) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r}
+animal_outcomes_clean %>% 
+  ggplot() +
+  geom_col(position = "dodge", aes(x = state, y = tot_outcomes, fill = outcome)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  facet_wrap(~ animal_type)
+```
+
+```{r}
+animal_outcomes_clean %>% 
+  filter(animal_type == "Cats" & outcome == "Euthanized") %>%
+  group_by(year, outcome) %>% 
+  summarise(tot_outcomes = sum(tot_outcomes)) %>% 
+  ungroup() %>% 
+  ggplot() +
+  geom_line(aes(x = year, y = tot_outcomes, group = outcome))
+```
+
+```{r}
+animal_outcomes_clean %>% 
+  filter(animal_type == "Cats" & outcome == "Rehomed") %>%
+  group_by(year, outcome) %>% 
+  summarise(tot_outcomes = sum(tot_outcomes)) %>% 
+  ungroup() %>% 
+  ggplot() +
+  geom_line(aes(x = year, y = tot_outcomes, group = outcome))
+```
+
+```{r}
+brisbane_complaints %>% 
+  ggplot() +
+  geom_bar(aes(x = category)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
