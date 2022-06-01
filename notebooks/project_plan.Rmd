@@ -25,15 +25,15 @@ With their mission for animal welfare in mind, this analysis will focus the numb
 
 The analysis is aiming to answer these questions:
 
-• Total call volume for complaint calls: How has this trended over time?
+__• Total call volume for complaint calls: How has this trended over time?__
 
-• Is there a particular animal being called about the most?
+__• Is there a particular animal being called about the most?__
 
-• Do particular suburbs have different type of complaint calls? Do they call about different animals?
+__• Do particular suburbs have different type of complaint calls? Do they call about different animals?__
 
-• How have the different outcomes trended over time?
+__• How have the different outcomes trended over time?__
 
-• Business Intelligence – using the insights found, can we predict how this might look for the upcoming year?
+__• Using the insights found, can we predict how this might look for the upcoming year?__
 
 ## Data sources
 
@@ -84,8 +84,30 @@ As mentioned above, the roots of the analysis will be 5 questions:
 
 • How have the different outcomes trended over time?
 
-• Business Intelligence – using the insights found, can we predict how this might look for the upcoming year?
+• Using the insights found, can we predict how this might look for the upcoming year?
 
+All the process, from data cleaning to data analysis will be done in R Studio. 
 
+The slides for the presentation will be generated in PowerPoint.
+
+The analysis itself will be a Descriptive Analytics on the complaints received by RSPCA in the city of __Brisbane__ and the city of __Townsville__. This part of the analysis will concentrate on the first three questions.
+
+__• Total call volume for complaint calls: How has this trended over time?__
+
+__• Is there a particular animal being called about the most?__
+
+__• Do particular suburbs have different type of complaint calls? Do they call about different animals?__
+
+It will interesting to point any difference of KPIs in the two locations and if there is any hypothesize why.
+
+The second part of the analysis will be investigating the outcome of complaints on a national scale, analysing the trend over the years.
+
+__•How have the different outcomes trended over time?__
+
+The third and final part will be a Predictive Analytics on the outcome of complaints trend for the next year.
+
+__• Using the insights found, can we predict how this might look for the upcoming year?__
+
+I consider this part as an extension, so it will appear in the final project unless any major issue such as bad time managment etc. 
 
 
