@@ -131,3 +131,208 @@ brisbane_complaints_fox_plot
 ```
 
 * insert map of Inala
+
+```{r}
+brisbane_complaints_by_suburbs <- brisbane_complaints_tot_per_suburb %>% 
+  mutate(animal_type = str_to_lower(animal_type)) %>% 
+  filter(animal_type %in% "cat" | animal_type %in% "dog") %>% 
+  filter(!category %in% exclude) %>% 
+  filter(total > 50) %>% 
+  drop_na() %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = animal_type)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Brisbane Suburbs Pets Complaints*",
+       caption = "* just considering Suburbs with more that 50 complaints") +
+   scale_fill_manual("Animal Type", values = c("cat" = "#74c066",
+                                              "dog" = "#0193cf")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+  
+brisbane_complaints_by_suburbs
+```
+
+```{r}
+brisbane_subs_complaints_type_dogs <- brisbane_complaints_tot_per_suburb %>% 
+  mutate(category = str_to_lower(category)) %>% 
+  filter(animal_type == "Dog") %>% 
+  filter(!category %in% exclude) %>% 
+  filter(total > 40) %>% 
+  drop_na() %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = category)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Brisbane Suburbs Pets Complaints Type - Dogs*",
+       caption = "* just considering Suburbs with more that 40 complaints") +
+  scale_fill_manual("Complaints Type", values = c("fencing issues" = "#74c066",
+                                                  "too many animals" = "#0193cf",
+                                                  "unregistered" = "#244321",
+                                                  "wandering" = "#d6a115")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+
+brisbane_subs_complaints_type_dogs
+  
+```
+
+```{r}
+brisbane_subs_complaints_type_cats <- brisbane_complaints_tot_per_suburb %>% 
+  mutate(category = str_to_lower(category)) %>% 
+  filter(animal_type == "Cat") %>% 
+  filter(!category %in% exclude) %>% 
+  filter(total > 10) %>% 
+  drop_na() %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = category)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Brisbane Suburbs Pets Complaints Type - Cats*",
+       caption = "* just considering Suburbs with more that 10 complaints") +
+  scale_fill_manual("Complaints Type", values = c("fox" = "#74c066",
+                                                  "wandering" = "#0193cf")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+
+brisbane_subs_complaints_type_cats
+```
+
+```{r}
+townsville_complaints_by_suburbs <- townsville_complaints_tot_per_suburb %>%
+  filter(total > 50) %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = animal_type)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Townsville Suburbs Complaints Totals",
+       caption = "* just considering Suburbs with more that 50 complaints") +
+  scale_fill_manual("Complaints Type", values = c("cat" = "#74c066",
+                                                  "dog" = "#0193cf")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+
+townsville_complaints_by_suburbs
+```
+
+```{r}
+townsville_complaints_type_cats <- townsville_complaints_tot_per_suburb %>% 
+  mutate(complaint_type = str_to_lower(complaint_type)) %>% 
+  filter(animal_type == "cat") %>% 
+  filter(total > 20) %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = complaint_type)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Townsville Suburbs Complaints Totals",
+       caption = "* just considering Suburbs with more that 20 complaints") +
+  scale_fill_manual("Complaints Type", values = c("enclosure" = "#74c066",
+                                                  "private impound" = "#0193cf",
+                                                  "wandering" = "#244321")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+
+townsville_complaints_type_cats
+```
+
+```{r}
+townsville_complaints_type_dogs <- townsville_complaints_tot_per_suburb %>% 
+  mutate(complaint_type = str_to_lower(complaint_type)) %>% 
+  filter(!animal_type == "cat") %>% 
+  filter(total > 40) %>% 
+  ggplot() +
+  geom_col(aes(x = suburb, y = total, fill = complaint_type)) +
+  labs(x = "Suburb", 
+       y = "Totals", 
+       title = "Townsville Suburbs Complaints Totals",
+       caption = "* just considering Suburbs with more that 40 complaints") +
+  scale_fill_manual("Complaints Type", values = c("enclosure" = "#74c066",
+                                                  "private impound" = "#0193cf",
+                                                  "wandering" = "#244321",
+                                                  "attack" = "#d6a115",
+                                                  "noise" = "#73182c",
+                                                  "aggressive animal" = "#ff0000")
+                    ) +
+  theme_bw() +
+  theme(text=element_text(size = 10, family = "Arial"),
+        axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.caption = element_text(hjust = 1.4, face = "italic"))
+
+townsville_complaints_type_dogs
+```
+
+```{r}
+townsville_dog_bars <- townsville_complaints %>% 
+  filter(animal_type == "dog") %>%
+  group_by(complaint_type) %>% 
+  summarise(total = n()) %>% 
+  arrange(desc(total)) 
+
+townsville_dog_bars
+
+ggplot(townsville_dog_bars) +
+  geom_col(aes(x = complaint_type, y = total))
+
+  
+
+```
+
+```{r}
+townsville_cat_bars <- townsville_complaints %>% 
+  filter(animal_type == "cat") %>%
+  group_by(complaint_type) %>% 
+  summarise(total = n()) %>% 
+  arrange(desc(total)) 
+
+townsville_cat_bars
+
+ggplot(townsville_cat_bars) +
+  geom_col(aes(x = complaint_type, y = total))
+```
+
+
+```{r}
+brisbane_dog_bars <- brisbane_complaints %>% 
+  filter(animal_type == "Dog") %>%
+  group_by(category) %>% 
+  summarise(total = n()) %>% 
+  arrange(desc(total)) 
+
+brisbane_dog_bars
+
+ggplot(brisbane_dog_bars) +
+  geom_col(aes(x = category, y = total))
+
+  
+
+```
+
+```{r}
+brisbane_cat_bars <- brisbane_complaints %>% 
+  filter(animal_type == "Cat") %>%
+  group_by(category) %>% 
+  summarise(total = n()) %>% 
+  arrange(desc(total)) 
+
+brisbane_cat_bars
+
+ggplot(brisbane_cat_bars) +
+  geom_col(aes(x = category, y = total))
+
+```
+
