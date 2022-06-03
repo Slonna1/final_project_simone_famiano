@@ -25,13 +25,13 @@ With their mission for animal welfare in mind, this analysis will focus the numb
 
 The analysis is aiming to answer these questions:
 
-__• Total call volume for complaint calls: How has this trended over time?__
+__• What is the total call volume for complaint calls regarding pets in Brisbane and Townsville?__
 
 __• Is there a particular animal being called about the most?__
 
-__• Do particular suburbs have different type of complaint calls? Do they call about different animals?__
+__• Do particular suburbs have different type of complaint calls? __
 
-__• How have the different outcomes trended over time?__
+__• How have the different outcomes trended over time? Did RSPCA work have an impact?__
 
 __• Using the insights found, can we predict how this might look for the upcoming year?__
 
@@ -78,15 +78,15 @@ Same applies for non-house pets, we have very generic names: `Livestock`, `Wildl
 
 As mentioned above, the roots of the analysis will be 5 questions:
 
-• Total call volume for complaint calls: How has this trended over time?
+__• What is the total call volume for complaint calls regarding pets in Brisbane and Townsville?__
 
-• Is there a particular animal being called about the most?
+__• Is there a particular animal being called about the most?__
 
-• Do particular suburbs have different type of complaint calls? Do they call about different animals?
+__• Do particular suburbs have different type of complaint calls? __
 
-• How have the different outcomes trended over time?
+__• How have the different outcomes trended over time? Did RSPCA work have an impact?__
 
-• Using the insights found, can we predict how this might look for the upcoming year?
+__• Using the insights found, can we predict how this might look for the upcoming year?__
 
 All the process, from data cleaning to data analysis will be done in R Studio. 
 
@@ -94,17 +94,18 @@ The slides for the presentation will be generated in PowerPoint.
 
 The analysis itself will be a Descriptive Analytics on the complaints received by RSPCA in the city of __Brisbane__ and the city of __Townsville__. This part of the analysis will concentrate on the first three questions.
 
-_• Total call volume for complaint calls: How has this trended over time?_
+_• What is the total call volume for complaint calls regarding pets in Brisbane and Townsville?_
 
 _• Is there a particular animal being called about the most?_
 
-_• Do particular suburbs have different type of complaint calls? Do they call about different animals?_
+_• Do particular suburbs have different type of complaint calls?_
+
 
 It will be interesting to point any difference of KPIs in the two locations and if there is any hypothesize why.
 
 The second part of the analysis will be investigating the outcome of complaints on a national scale, analysing the trend over the years.
 
-_•How have the different outcomes trended over time?_
+_• How have the different outcomes trended over time? Did RSPCA work have an impact?_
 
 The third and final part will be a Predictive Analytics on the outcome of complaints trend for the next year.
 
