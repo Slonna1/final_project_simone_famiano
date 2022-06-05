@@ -58,6 +58,8 @@ townsville_complaints_tot_plot <- townsville_complaints %>%
   
 
 townsville_complaints_tot_plot
+
+ggsave("townsville_complaints_tot_plot.png")
 ```
 In Townsville, dogs receive the more complaints.
 Calls regarding Cats are more concentrated on the welfare of the animal rather than proper annoyance like in dogs 
@@ -83,6 +85,8 @@ brisbane_complaints_tot_plot <- brisbane_complaints %>%
   
 
 brisbane_complaints_tot_plot
+
+ggsave("brisbane_complaints_tot_plot.png")
 ```
 In Brisbane again, dogs are again the focus of complains.
 We can notice some difference from Townsville, there is more variety of complains and looks like in Brisbane dogs have something for fences.
@@ -113,12 +117,14 @@ brisbane_complaints_fox_plot <- brisbane_complaints %>%
   theme(text=element_text(size = 16, family = "Arial"))
   
 brisbane_complaints_fox_plot
+
+ggsave("brisbane_complaints_fox_.png")
 ```
 A fair amount of complaints are regarding foxes attacking dogs and cats and in particular trapping the latter.
 - Advise business to do campaign on keeping pets inside at home as long as it necessary.
 
 ```{r}
-brisbane_complaints_fox_plot <- brisbane_complaints_tot_per_suburb %>% 
+brisbane_complaints_fox_per_suburbs <- brisbane_complaints_tot_per_suburb %>% 
   mutate(animal_type = str_to_lower(animal_type)) %>% 
   #filter(!animal_type %in% "cat" | animal_type %in% "dog") %>% 
   filter(category %in% include) %>% 
@@ -137,7 +143,9 @@ brisbane_complaints_fox_plot <- brisbane_complaints_tot_per_suburb %>%
   theme(text=element_text(size = 10, family = "Arial"),
         plot.caption = element_text(hjust = 1.4, face = "italic"))
   
-brisbane_complaints_fox_plot
+brisbane_complaints_fox_per_suburbs
+
+ggsave("brisbane_complaints_fox_per_suburbs.png")
 ```
 If we look at the fox problem by suburb, we notice that the cat trapping issue is particularly felt in Inala. 
 
@@ -165,6 +173,8 @@ brisbane_complaints_by_suburbs <- brisbane_complaints_tot_per_suburb %>%
         plot.caption = element_text(hjust = 1.4, face = "italic"))
   
 brisbane_complaints_by_suburbs
+
+ggsave("brisbane_complaints_by_suburbs.png")
 ```
 Looking at the total complaints by suburb that are not the conseguence of a fox, we can again notice the prevalence of Dogs over cats. 
 Again Inala tops the other suburbs in complaints number.
@@ -177,16 +187,15 @@ brisbane_subs_complaints_type_dogs <- brisbane_complaints_tot_per_suburb %>%
   mutate(category = str_to_lower(category)) %>% 
   filter(animal_type == "Dog") %>% 
   filter(!category %in% exclude) %>% 
-  filter(total > 40) %>% 
+  filter(total > 50) %>% 
   drop_na() %>% 
   ggplot() +
   geom_col(aes(y = suburb, x = total, fill = category)) +
   labs(y = "Suburb", 
        x = "Totals", 
        title = "Brisbane Suburbs Pets Complaints Type - Dogs*",
-       caption = "* just considering Suburbs with more that 40 complaints") +
+       caption = "* just considering Suburbs with more that 50 complaints") +
   scale_fill_manual("Complaints Type", values = c("fencing issues" = "#74c066",
-                                                  "too many animals" = "#0193cf",
                                                   "unregistered" = "#244321",
                                                   "wandering" = "#d6a115")
                     ) +
@@ -195,6 +204,8 @@ brisbane_subs_complaints_type_dogs <- brisbane_complaints_tot_per_suburb %>%
         plot.caption = element_text(hjust = 1.4, face = "italic"))
 
 brisbane_subs_complaints_type_dogs
+
+ggsave("brisbane_subs_complaints_type_dogs.png")
   
 ```
 Looking deeper to the type of complaints regarding dogs, most of them are for fencing issue, troubles between neighbors.
@@ -221,8 +232,22 @@ brisbane_subs_complaints_type_cats <- brisbane_complaints_tot_per_suburb %>%
         plot.caption = element_text(hjust = 1.4, face = "italic"))
 
 brisbane_subs_complaints_type_cats
+
+ggsave("brisbane_subs_complaints_type_cats.png")
 ```
 If we look at cats, again the two main problems are wandering and foxes.
+
+```{r}
+brisbane_complaints %>% 
+  filter(animal_type == "Dog" | animal_type == "Cat") %>% 
+  group_by(animal_type, suburb) %>% 
+  summarise(n = n()) %>% 
+  arrange(desc(n))
+```
+
+
+
+
 
 ```{r}
 townsville_complaints_by_suburbs <- townsville_complaints_tot_per_suburb %>%
@@ -241,6 +266,8 @@ townsville_complaints_by_suburbs <- townsville_complaints_tot_per_suburb %>%
         plot.caption = element_text(hjust = 1.4, face = "italic"))
 
 townsville_complaints_by_suburbs
+
+ggsave("townsville_complaints_by_suburbs.png")
 ```
 Going to Townsville suburbs, and dogs are at it again. Most complains are directed to dogs
 
@@ -249,6 +276,7 @@ townsville_complaints_type_cats <- townsville_complaints_tot_per_suburb %>%
   mutate(complaint_type = str_to_lower(complaint_type)) %>% 
   filter(animal_type == "cat") %>% 
   filter(total > 10) %>% 
+  filter(!suburb == "Unallocated") %>% 
   ggplot() +
   geom_col(aes(y = suburb, x = total, fill = complaint_type)) +
   labs(y = "Suburb", 
@@ -265,6 +293,8 @@ townsville_complaints_type_cats <- townsville_complaints_tot_per_suburb %>%
         plot.caption = element_text(hjust = 1.4, face = "italic"))
 
 townsville_complaints_type_cats
+
+ggsave("townsville_complaints_type_cats.png")
 ```
 Again for cats we notice that most if not all the complaints calls are regarding the welfare of the animal, private impound means when a person than it's not part of RSCA contacts them because he took in an animal because they are concerned regarding its state. Enclosure is when an animal is trapped and wandering is moslty directed to strays or lost pets.
 
@@ -272,14 +302,14 @@ Again for cats we notice that most if not all the complaints calls are regarding
 townsville_complaints_type_dogs <- townsville_complaints_tot_per_suburb %>% 
   mutate(complaint_type = str_to_lower(complaint_type)) %>% 
   filter(!animal_type == "cat") %>% 
-  filter(total > 40) %>% 
+  filter(total > 50) %>% 
   filter(!suburb == "Unallocated") %>% 
   ggplot() +
   geom_col(aes(y = suburb, x = total, fill = complaint_type)) +
   labs(y = "Suburb", 
        x = "Totals", 
        title = "Townsville Suburbs Complaints Totals",
-       caption = "* just considering Suburbs with more that 40 complaints") +
+       caption = "* just considering Suburbs with more that 50 complaints") +
   scale_fill_manual("Complaints Type", values = c("enclosure" = "#74c066",
                                                   "private impound" = "#0193cf",
                                                   "wandering" = "#244321",
@@ -292,8 +322,13 @@ townsville_complaints_type_dogs <- townsville_complaints_tot_per_suburb %>%
         plot.caption = element_text(hjust = 1.4, face = "italic")) 
 
 townsville_complaints_type_dogs
+
+ggsave("townsville_complaints_type_dogs.png")
 ```
-Dogs in Townsville suburbs heve been busy! Mount Luisa and Kirwan have an exceptional amount of calls regarding dogs, double of the other suburbs.
+Mount Louisa and Kirwan have a very high volume of calls for aggressive dogs and even attacks. There is a high level of call for enclosure as well, which could be either a trapped animal or most probably in this case a dog tied to a chain outside in hot water or closed inside without the opportunity to go out, this again reflects in the high than average amount of calls for noise.
+
+RSPCA should probably led a further enquire on pets welfare in this suburbs and concentrate a campaign on how to be a good dog owner.
+
 
 
 ```{r}
@@ -412,6 +447,8 @@ national_outcomes_pets <-  national_outcomes %>%
 
 national_outcomes_pets
 
+ggsave("national_outcomes_pets.png")
+
 ```
 The outcome for complaint when the animal is taken in custody by RSPCA from 1999.
 The most common outcome for cats is to be euthanised, and they are not reclaimed as often a dogs and I am not sure how many how the rehoming are successful, I can imagine that a cat that gets returned to RSPCA or ends up again in the street is not a rare scenario, that would explain the difference in numbers for euthanised and reclaimed with dogs.
@@ -422,7 +459,7 @@ Cats	1117506
 Dogs	1149320
 
 ```{r}
-euthanisation_trendcats_dogs <- national_outcomes %>%  
+euthanisation_trend_cats_dogs <- national_outcomes %>%  
   filter(animal_type == "Cats" | animal_type == "Dogs") %>% 
   filter(outcome == "Euthanized") %>%
   mutate(animal_type = str_to_lower(animal_type)) %>% 
@@ -444,7 +481,9 @@ euthanisation_trendcats_dogs <- national_outcomes %>%
   theme_bw() +
   theme(text=element_text(size = 14, family = "Arial"))
 
-euthanisation_trendcats_dogs
+euthanisation_trend_cats_dogs
+
+ggsave("euthanisation_trend_cats_dogs.png")
 ```
 The good news is that the trend is changing, since the 2010s euthanisations have dropped drastically.
 
@@ -472,8 +511,10 @@ rehoming_trendcats_dogs <- national_outcomes %>%
   theme(text=element_text(size = 14, family = "Arial"))
 
 rehoming_trendcats_dogs
+
+ggsave("rehoming_trendcats_dogs.png")
 ```
-Rehoming numbers for cats have increase drastically since the 2010s, but again I have doubts on how many of these were succesfull.
+Rehoming numbers for cats have increase drastically since the 2010s, but again I have doubts on how many of these were succesful.
 
 ```{r}
 reclaimed_trendcats_dogs <- national_outcomes %>%  
@@ -499,6 +540,8 @@ reclaimed_trendcats_dogs <- national_outcomes %>%
   theme(text=element_text(size = 14, family = "Arial"))
 
 reclaimed_trendcats_dogs
+
+ggsave("reclaimed_trendcats_dogs.png")
 ```
 The reclaimed trends for cats hasn't been that great and it's stable during the years.
 For dog the trend is going down although this couldn't been so gloom, with the diffusion of social media and in particular neighbourhood pages, when a dog go missing the voice is spread quickly and usualy they are found before RSPCA intervention. 
@@ -589,12 +632,14 @@ outcome_fit_state <- rpart(
   method = 'class'
 )
 
-rpart.plot(outcome_fit_state, 
+rpart.plot(outcome_fit_state , 
            yesno = 2,
            fallen.leaves = TRUE, 
            faclen = 6, 
            digits = 2)
 ```
+		
+
 
 ```{r}
 outcome_fit_animal <- rpart(
@@ -623,3 +668,6 @@ rpart.plot(outcome_fit_all,
            faclen = 6, 
            digits = 2)
 ```
+
+
+
