@@ -7,6 +7,7 @@ output: html_notebook
 library(rpart)
 library(rpart.plot)
 library(here)
+library(forcats)
 library(janitor)
 library(tidyverse)
 ```
@@ -28,11 +29,15 @@ national_outcomes <- read_csv(here(
 
 brisbane_complaints <- read_csv(here(
   "clean_data/brisbane_complaints_clean.csv")
-  )
+  ) %>% 
+  mutate(suburb = str_to_title(suburb)
+         )
 
 brisbane_complaints_tot_per_suburb <- read_csv(here(
   "clean_data/brisbane_complaints_tot_per_suburb.csv")
-  )
+  ) %>% 
+  mutate(suburb = str_to_title(suburb)
+         )
 
 townsville_complaints
 townsville_complaints_tot_per_suburb
@@ -45,7 +50,8 @@ national_outcomes
 ```{r}
 townsville_complaints_tot_plot <- townsville_complaints %>% 
   ggplot() +
-  geom_bar(position = "dodge", aes(x = complaint_type, fill = animal_type)) +
+  geom_bar(aes(y = fct_infreq(complaint_type), 
+                                   fill = animal_type)) +
   labs(x = "Complaint Type", 
        y = "Totals", 
        title = "Townsville Complaint Type Totals") +
@@ -54,7 +60,9 @@ townsville_complaints_tot_plot <- townsville_complaints %>%
                     ) +
   theme_bw() +
   theme(text=element_text(size = 16, family = "Arial"),
-        axis.text.x = element_text(angle = 45, hjust = 1))
+        axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "none") +
+  facet_wrap(~ animal_type)
   
 
 townsville_complaints_tot_plot
@@ -72,7 +80,7 @@ brisbane_complaints_tot_plot <- brisbane_complaints %>%
   filter(animal_type %in% "cat" | animal_type %in% "dog") %>% 
   filter(!category %in% exclude) %>% 
   ggplot() +
-  geom_bar(position = "dodge", aes(x = category, fill = animal_type)) +
+  geom_bar(aes(y = fct_infreq(category), fill = animal_type)) +
   labs(x = "Complaint Type", 
        y = "Totals", 
        title = "Brisbane Complaint Type Totals") +
@@ -81,13 +89,22 @@ brisbane_complaints_tot_plot <- brisbane_complaints %>%
                     ) +
   theme_bw() +
   theme(text=element_text(size = 16, family = "Arial"),
-        axis.text.x = element_text(angle = 45, hjust = 1))
+        axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "none") +
+  facet_wrap(~ animal_type)
   
 
 brisbane_complaints_tot_plot
 
 ggsave("brisbane_complaints_tot_plot.png")
 ```
+```{r}
+brisbane_complaints %>% 
+  group_by(animal_type, category) %>% 
+  summarise(n = n())
+```
+
+
 In Brisbane again, dogs are again the focus of complains.
 We can notice some difference from Townsville, there is more variety of complains and looks like in Brisbane dogs have something for fences.
 Also, it seems to be an issue with foxes. 
@@ -107,11 +124,11 @@ brisbane_complaints_fox_plot <- brisbane_complaints %>%
   labs(x = "Complaint Type", 
        y = "Totals", 
        title = "Brisbane Fox Troubles") +
-  scale_fill_manual("Grievances", values = c("cat" = "#74c066",
-                                             "dog" = "#0193cf",
+  scale_fill_manual("Grievances", values = c("cat trapping" = "#73182c", 
                                              "other animal" = "#d6a115",
                                              "attack" = "#244321",
-                                             "cat trapping" = "#73182c")
+                                             "cat " = "#74c066",
+                                             "dog" = "#0193cf")
                     ) +
   theme_bw() +
   theme(text=element_text(size = 16, family = "Arial"))
@@ -139,6 +156,7 @@ brisbane_complaints_fox_per_suburbs <- brisbane_complaints_tot_per_suburb %>%
                                               "attack" = "#244321",
                                               "other animal" = "#d6a115")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, family = "Arial"),
         plot.caption = element_text(hjust = 1.4, face = "italic"))
@@ -167,6 +185,7 @@ brisbane_complaints_by_suburbs <- brisbane_complaints_tot_per_suburb %>%
    scale_fill_manual("Animal Type", values = c("cat" = "#74c066",
                                               "dog" = "#0193cf")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, family = "Arial"),
         axis.text.x = element_text(angle = 60, hjust = 1),
@@ -199,6 +218,7 @@ brisbane_subs_complaints_type_dogs <- brisbane_complaints_tot_per_suburb %>%
                                                   "unregistered" = "#244321",
                                                   "wandering" = "#d6a115")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, family = "Arial"),
         plot.caption = element_text(hjust = 1.4, face = "italic"))
@@ -227,6 +247,7 @@ brisbane_subs_complaints_type_cats <- brisbane_complaints_tot_per_suburb %>%
   scale_fill_manual("Complaints Type", values = c("fox" = "#74c066",
                                                   "wandering" = "#0193cf")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, family = "Arial"),
         plot.caption = element_text(hjust = 1.4, face = "italic"))
@@ -261,6 +282,7 @@ townsville_complaints_by_suburbs <- townsville_complaints_tot_per_suburb %>%
   scale_fill_manual("Complaints Type", values = c("cat" = "#74c066",
                                                   "dog" = "#0193cf")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, family = "Arial"),
         plot.caption = element_text(hjust = 1.4, face = "italic"))
@@ -287,6 +309,7 @@ townsville_complaints_type_cats <- townsville_complaints_tot_per_suburb %>%
                                                   "private impound" = "#0193cf",
                                                   "wandering" = "#244321")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, family = "Arial"),
         axis.text.x = element_text(angle = 60, hjust = 1),
@@ -317,6 +340,7 @@ townsville_complaints_type_dogs <- townsville_complaints_tot_per_suburb %>%
                                                   "noise" = "#73182c",
                                                   "aggressive animal" = "#ff0000")
                     ) +
+  scale_y_discrete(limits = rev) +
   theme_bw() +
   theme(text=element_text(size = 10, 0.1, family = "Arial"),
         plot.caption = element_text(hjust = 1.4, face = "italic")) 
@@ -430,26 +454,29 @@ national_outcomes_pets <-  national_outcomes %>%
   summarise(tot = sum(tot_outcomes)) %>% 
   drop_na() %>% 
   ggplot() +
-  geom_col(position = "dodge", colour = "white", aes(x = outcome, 
-                                                     y = tot, 
+  geom_col(position = "dodge", colour = "white", aes(y = fct_infreq(outcome), 
+                                                     x = tot, 
                                                      fill = animal_type)
            )+
-  labs(x = "Outcome", 
-       y = "Totals", 
+  labs(y = "Outcome", 
+       x = "Totals", 
        title = "National Complaint Outcome per animal type since 1999") +
   scale_fill_manual("Animal Type", values = c("cats" = "#74c066",
                                                   "dogs" = "#0193cf")
                     ) +
-  scale_y_continuous(labels = scales::comma) +
+  scale_x_continuous(labels = scales::comma) +
   theme_bw() +
   theme(text=element_text(size = 14, family = "Arial"),
-        axis.text.x = element_text(angle = 45, hjust = 1))
+        axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "none") +
+  facet_wrap(~animal_type)
 
 national_outcomes_pets
 
 ggsave("national_outcomes_pets.png")
 
 ```
+
 The outcome for complaint when the animal is taken in custody by RSPCA from 1999.
 The most common outcome for cats is to be euthanised, and they are not reclaimed as often a dogs and I am not sure how many how the rehoming are successful, I can imagine that a cat that gets returned to RSPCA or ends up again in the street is not a rare scenario, that would explain the difference in numbers for euthanised and reclaimed with dogs.
 
@@ -668,6 +695,8 @@ rpart.plot(outcome_fit_all,
            faclen = 6, 
            digits = 2)
 ```
+
+
 
 
 
